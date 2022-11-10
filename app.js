@@ -4,6 +4,7 @@ import Fastify from 'fastify'
 
 // Plugins
 import envPlugin from './src/plugins/env/envPlugin.js'
+import pgConnectPlugin from './src/plugins/postgres/postgresPlugin.js'
 
 // Routes
 import { homeRoute } from './src/routes/home.js'
@@ -13,10 +14,13 @@ import { homeRoute } from './src/routes/home.js'
 // Создаём сервер
 const fastify = Fastify({ logger: true })
 
-// Инициилизируем Env
-fastify.register(envPlugin).ready((err) => console.log(err))
-
-/* =================== База данных =================== */
+// Инициация приложения
+const init = () => {
+  fastify.register(envPlugin).ready((err) => console.log(err))
+  fastify.after()
+  fastify.register(pgConnectPlugin).ready((err) => console.log(err))
+}
+init()
 
 /* =============== Подключение  Routes =============== */
 fastify.register(homeRoute)
@@ -34,5 +38,5 @@ fastify.listen({ port: PORT }, (err, adsress) => {
     fastify.log.error(err)
     process.exit(1)
   }
-  console.log(`Fastify listening on: ${adsress}`)
+  console.log(`Fastify listening on: ${fastify.server.address().port}`)
 })

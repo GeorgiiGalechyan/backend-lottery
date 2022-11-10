@@ -9,13 +9,14 @@ import fastifyEnv from '@fastify/env'
 
 const schema = {
   type: 'object',
-  required: ['PORT', 'HOST', 'PG_USERNAME', 'PG_PASSWORD', 'PG_HOST', 'PG_DB_NAME', 'JWT_SECRET'],
+  required: ['PORT', 'HOST', 'PG_USERNAME', 'PG_PASSWORD', 'PG_HOST', 'PG_PORT', 'PG_DB_NAME', 'JWT_SECRET'],
   properties: {
     PORT: { type: 'string' },
     HOST: { type: 'string' },
     PG_USERNAME: { type: 'string' },
     PG_PASSWORD: { type: 'string' },
     PG_HOST: { type: 'string' },
+    PG_PORT: { type: string },
     PG_DB_NAME: { type: 'string' },
     JWT_SECRET: { type: 'string' },
   },
