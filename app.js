@@ -1,42 +1,37 @@
-/* =================== Импорты =================== */
-
 import Fastify from 'fastify'
-
-// Plugins
-import envPlugin from './src/plugins/env/envPlugin.js'
-import pgConnectPlugin from './src/plugins/postgres/postgresPlugin.js'
-
-// Routes
-import { homeRoute } from './src/routes/home.js'
+import fp from 'fastify-plugin'
 
 /* =================== Основой поток =================== */
 
-// Создаём сервер
-const fastify = Fastify({ logger: true })
+const init = async () => {
+  const fastify = Fastify({ logger: true })
 
-// Инициация приложения
-const init = () => {
-  fastify.register(envPlugin).ready((err) => console.log(err))
-  fastify.after()
-  fastify.register(pgConnectPlugin).ready((err) => console.log(err))
-}
-init()
+  // Регистриуем плагины
+  await fastify.register(import('./src/plugins/env/envPlugin.js'))
+  await fastify.register(import('./src/plugins/postgres/pgPlugin.js'))
 
-/* =============== Подключение  Routes =============== */
-fastify.register(homeRoute)
+  // Регистрируем роуты
+  await fastify.register(import('./src/routes/home.js'))
 
-/* ================= Запуск  сервера ================= */
-const PORT = process.env.PORT
+  // Запуск прослушивания порта сервером
+  console.log('starting server')
 
-const serverConfig = {
-  port: process.env.PORT,
-  host: process.env.HOST || '127.0.0.1',
-}
-
-fastify.listen({ port: PORT }, (err, adsress) => {
-  if (err) {
-    fastify.log.error(err)
-    process.exit(1)
+  const listenHandler = (err, address) => {
+    try {
+      console.log(`Fastify listening on: ${fastify.server.address().port}`)
+    } catch (err) {
+      fastify.log.error(err)
+      process.exit(1)
+    }
   }
-  console.log(`Fastify listening on: ${fastify.server.address().port}`)
-})
+
+  fastify.listen({ port: process.env.PORT || 5000 }, (err, address) => {
+    if (err) {
+      fastify.log.error(err)
+      fastify.exit(1)
+    }
+    console.log(`Fastify listening on: ${address}`)
+  })
+}
+
+init()
