@@ -1,37 +1,40 @@
-import Fastify from 'fastify'
-import fp from 'fastify-plugin'
+// import { fileURLToPath } from 'url'
+// import { dirname, join } from 'path'
+// const __filename = fileURLToPath(import.meta.url)
+// const __dirname = dirname(__filename)
 
-/* =================== Основой поток =================== */
+/* =================== Imports =================== */
+import _ from './src/services/env/env-scheme.js'
+import fastify from 'fastify'
 
-const init = async () => {
-  const fastify = Fastify({ logger: true })
+const { default: pino } = await import('./src/services/pino/config/config.js')
 
-  // Регистриуем плагины
-  await fastify.register(import('./src/plugins/env/envPlugin.js'))
-  await fastify.register(import('./src/plugins/postgres/pgPlugin.js'))
+/* =================== Main thread =================== */
 
-  // Регистрируем роуты
-  await fastify.register(import('./src/routes/home.js'))
+// Create server
+const app = fastify({ logger: pino.dev ?? true })
 
-  // Запуск прослушивания порта сервером
-  console.log('starting server')
+// Registering plugins
+await app.register(import('./src/plugins/postgres/plugin.js'))
 
-  const listenHandler = (err, address) => {
-    try {
-      console.log(`Fastify listening on: ${fastify.server.address().port}`)
-    } catch (err) {
-      fastify.log.error(err)
-      process.exit(1)
-    }
+// Registering routes
+await app.register(import('./src/routes/home.js'))
+
+// Start listening
+const start = async () => {
+  try {
+    await app.listen({ port: process.env.PORT || 5000 })
+  } catch (err) {
+    app.log.error(err)
+    process.exit(1)
   }
-
-  fastify.listen({ port: process.env.PORT || 5000 }, (err, address) => {
-    if (err) {
-      fastify.log.error(err)
-      fastify.exit(1)
-    }
-    console.log(`Fastify listening on: ${address}`)
-  })
 }
+start()
 
-init()
+app.log.trace({ msg: 'Trace event or message' })
+app.log.debug({ msg: 'Debug event or message' })
+app.log.info({ msg: 'Info event or message' })
+app.log.warn({ msg: 'Warn event or message' })
+app.log.error({ msg: 'Error event or message' })
+app.log.fatal({ msg: 'Fatal event or message' })
+app.log.silent({ msg: 'Silent event or message' })
