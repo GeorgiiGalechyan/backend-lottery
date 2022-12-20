@@ -1,5 +1,20 @@
 ## **Задачи на ближайшее время**
 
+### **Логирование**
+
+**Инструменты:**
+
+- [@fastify/one-line-logger](https://github.com/fastify/one-line-logger) - По сути это надстройка над pino-pretty. Форматирует журнал fastify в красивое однострочное сообщение:
+
+```
+// YYYY-MM-dd HH:mm:ss.SSSTZ - <level> - <method> <route path> - <message>
+
+// 2022-08-11 01:08:02.194+0100 - info - GET / - incoming request
+```
+
+- [@mgcrea/fastify-request-logger](https://github.com/mgcrea/fastify-request-logger) - Плагин для логирования запросов для fastify .
+- [cls-rtracer](https://github.com/puzpuzpuz/cls-rtracer) - Плагин для генерации идентификаторов запросов на основе CLS.
+
 ### **Авторизация**
 
 **Инструменты:**
