@@ -1,7 +1,9 @@
-// import { fileURLToPath } from 'url'
-// import { dirname, join } from 'path'
-// const __filename = fileURLToPath(import.meta.url)
-// const __dirname = dirname(__filename)
+// Adding __filename and __dirname for ES6 modules.
+
+import { fileURLToPath } from 'url'
+import { dirname, join } from 'path'
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
 
 /* =================== Imports =================== */
 import _ from './src/services/env/env-scheme.js'

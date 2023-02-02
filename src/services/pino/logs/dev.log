@@ -1,50 +1,8 @@
-{"level":40,"time":1669503516348,"pid":8020,"hostname":"MY-PC","msg":"Warn event or message"}
-{"level":50,"time":1669503516348,"pid":8020,"hostname":"MY-PC","msg":"Error event or message"}
-{"level":60,"time":1669503516348,"pid":8020,"hostname":"MY-PC","msg":"Fatal event or message"}
-{"level":30,"time":1669503582558,"pid":10096,"hostname":"MY-PC","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1669503582571,"pid":10096,"hostname":"MY-PC","msg":"Info event or message"}
-{"level":40,"time":1669503582571,"pid":10096,"hostname":"MY-PC","msg":"Warn event or message"}
-{"level":50,"time":1669503582571,"pid":10096,"hostname":"MY-PC","msg":"Error event or message"}
-{"level":60,"time":1669503582571,"pid":10096,"hostname":"MY-PC","msg":"Fatal event or message"}
-{"level":30,"time":1669503582746,"pid":10096,"hostname":"MY-PC","msg":"Server listening at http://[::1]:5500"}
-{"level":30,"time":1669503582749,"pid":10096,"hostname":"MY-PC","msg":"Server listening at http://127.0.0.1:5500"}
-{"level":30,"time":1669503586363,"pid":10096,"hostname":"MY-PC","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"localhost:5500","remoteAddress":"127.0.0.1","remotePort":49723},"msg":"incoming request"}
-{"level":30,"time":1669503586377,"pid":10096,"hostname":"MY-PC","reqId":"req-1","res":{"statusCode":200},"responseTime":13.421599984169006,"msg":"request completed"}
-{"level":30,"time":1669503592273,"pid":10096,"hostname":"MY-PC","reqId":"req-2","req":{"method":"GET","url":"/","hostname":"localhost:5500","remoteAddress":"127.0.0.1","remotePort":49723},"msg":"incoming request"}
-{"level":30,"time":1669503592275,"pid":10096,"hostname":"MY-PC","reqId":"req-2","res":{"statusCode":200},"responseTime":1.715499997138977,"msg":"request completed"}
-{"level":30,"time":1669503614745,"pid":10128,"hostname":"MY-PC","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1669503614757,"pid":10128,"hostname":"MY-PC","msg":"Info event or message"}
-{"level":40,"time":1669503614757,"pid":10128,"hostname":"MY-PC","msg":"Warn event or message"}
-{"level":50,"time":1669503614757,"pid":10128,"hostname":"MY-PC","msg":"Error event or message"}
-{"level":60,"time":1669503614757,"pid":10128,"hostname":"MY-PC","msg":"Fatal event or message"}
-{"level":30,"time":1669503614952,"pid":10128,"hostname":"MY-PC","msg":"Server listening at http://[::1]:5500"}
-{"level":30,"time":1669503614959,"pid":10128,"hostname":"MY-PC","msg":"Server listening at http://127.0.0.1:5500"}
-{"level":30,"time":1669503617486,"pid":10128,"hostname":"MY-PC","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"localhost:5500","remoteAddress":"127.0.0.1","remotePort":49726},"msg":"incoming request"}
-{"level":30,"time":1669503617497,"pid":10128,"hostname":"MY-PC","reqId":"req-1","res":{"statusCode":200},"responseTime":10.019400000572205,"msg":"request completed"}
-{"level":30,"time":1669503621381,"pid":10128,"hostname":"MY-PC","reqId":"req-2","req":{"method":"GET","url":"/","hostname":"localhost:5500","remoteAddress":"127.0.0.1","remotePort":49726},"msg":"incoming request"}
-{"level":30,"time":1669503621382,"pid":10128,"hostname":"MY-PC","reqId":"req-2","res":{"statusCode":200},"responseTime":1.1926000118255615,"msg":"request completed"}
-{"level":30,"time":1669503654026,"pid":8592,"hostname":"MY-PC","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1669503654038,"pid":8592,"hostname":"MY-PC","msg":"Info event or message"}
-{"level":40,"time":1669503654038,"pid":8592,"hostname":"MY-PC","msg":"Warn event or message"}
-{"level":50,"time":1669503654038,"pid":8592,"hostname":"MY-PC","msg":"Error event or message"}
-{"level":60,"time":1669503654038,"pid":8592,"hostname":"MY-PC","msg":"Fatal event or message"}
-{"level":30,"time":1669503654230,"pid":8592,"hostname":"MY-PC","msg":"Server listening at http://[::1]:5500"}
-{"level":30,"time":1669503654232,"pid":8592,"hostname":"MY-PC","msg":"Server listening at http://127.0.0.1:5500"}
-{"level":30,"time":1669503778019,"pid":6892,"hostname":"MY-PC","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1669503778031,"pid":6892,"hostname":"MY-PC","msg":"Info event or message"}
-{"level":40,"time":1669503778032,"pid":6892,"hostname":"MY-PC","msg":"Warn event or message"}
-{"level":50,"time":1669503778032,"pid":6892,"hostname":"MY-PC","msg":"Error event or message"}
-{"level":60,"time":1669503778032,"pid":6892,"hostname":"MY-PC","msg":"Fatal event or message"}
-{"level":30,"time":1669503778198,"pid":6892,"hostname":"MY-PC","msg":"Server listening at http://[::1]:5500"}
-{"level":30,"time":1669503778200,"pid":6892,"hostname":"MY-PC","msg":"Server listening at http://127.0.0.1:5500"}
-{"level":30,"time":1669503781174,"pid":6892,"hostname":"MY-PC","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"localhost:5500","remoteAddress":"127.0.0.1","remotePort":49735},"msg":"incoming request"}
-{"level":30,"time":1669503781187,"pid":6892,"hostname":"MY-PC","reqId":"req-1","res":{"statusCode":200},"responseTime":12.77759999036789,"msg":"request completed"}
-{"level":30,"time":1669503804918,"pid":13004,"hostname":"MY-PC","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1669503804929,"pid":13004,"hostname":"MY-PC","msg":"Info event or message"}
-{"level":40,"time":1669503804929,"pid":13004,"hostname":"MY-PC","msg":"Warn event or message"}
-{"level":50,"time":1669503804929,"pid":13004,"hostname":"MY-PC","msg":"Error event or message"}
-{"level":60,"time":1669503804929,"pid":13004,"hostname":"MY-PC","msg":"Fatal event or message"}
-{"level":30,"time":1669503805109,"pid":13004,"hostname":"MY-PC","msg":"Server listening at http://[::1]:5500"}
-{"level":30,"time":1669503805111,"pid":13004,"hostname":"MY-PC","msg":"Server listening at http://127.0.0.1:5500"}
-{"level":30,"time":1669503807096,"pid":13004,"hostname":"MY-PC","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"localhost:5500","remoteAddress":"127.0.0.1","remotePort":49738},"msg":"incoming request"}
-{"level":30,"time":1669503807107,"pid":13004,"hostname":"MY-PC","reqId":"req-1","res":{"statusCode":200},"responseTime":9.772999942302704,"msg":"request completed"}
+
+{"level":30,"time":1675342893751,"pid":3904,"hostname":"MY-PC","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1675342893762,"pid":3904,"hostname":"MY-PC","msg":"Info event or message"}
+{"level":40,"time":1675342893762,"pid":3904,"hostname":"MY-PC","msg":"Warn event or message"}
+{"level":50,"time":1675342893762,"pid":3904,"hostname":"MY-PC","msg":"Error event or message"}
+{"level":60,"time":1675342893762,"pid":3904,"hostname":"MY-PC","msg":"Fatal event or message"}
+{"level":30,"time":1675342893927,"pid":3904,"hostname":"MY-PC","msg":"Server listening at http://[::1]:5500"}
+{"level":30,"time":1675342893930,"pid":3904,"hostname":"MY-PC","msg":"Server listening at http://127.0.0.1:5500"}
