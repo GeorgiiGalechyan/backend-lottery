@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename)
 const targets = [
   {
     name: 'dev-terminal', // можно не указывать
-    level: process.env.PINO_LOG_DEV_LEVEL || 'warn',
+    level: process.env.PINO_LOG_DEV_LEVEL || 'info',
     target: 'pino-pretty',
     options: {
       // настройки pino-pretty

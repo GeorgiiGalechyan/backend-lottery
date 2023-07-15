@@ -1,0 +1,149 @@
+{"level":30,"time":1689441199046,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Info event or message"}
+{"level":40,"time":1689441199047,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Warn event or message"}
+{"level":50,"time":1689441199047,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Error event or message"}
+{"level":60,"time":1689441199047,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Fatal event or message"}
+{"level":30,"time":1689441199305,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5000"}
+{"level":30,"time":1689441199309,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5000"}
+{"level":30,"time":1689441205097,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689441205112,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Info event or message"}
+{"level":40,"time":1689441205112,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Warn event or message"}
+{"level":50,"time":1689441205112,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Error event or message"}
+{"level":60,"time":1689441205112,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Fatal event or message"}
+{"level":30,"time":1689441205307,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5000"}
+{"level":30,"time":1689441205310,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5000"}
+{"level":30,"time":1689441281414,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689441281428,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Info event or message"}
+{"level":40,"time":1689441281428,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Warn event or message"}
+{"level":50,"time":1689441281428,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Error event or message"}
+{"level":60,"time":1689441281428,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Fatal event or message"}
+{"level":30,"time":1689441281604,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5000"}
+{"level":30,"time":1689441281606,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5000"}
+{"level":30,"time":1689441295473,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689441295486,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Info event or message"}
+{"level":40,"time":1689441295486,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Warn event or message"}
+{"level":50,"time":1689441295486,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Error event or message"}
+{"level":60,"time":1689441295486,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Fatal event or message"}
+{"level":30,"time":1689441295680,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5000"}
+{"level":30,"time":1689441295683,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5000"}
+{"level":30,"time":1689441533203,"pid":4508,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689441533235,"pid":4508,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5500"}
+{"level":30,"time":1689441533238,"pid":4508,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5500"}
+{"level":50,"time":1689441533239,"pid":4508,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"port is not defined","stack":"ReferenceError: port is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:30:52)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"port is not defined"}
+{"level":30,"time":1689441549327,"pid":13932,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689441549352,"pid":13932,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5500"}
+{"level":30,"time":1689441549354,"pid":13932,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5500"}
+{"level":30,"time":1689441549355,"pid":13932,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту undefined"}
+{"level":30,"time":1689441656609,"pid":7028,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689441656621,"pid":7028,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:59)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
+{"level":30,"time":1689441665310,"pid":14312,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689441665323,"pid":14312,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:59)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
+{"level":30,"time":1689441678130,"pid":4264,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689441678143,"pid":4264,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:59)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
+{"level":30,"time":1689441784131,"pid":10180,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689441784144,"pid":10180,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:59)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
+{"level":30,"time":1689441997650,"pid":12572,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689441997674,"pid":12572,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:61)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
+{"level":30,"time":1689442002434,"pid":2160,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689442002449,"pid":2160,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:83)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
+{"level":30,"time":1689442033053,"pid":12676,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689442033067,"pid":12676,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"addre is not defined","stack":"ReferenceError: addre is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:31:28)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:40:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"addre is not defined"}
+{"level":30,"time":1689442034346,"pid":7924,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689442034362,"pid":7924,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"address is not defined","stack":"ReferenceError: address is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:31:28)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:40:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"address is not defined"}
+{"level":30,"time":1689442044448,"pid":2836,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689442044466,"pid":2836,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:32:9)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:40:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
+{"level":30,"time":1689442048033,"pid":13504,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689442048045,"pid":13504,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:34:8)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:43:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
+{"level":30,"time":1689442058938,"pid":12536,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442058970,"pid":12536,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://[::1]:5500"}
+{"level":30,"time":1689442058970,"pid":12536,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442058973,"pid":12536,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://127.0.0.1:5500"}
+{"level":30,"time":1689442058973,"pid":12536,"hostname":"GeorgiGalechyan"}
+{"level":50,"time":1689442058974,"pid":12536,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"address is not defined","stack":"ReferenceError: address is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:35:52)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"address is not defined"}
+{"level":30,"time":1689442061311,"pid":2584,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442061338,"pid":2584,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://[::1]:5500"}
+{"level":30,"time":1689442061338,"pid":2584,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442061341,"pid":2584,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://127.0.0.1:5500"}
+{"level":30,"time":1689442061341,"pid":2584,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442101744,"pid":10692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442101777,"pid":10692,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту 11 http://[::1]:5500"}
+{"level":30,"time":1689442101777,"pid":10692,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442101781,"pid":10692,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту 11 http://127.0.0.1:5500"}
+{"level":30,"time":1689442101781,"pid":10692,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442106996,"pid":8100,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442107025,"pid":8100,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://[::1]:5500"}
+{"level":30,"time":1689442107025,"pid":8100,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442107030,"pid":8100,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://127.0.0.1:5500"}
+{"level":30,"time":1689442107030,"pid":8100,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442124307,"pid":10696,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442124335,"pid":10696,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442124335,"pid":10696,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442124339,"pid":10696,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442124339,"pid":10696,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442183233,"pid":14144,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442183266,"pid":14144,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442183266,"pid":14144,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442183270,"pid":14144,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442183270,"pid":14144,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442198588,"pid":9268,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442198616,"pid":9268,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442198616,"pid":9268,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442198619,"pid":9268,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442198619,"pid":9268,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442208950,"pid":7480,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442208984,"pid":7480,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442208984,"pid":7480,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442208988,"pid":7480,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442208988,"pid":7480,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442213353,"pid":4400,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442213381,"pid":4400,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442213381,"pid":4400,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442213385,"pid":4400,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442213385,"pid":4400,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442219773,"pid":2172,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442219806,"pid":2172,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442219806,"pid":2172,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442219810,"pid":2172,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442219810,"pid":2172,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442231014,"pid":8220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":50,"time":1689442231040,"pid":8220,"hostname":"GeorgiGalechyan","err":{"type":"Error","message":"getaddrinfo ENOENT 0.0.0.0.","stack":"Error: getaddrinfo ENOENT 0.0.0.0.\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-4058,"code":"ENOENT","syscall":"getaddrinfo","hostname":"0.0.0.0."},"msg":"getaddrinfo ENOENT 0.0.0.0."}
+{"level":30,"time":1689442250079,"pid":13300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442250108,"pid":13300,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442250109,"pid":13300,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442250112,"pid":13300,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442250112,"pid":13300,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442252572,"pid":13936,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442252603,"pid":13936,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442252603,"pid":13936,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442252607,"pid":13936,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442252607,"pid":13936,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442260519,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442260546,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442260546,"pid":8256,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442260550,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442260550,"pid":8256,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442264326,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442264348,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442264348,"pid":4804,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442264352,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442264352,"pid":4804,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1689442280858,"pid":2044,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442280885,"pid":2044,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442280890,"pid":2044,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442286917,"pid":2160,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442286941,"pid":2160,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442286945,"pid":2160,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442314831,"pid":2124,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442314858,"pid":2124,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442314861,"pid":2124,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442323813,"pid":10864,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442323846,"pid":10864,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442323849,"pid":10864,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442335038,"pid":12044,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442335064,"pid":12044,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442335067,"pid":12044,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442343573,"pid":11408,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442343598,"pid":11408,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442343601,"pid":11408,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
+{"level":30,"time":1689442404777,"pid":6500,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1689442404810,"pid":6500,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
+{"level":30,"time":1689442404814,"pid":6500,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}

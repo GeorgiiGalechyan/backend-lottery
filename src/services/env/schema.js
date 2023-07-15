@@ -9,12 +9,18 @@ export default {
     // PINO
     'PINO_LOG_DEV_LEVEL',
     'PINO_LOG_PROD_LEVEL',
-    // PostgreSQL
-    'PG_USERNAME_DEV',
-    'PG_PASSWORD_DEV',
+    // Postgres DEV (DB connection)
     'PG_HOST_DEV',
     'PG_PORT_DEV',
+    'PG_USERNAME_DEV',
+    'PG_PASSWORD_DEV',
     'PG_DB_NAME_DEV',
+    // Postgres PROD (DB connection)
+    'PG_HOST_PROD',
+    'PG_PORT_PROD',
+    'PG_USERNAME_PROD',
+    'PG_PASSWORD_PROD',
+    'PG_DB_NAME_PROD',
     // JWT
     'JWT_SECRET',
   ],
