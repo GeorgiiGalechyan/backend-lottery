@@ -59,5 +59,3 @@ export default {
     },
   },
 }
-
-const test = false

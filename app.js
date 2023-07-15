@@ -9,6 +9,7 @@ const __dirname = dirname(__filename)
 import _ from './src/services/env/env-scheme.js'
 import fastify from 'fastify'
 
+// pino - config object {dev, prod, test}
 const { default: pino } = await import('./src/services/pino/config/config.js')
 
 /* =================== Main thread =================== */
@@ -17,7 +18,7 @@ const { default: pino } = await import('./src/services/pino/config/config.js')
 const app = fastify({ logger: pino.dev ?? true })
 
 // Registering plugins
-await app.register(import('./src/plugins/postgres/plugin.js'))
+// await app.register(import('./src/plugins/postgres/plugin.js'))
 
 // Registering routes
 await app.register(import('./src/routes/home.js'))
@@ -25,12 +26,13 @@ await app.register(import('./src/routes/home.js'))
 // Start listening
 const start = async () => {
   try {
-    await app.listen({ port: process.env.PORT || 5000 })
+    await app.listen({ port: /*process.env.PORT || */ 5000 })
   } catch (err) {
     app.log.error(err)
     process.exit(1)
   }
 }
+
 start()
 
 app.log.trace({ msg: 'Trace event or message' })

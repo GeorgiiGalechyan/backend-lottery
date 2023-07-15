@@ -1,8 +1,0 @@
-
-{"level":30,"time":1675342893751,"pid":3904,"hostname":"MY-PC","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1675342893762,"pid":3904,"hostname":"MY-PC","msg":"Info event or message"}
-{"level":40,"time":1675342893762,"pid":3904,"hostname":"MY-PC","msg":"Warn event or message"}
-{"level":50,"time":1675342893762,"pid":3904,"hostname":"MY-PC","msg":"Error event or message"}
-{"level":60,"time":1675342893762,"pid":3904,"hostname":"MY-PC","msg":"Fatal event or message"}
-{"level":30,"time":1675342893927,"pid":3904,"hostname":"MY-PC","msg":"Server listening at http://[::1]:5500"}
-{"level":30,"time":1675342893930,"pid":3904,"hostname":"MY-PC","msg":"Server listening at http://127.0.0.1:5500"}

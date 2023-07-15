@@ -7,3 +7,11 @@ export default {
   prod,
   test,
 }
+
+// let aaa = {
+//   dev,
+//   prod,
+//   test,
+// }
+//
+// console.log(aaa)
