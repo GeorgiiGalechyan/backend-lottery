@@ -22,6 +22,7 @@ await app.register(import('./src/plugins/postgres/plugin.js'))
 
 // Registering routes
 await app.register(import('./src/routes/home.js'))
+await app.register(import('./src/routes/register.js'))
 
 // Start listening
 const start = async () => {
@@ -29,7 +30,7 @@ const start = async () => {
     app.listen({
       host: process.env.HOST || 'localhost',
       port: process.env.PORT || 5000,
-      listenTextResolver: (address) => `Сервер запущен по адресу ${address}`,
+      listenTextResolver: (address) => `Server listening on address ${address}`,
     })
   } catch (err) {
     app.log.error(err)
@@ -38,11 +39,3 @@ const start = async () => {
 }
 
 start()
-
-// app.log.trace({ msg: 'Trace event or message' })
-// app.log.debug({ msg: 'Debug event or message' })
-// app.log.info({ msg: 'Info event or message' })
-// app.log.warn({ msg: 'Warn event or message' })
-// app.log.error({ msg: 'Error event or message' })
-// app.log.fatal({ msg: 'Fatal event or message' })
-// app.log.silent({ msg: 'Silent event or message' })

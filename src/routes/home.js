@@ -1,3 +1,7 @@
+const options = {
+
+}
+
 export default async (app) => {
   await app.get('/', { loglevel: 'info' }, async function (request, reply) {
     try {
