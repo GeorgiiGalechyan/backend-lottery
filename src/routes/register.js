@@ -1,53 +1,32 @@
-const getOptions = {
+const regUserGetSchema = {
   logLevel: 'info',
-}
-
-const postOptions = {
-  logLevel: 'info',
+  schema: {
+    response: {
+      200: {},
+      404: {},
+    },
+  },
 }
 
 app.get('/reg', getOptions, async function (request, reply) {
   await reply.send('Это страница регистрации нового пользователя')
 })
 
-// const regMsg = {
-//   fail: {
-//     status: 'fail',
-//     reason: '',
-// 
-//     msgRU: 'Регистрация провалилась :(',
-//     msgEN: 'Registration failed :(',
-//   },
-//   successful: {
-//     status: 'successful',
-//     msgRU: 'Вы зарегистрированы :)',
-//     msgEN: 'Registration was successful :)',
-//   },
-// }
-// 
-// const regFailLog = {
-//   code: {
-//     num: '',
-//     reasonRU: 'Логин или пароль не соответствуют требованиям.',
-//     reasonEN: '',
-//     msgRU: '',
-//     msgEN: '',
-//   },
-// }
-
-const userDataSchema = {
-  body: {
-    type: 'object',
-    properties: {
-      login: { type: 'string' },
-      password: { type: 'string' }
-    }
-  }
-
-
+const regUserPostSchema = {
+  logLevel: 'info',
+  schema: {
+    body: {
+      type: 'object',
+      required: ['login', 'password', 'email'],
+      properties: {
+        login: { type: 'string' },
+        password: { type: 'string' },
+      },
+    },
+  },
 }
 
-app.post('/reg/^:userId', postOptions, async function (request, reply) {
+app.post('/reg/^:userId', regUserPostSchema, async function (request, reply) {
   try {
     // 1. Проверяем тело запроса. Должен быть  {login: '', pass: ''}
     // 1.1. успех: логируем успех

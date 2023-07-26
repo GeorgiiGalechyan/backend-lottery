@@ -15,8 +15,8 @@
   "dependencies": {
     "fastify": "^4.19.2",
     "@fastify/env": "^4.2.0",
-    "pg": "^8.11.1",
     "@fastify/postgres": "^5.2.0",
+    "pg": "^8.11.1",
     "argon2": "^0.30.3"
   },
   "devDependencies": {
