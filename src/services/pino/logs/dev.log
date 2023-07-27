@@ -488,3 +488,156 @@
 {"level":30,"time":1690475083057,"pid":7028,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":53629},"msg":"incoming request"}
 {"level":30,"time":1690475083075,"pid":7028,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
 {"level":30,"time":1690475083086,"pid":7028,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":28.26639997959137,"msg":"request completed"}
+{"level":30,"time":1690477974420,"pid":10488,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690477974492,"pid":10488,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690477974495,"pid":10488,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478008131,"pid":10488,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":61631},"msg":"incoming request"}
+{"level":30,"time":1690478008146,"pid":10488,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690478008152,"pid":10488,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":20.11299991607666,"msg":"request completed"}
+{"level":30,"time":1690478089341,"pid":844,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478089413,"pid":844,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478089416,"pid":844,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478092983,"pid":844,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":61646},"msg":"incoming request"}
+{"level":30,"time":1690478093004,"pid":844,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690478093014,"pid":844,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":29.6878000497818,"msg":"request completed"}
+{"level":30,"time":1690478280652,"pid":9784,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478280727,"pid":9784,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478280730,"pid":9784,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478284069,"pid":13092,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478284150,"pid":13092,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478284153,"pid":13092,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478286828,"pid":7648,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478286919,"pid":7648,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478286922,"pid":7648,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478307466,"pid":2456,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478307544,"pid":2456,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478307547,"pid":2456,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478310168,"pid":1996,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478310237,"pid":1996,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478310240,"pid":1996,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478311742,"pid":16184,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478311830,"pid":16184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478311836,"pid":16184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478312965,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478313047,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478313050,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478319556,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478319639,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478319641,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478337638,"pid":3088,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478337769,"pid":3088,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478337772,"pid":3088,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478341866,"pid":3088,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":61697},"msg":"incoming request"}
+{"level":30,"time":1690478341878,"pid":3088,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690478341885,"pid":3088,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":17.346500039100647,"msg":"request completed"}
+{"level":30,"time":1690478373077,"pid":16500,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478373153,"pid":16500,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478373156,"pid":16500,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478375333,"pid":3692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478375413,"pid":3692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478375417,"pid":3692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478388155,"pid":6936,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478388249,"pid":6936,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478388253,"pid":6936,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478392158,"pid":9772,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478392240,"pid":9772,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478392243,"pid":9772,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690478416713,"pid":6420,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690478416788,"pid":6420,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690478416791,"pid":6420,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479024506,"pid":5220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479024587,"pid":5220,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479024590,"pid":5220,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479039488,"pid":13636,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479039577,"pid":13636,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479039581,"pid":13636,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479042206,"pid":13348,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479042292,"pid":13348,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479042294,"pid":13348,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479046646,"pid":14248,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479046723,"pid":14248,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479046725,"pid":14248,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479050082,"pid":14596,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479050176,"pid":14596,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479050183,"pid":14596,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479052189,"pid":17220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479052280,"pid":17220,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479052284,"pid":17220,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479054373,"pid":15208,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479054510,"pid":15208,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479054514,"pid":15208,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479057409,"pid":15208,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62000},"msg":"incoming request"}
+{"level":50,"time":1690479057414,"pid":15208,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"requestemail is not defined","stack":"ReferenceError: requestemail is not defined\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:51:60)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"requestemail is not defined"}
+{"level":50,"time":1690479057416,"pid":15208,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62000},"res":{"statusCode":500},"err":{"type":"ReferenceError","message":"requestemail is not defined","stack":"ReferenceError: requestemail is not defined\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:51:60)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"requestemail is not defined"}
+{"level":50,"time":1690479057425,"pid":15208,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя tepanyan"}
+{"level":50,"time":1690479057425,"pid":15208,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"TypeError","message":"app.exit is not a function","stack":"TypeError: app.exit is not a function\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:58:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Promise errored, but reply.sent = true was set"}
+{"level":30,"time":1690479057426,"pid":15208,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":500},"responseTime":17.005800008773804,"msg":"request completed"}
+{"level":30,"time":1690479101337,"pid":16424,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479101428,"pid":16424,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479101431,"pid":16424,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479106808,"pid":16424,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62033},"msg":"incoming request"}
+{"level":50,"time":1690479106813,"pid":16424,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"requestemail is not defined","stack":"ReferenceError: requestemail is not defined\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:51:60)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"requestemail is not defined"}
+{"level":50,"time":1690479106816,"pid":16424,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62033},"res":{"statusCode":500},"err":{"type":"ReferenceError","message":"requestemail is not defined","stack":"ReferenceError: requestemail is not defined\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:51:60)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"requestemail is not defined"}
+{"level":50,"time":1690479106823,"pid":16424,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя tepanyan"}
+{"level":50,"time":1690479106823,"pid":16424,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"TypeError","message":"app.exit is not a function","stack":"TypeError: app.exit is not a function\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:58:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Promise errored, but reply.sent = true was set"}
+{"level":30,"time":1690479106824,"pid":16424,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":500},"responseTime":15.32700002193451,"msg":"request completed"}
+{"level":30,"time":1690479184919,"pid":15248,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479185034,"pid":15248,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479185038,"pid":15248,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479186742,"pid":14200,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479186825,"pid":14200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479186828,"pid":14200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479188943,"pid":10620,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479189035,"pid":10620,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479189038,"pid":10620,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479204918,"pid":15472,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479205002,"pid":15472,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479205005,"pid":15472,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479224777,"pid":15472,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62069},"msg":"incoming request"}
+{"level":50,"time":1690479224785,"pid":15472,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"requestemail is not defined","stack":"ReferenceError: requestemail is not defined\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:51:60)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"requestemail is not defined"}
+{"level":50,"time":1690479224787,"pid":15472,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя tepanyan"}
+{"level":50,"time":1690479224788,"pid":15472,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62069},"res":{"statusCode":500},"err":{"type":"TypeError","message":"app.exit is not a function","stack":"TypeError: app.exit is not a function\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:57:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"app.exit is not a function"}
+{"level":30,"time":1690479224800,"pid":15472,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":500},"responseTime":22.335999965667725,"msg":"request completed"}
+{"level":30,"time":1690479235354,"pid":8196,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479235456,"pid":8196,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479235460,"pid":8196,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479246353,"pid":5180,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479246497,"pid":5180,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479246501,"pid":5180,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479248104,"pid":5180,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62077},"msg":"incoming request"}
+{"level":50,"time":1690479248112,"pid":5180,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"requestemail is not defined","stack":"ReferenceError: requestemail is not defined\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:51:60)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"requestemail is not defined"}
+{"level":50,"time":1690479248114,"pid":5180,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя tepanyan"}
+{"level":30,"time":1690479248122,"pid":5180,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":17.216399908065796,"msg":"request completed"}
+{"level":30,"time":1690479288112,"pid":7636,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479288204,"pid":7636,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479288207,"pid":7636,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479294478,"pid":1368,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479294574,"pid":1368,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479294577,"pid":1368,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479302589,"pid":1368,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62108},"msg":"incoming request"}
+{"level":30,"time":1690479302599,"pid":1368,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690479302609,"pid":1368,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":19.448000073432922,"msg":"request completed"}
+{"level":30,"time":1690479341133,"pid":2356,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479341217,"pid":2356,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479341220,"pid":2356,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479342726,"pid":5368,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479342813,"pid":5368,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479342816,"pid":5368,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479347634,"pid":5368,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62114},"msg":"incoming request"}
+{"level":30,"time":1690479347660,"pid":5368,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690479347678,"pid":5368,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":42.63519990444183,"msg":"request completed"}
+{"level":30,"time":1690479379117,"pid":2288,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479379213,"pid":2288,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479379216,"pid":2288,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479382122,"pid":2288,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62129},"msg":"incoming request"}
+{"level":30,"time":1690479382134,"pid":2288,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690479382145,"pid":2288,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":22.402400016784668,"msg":"request completed"}
+{"level":30,"time":1690479391009,"pid":11480,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479391084,"pid":11480,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479391087,"pid":11480,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479408830,"pid":6528,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690479408919,"pid":6528,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690479408922,"pid":6528,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690479418684,"pid":6528,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":62145},"msg":"incoming request"}
+{"level":30,"time":1690479418700,"pid":6528,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690479418706,"pid":6528,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":21.737800002098083,"msg":"request completed"}
