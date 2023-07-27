@@ -1,733 +1,490 @@
-{"level":30,"time":1689441199046,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Info event or message"}
-{"level":40,"time":1689441199047,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Warn event or message"}
-{"level":50,"time":1689441199047,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Error event or message"}
-{"level":60,"time":1689441199047,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Fatal event or message"}
-{"level":30,"time":1689441199305,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5000"}
-{"level":30,"time":1689441199309,"pid":9936,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5000"}
-{"level":30,"time":1689441205097,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689441205112,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Info event or message"}
-{"level":40,"time":1689441205112,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Warn event or message"}
-{"level":50,"time":1689441205112,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Error event or message"}
-{"level":60,"time":1689441205112,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Fatal event or message"}
-{"level":30,"time":1689441205307,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5000"}
-{"level":30,"time":1689441205310,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5000"}
-{"level":30,"time":1689441281414,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689441281428,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Info event or message"}
-{"level":40,"time":1689441281428,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Warn event or message"}
-{"level":50,"time":1689441281428,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Error event or message"}
-{"level":60,"time":1689441281428,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Fatal event or message"}
-{"level":30,"time":1689441281604,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5000"}
-{"level":30,"time":1689441281606,"pid":3220,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5000"}
-{"level":30,"time":1689441295473,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689441295486,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Info event or message"}
-{"level":40,"time":1689441295486,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Warn event or message"}
-{"level":50,"time":1689441295486,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Error event or message"}
-{"level":60,"time":1689441295486,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Fatal event or message"}
-{"level":30,"time":1689441295680,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5000"}
-{"level":30,"time":1689441295683,"pid":1616,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5000"}
-{"level":30,"time":1689441533203,"pid":4508,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689441533235,"pid":4508,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5500"}
-{"level":30,"time":1689441533238,"pid":4508,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5500"}
-{"level":50,"time":1689441533239,"pid":4508,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"port is not defined","stack":"ReferenceError: port is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:30:52)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"port is not defined"}
-{"level":30,"time":1689441549327,"pid":13932,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689441549352,"pid":13932,"hostname":"GeorgiGalechyan","msg":"Server listening at http://[::1]:5500"}
-{"level":30,"time":1689441549354,"pid":13932,"hostname":"GeorgiGalechyan","msg":"Server listening at http://127.0.0.1:5500"}
-{"level":30,"time":1689441549355,"pid":13932,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту undefined"}
-{"level":30,"time":1689441656609,"pid":7028,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689441656621,"pid":7028,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:59)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
-{"level":30,"time":1689441665310,"pid":14312,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689441665323,"pid":14312,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:59)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
-{"level":30,"time":1689441678130,"pid":4264,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689441678143,"pid":4264,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:59)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
-{"level":30,"time":1689441784131,"pid":10180,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689441784144,"pid":10180,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:59)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
-{"level":30,"time":1689441997650,"pid":12572,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689441997674,"pid":12572,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:61)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
-{"level":30,"time":1689442002434,"pid":2160,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689442002449,"pid":2160,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:29:83)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:37:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
-{"level":30,"time":1689442033053,"pid":12676,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689442033067,"pid":12676,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"addre is not defined","stack":"ReferenceError: addre is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:31:28)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:40:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"addre is not defined"}
-{"level":30,"time":1689442034346,"pid":7924,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689442034362,"pid":7924,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"address is not defined","stack":"ReferenceError: address is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:31:28)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:40:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"address is not defined"}
-{"level":30,"time":1689442044448,"pid":2836,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689442044466,"pid":2836,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:32:9)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:40:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
-{"level":30,"time":1689442048033,"pid":13504,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689442048045,"pid":13504,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"err is not defined","stack":"ReferenceError: err is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:34:8)\n    at file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:43:1\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"err is not defined"}
-{"level":30,"time":1689442058938,"pid":12536,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442058970,"pid":12536,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://[::1]:5500"}
-{"level":30,"time":1689442058970,"pid":12536,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442058973,"pid":12536,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://127.0.0.1:5500"}
-{"level":30,"time":1689442058973,"pid":12536,"hostname":"GeorgiGalechyan"}
-{"level":50,"time":1689442058974,"pid":12536,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"address is not defined","stack":"ReferenceError: address is not defined\n    at start (file:///C:/Users/galec/Dev/Lottery/backend-lottery/app.js:35:52)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"address is not defined"}
-{"level":30,"time":1689442061311,"pid":2584,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442061338,"pid":2584,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://[::1]:5500"}
-{"level":30,"time":1689442061338,"pid":2584,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442061341,"pid":2584,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://127.0.0.1:5500"}
-{"level":30,"time":1689442061341,"pid":2584,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442101744,"pid":10692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442101777,"pid":10692,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту 11 http://[::1]:5500"}
-{"level":30,"time":1689442101777,"pid":10692,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442101781,"pid":10692,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту 11 http://127.0.0.1:5500"}
-{"level":30,"time":1689442101781,"pid":10692,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442106996,"pid":8100,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442107025,"pid":8100,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://[::1]:5500"}
-{"level":30,"time":1689442107025,"pid":8100,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442107030,"pid":8100,"hostname":"GeorgiGalechyan","msg":"Сервер запущен на порту http://127.0.0.1:5500"}
-{"level":30,"time":1689442107030,"pid":8100,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442124307,"pid":10696,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442124335,"pid":10696,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442124335,"pid":10696,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442124339,"pid":10696,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442124339,"pid":10696,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442183233,"pid":14144,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442183266,"pid":14144,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442183266,"pid":14144,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442183270,"pid":14144,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442183270,"pid":14144,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442198588,"pid":9268,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442198616,"pid":9268,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442198616,"pid":9268,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442198619,"pid":9268,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442198619,"pid":9268,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442208950,"pid":7480,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442208984,"pid":7480,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442208984,"pid":7480,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442208988,"pid":7480,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442208988,"pid":7480,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442213353,"pid":4400,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442213381,"pid":4400,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442213381,"pid":4400,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442213385,"pid":4400,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442213385,"pid":4400,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442219773,"pid":2172,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442219806,"pid":2172,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442219806,"pid":2172,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442219810,"pid":2172,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442219810,"pid":2172,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442231014,"pid":8220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":50,"time":1689442231040,"pid":8220,"hostname":"GeorgiGalechyan","err":{"type":"Error","message":"getaddrinfo ENOENT 0.0.0.0.","stack":"Error: getaddrinfo ENOENT 0.0.0.0.\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)","errno":-4058,"code":"ENOENT","syscall":"getaddrinfo","hostname":"0.0.0.0."},"msg":"getaddrinfo ENOENT 0.0.0.0."}
-{"level":30,"time":1689442250079,"pid":13300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442250108,"pid":13300,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442250109,"pid":13300,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442250112,"pid":13300,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442250112,"pid":13300,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442252572,"pid":13936,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442252603,"pid":13936,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442252603,"pid":13936,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442252607,"pid":13936,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442252607,"pid":13936,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442260519,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442260546,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442260546,"pid":8256,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442260550,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442260550,"pid":8256,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442264326,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442264348,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442264348,"pid":4804,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442264352,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442264352,"pid":4804,"hostname":"GeorgiGalechyan"}
-{"level":30,"time":1689442280858,"pid":2044,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442280885,"pid":2044,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442280890,"pid":2044,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442286917,"pid":2160,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442286941,"pid":2160,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442286945,"pid":2160,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442314831,"pid":2124,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442314858,"pid":2124,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442314861,"pid":2124,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442323813,"pid":10864,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442323846,"pid":10864,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442323849,"pid":10864,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442335038,"pid":12044,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442335064,"pid":12044,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442335067,"pid":12044,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442343573,"pid":11408,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442343598,"pid":11408,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442343601,"pid":11408,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689442404777,"pid":6500,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689442404810,"pid":6500,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689442404814,"pid":6500,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689516692263,"pid":1280,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516692297,"pid":1280,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689516692301,"pid":1280,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689516748235,"pid":10184,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516748266,"pid":10184,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689516748270,"pid":10184,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689516790011,"pid":10184,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":50300},"msg":"incoming request"}
-{"level":30,"time":1689516790026,"pid":10184,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":13.339299999992363,"msg":"request completed"}
-{"level":30,"time":1689516790347,"pid":10184,"hostname":"GeorgiGalechyan","reqId":"req-2","req":{"method":"GET","url":"/favicon.ico","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":50300},"msg":"incoming request"}
-{"level":30,"time":1689516790347,"pid":10184,"hostname":"GeorgiGalechyan","reqId":"req-2","msg":"Route GET:/favicon.ico not found"}
-{"level":30,"time":1689516790348,"pid":10184,"hostname":"GeorgiGalechyan","reqId":"req-2","res":{"statusCode":404},"responseTime":0.9949999999953434,"msg":"request completed"}
-{"level":30,"time":1689516799342,"pid":3284,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516800877,"pid":5312,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516800910,"pid":5312,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689516800914,"pid":5312,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689516814371,"pid":3580,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516814438,"pid":3580,"hostname":"GeorgiGalechyan","msg":"Сервер  http://[::1]:5500"}
-{"level":30,"time":1689516814445,"pid":3580,"hostname":"GeorgiGalechyan","msg":"Сервер  http://127.0.0.1:5500"}
-{"level":30,"time":1689516817836,"pid":1140,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516817860,"pid":1140,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://[::1]:5500"}
-{"level":30,"time":1689516817862,"pid":1140,"hostname":"GeorgiGalechyan","msg":"Сервер запущен по адресу http://127.0.0.1:5500"}
-{"level":30,"time":1689516825172,"pid":1608,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516825198,"pid":1608,"hostname":"GeorgiGalechyan","msg":"Test http://[::1]:5500"}
-{"level":30,"time":1689516825202,"pid":1608,"hostname":"GeorgiGalechyan","msg":"Test http://127.0.0.1:5500"}
-{"level":30,"time":1689516833638,"pid":6520,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516833665,"pid":6520,"hostname":"GeorgiGalechyan","msg":"Сервер\n     http://[::1]:5500"}
-{"level":30,"time":1689516833668,"pid":6520,"hostname":"GeorgiGalechyan","msg":"Сервер\n     http://127.0.0.1:5500"}
-{"level":30,"time":1689516834878,"pid":4488,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516834908,"pid":4488,"hostname":"GeorgiGalechyan","msg":"Сервер http://[::1]:5500"}
-{"level":30,"time":1689516834911,"pid":4488,"hostname":"GeorgiGalechyan","msg":"Сервер http://127.0.0.1:5500"}
-{"level":30,"time":1689516845086,"pid":5080,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516845116,"pid":5080,"hostname":"GeorgiGalechyan","msg":"Сервер http://[::1]:5500"}
-{"level":30,"time":1689516845118,"pid":5080,"hostname":"GeorgiGalechyan","msg":"Сервер http://127.0.0.1:5500"}
-{"level":30,"time":1689516859319,"pid":12092,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516859346,"pid":12092,"hostname":"GeorgiGalechyan","msg":"Ыукмук  http://[::1]:5500"}
-{"level":30,"time":1689516859349,"pid":12092,"hostname":"GeorgiGalechyan","msg":"Ыукмук  http://127.0.0.1:5500"}
-{"level":30,"time":1689516870047,"pid":10732,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516870081,"pid":10732,"hostname":"GeorgiGalechyan","msg":"Server listening on  http://[::1]:5500"}
-{"level":30,"time":1689516870085,"pid":10732,"hostname":"GeorgiGalechyan","msg":"Server listening on  http://127.0.0.1:5500"}
-{"level":30,"time":1689516871951,"pid":5088,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516871975,"pid":5088,"hostname":"GeorgiGalechyan","msg":"Server listening on dress http://[::1]:5500"}
-{"level":30,"time":1689516871978,"pid":5088,"hostname":"GeorgiGalechyan","msg":"Server listening on dress http://127.0.0.1:5500"}
-{"level":30,"time":1689516875230,"pid":1168,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516875259,"pid":1168,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689516875262,"pid":1168,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689516895449,"pid":4132,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689516895475,"pid":4132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689516895479,"pid":4132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689516974064,"pid":4132,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":50407},"msg":"incoming request"}
-{"level":30,"time":1689516974074,"pid":4132,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":9.068100000033155,"msg":"request completed"}
-{"level":30,"time":1689517189511,"pid":12836,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517189541,"pid":12836,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517189545,"pid":12836,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517270917,"pid":13036,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517270944,"pid":13036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517270948,"pid":13036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517286857,"pid":11700,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517286885,"pid":11700,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517286888,"pid":11700,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517290012,"pid":11300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517290039,"pid":11300,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517290042,"pid":11300,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517295097,"pid":2840,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517295123,"pid":2840,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517295127,"pid":2840,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517301464,"pid":2012,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517301490,"pid":2012,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517301493,"pid":2012,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517308088,"pid":1808,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517308117,"pid":1808,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517308121,"pid":1808,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517313134,"pid":8956,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517313158,"pid":8956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517313161,"pid":8956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517321551,"pid":3048,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517321590,"pid":3048,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517321594,"pid":3048,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517323590,"pid":12640,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517323624,"pid":12640,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517323628,"pid":12640,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517326584,"pid":2716,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517326608,"pid":2716,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517326611,"pid":2716,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517330491,"pid":2700,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517330518,"pid":2700,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517330524,"pid":2700,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517332944,"pid":11796,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517332971,"pid":11796,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517332975,"pid":11796,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517342519,"pid":13024,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517342554,"pid":13024,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517342558,"pid":13024,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517344563,"pid":13268,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517344598,"pid":13268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517344601,"pid":13268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517347700,"pid":5332,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517347722,"pid":5332,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517347724,"pid":5332,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517350675,"pid":11688,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517350704,"pid":11688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517350706,"pid":11688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517352040,"pid":10860,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517352073,"pid":10860,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517352077,"pid":10860,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517356111,"pid":11056,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517356150,"pid":11056,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517356155,"pid":11056,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517360790,"pid":1344,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517360817,"pid":1344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517360820,"pid":1344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517362035,"pid":2676,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517362071,"pid":2676,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517362076,"pid":2676,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517375522,"pid":12716,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517375555,"pid":12716,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517375559,"pid":12716,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517377490,"pid":7768,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517377526,"pid":7768,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517377530,"pid":7768,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517380798,"pid":13116,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517380821,"pid":13116,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517380824,"pid":13116,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517387380,"pid":13184,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517387409,"pid":13184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517387413,"pid":13184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517392666,"pid":9028,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517392688,"pid":9028,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517392691,"pid":9028,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517396030,"pid":1624,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517396057,"pid":1624,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517396060,"pid":1624,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517400521,"pid":1408,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517400556,"pid":1408,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517400559,"pid":1408,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517403192,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517403225,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517403229,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517405874,"pid":8212,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517405910,"pid":8212,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517405914,"pid":8212,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517408883,"pid":12652,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517408912,"pid":12652,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517408915,"pid":12652,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517411954,"pid":10676,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517411978,"pid":10676,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517411981,"pid":10676,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517415377,"pid":10244,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517415405,"pid":10244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517415408,"pid":10244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517418066,"pid":7344,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517418093,"pid":7344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517418096,"pid":7344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517420590,"pid":1764,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517420626,"pid":1764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517420629,"pid":1764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517423683,"pid":1400,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517423711,"pid":1400,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517423714,"pid":1400,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517426523,"pid":11528,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517426548,"pid":11528,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517426551,"pid":11528,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517428422,"pid":11652,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517428467,"pid":11652,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517428472,"pid":11652,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517433833,"pid":10848,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517433927,"pid":10848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517433938,"pid":10848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517436089,"pid":4092,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517436115,"pid":4092,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517436118,"pid":4092,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517441065,"pid":9200,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517441091,"pid":9200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517441094,"pid":9200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517445902,"pid":8312,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517445941,"pid":8312,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517445947,"pid":8312,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517449004,"pid":9684,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517449036,"pid":9684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517449041,"pid":9684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517451557,"pid":6620,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517451598,"pid":6620,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517451602,"pid":6620,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517453658,"pid":5496,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517453682,"pid":5496,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517453685,"pid":5496,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517455292,"pid":1392,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517455319,"pid":1392,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517455322,"pid":1392,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517470200,"pid":1204,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517470227,"pid":1204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517470230,"pid":1204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517473888,"pid":7208,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517473941,"pid":7208,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517473948,"pid":7208,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517481356,"pid":1828,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517481388,"pid":1828,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517481401,"pid":1828,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517492300,"pid":9196,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517492327,"pid":9196,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517492331,"pid":9196,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517494623,"pid":6036,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517494655,"pid":6036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517494659,"pid":6036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517497791,"pid":10884,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517497820,"pid":10884,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517497824,"pid":10884,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517502791,"pid":9952,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517502822,"pid":9952,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517502827,"pid":9952,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517505895,"pid":7784,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517505926,"pid":7784,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517505929,"pid":7784,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517514905,"pid":11316,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517514930,"pid":11316,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517514933,"pid":11316,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517520110,"pid":2388,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517520145,"pid":2388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517520148,"pid":2388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517528394,"pid":3776,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517528423,"pid":3776,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517528426,"pid":3776,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517532173,"pid":1488,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517532199,"pid":1488,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517532201,"pid":1488,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517536577,"pid":5464,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517536618,"pid":5464,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517536621,"pid":5464,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517538209,"pid":4412,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517538241,"pid":4412,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517538246,"pid":4412,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517541699,"pid":7352,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517541724,"pid":7352,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517541727,"pid":7352,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517542898,"pid":9204,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517542925,"pid":9204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517542929,"pid":9204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517548576,"pid":9420,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517548604,"pid":9420,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517548607,"pid":9420,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517559771,"pid":9820,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517559804,"pid":9820,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517559807,"pid":9820,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517563601,"pid":1304,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517563624,"pid":1304,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517563628,"pid":1304,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517569864,"pid":9712,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517569887,"pid":9712,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517569890,"pid":9712,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517572523,"pid":12932,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517572555,"pid":12932,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517572559,"pid":12932,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517574373,"pid":6456,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517574400,"pid":6456,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517574403,"pid":6456,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517576647,"pid":6408,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517576722,"pid":6408,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517576738,"pid":6408,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517582587,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517582611,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517582614,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517588339,"pid":4792,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517588386,"pid":4792,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517588389,"pid":4792,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517601756,"pid":2188,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517601794,"pid":2188,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517601798,"pid":2188,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517607806,"pid":4624,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517607837,"pid":4624,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517607842,"pid":4624,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517610965,"pid":1396,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517611005,"pid":1396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517611014,"pid":1396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517623680,"pid":2464,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517632257,"pid":2512,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517632287,"pid":2512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517632290,"pid":2512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517638160,"pid":2260,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517641805,"pid":3048,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517644219,"pid":11088,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517646429,"pid":12916,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517661875,"pid":6272,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517676112,"pid":1212,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517723597,"pid":13284,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517727716,"pid":4440,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517818117,"pid":12476,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517818155,"pid":12476,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517818158,"pid":12476,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517829661,"pid":9156,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517829706,"pid":9156,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517829710,"pid":9156,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517831351,"pid":5924,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517831394,"pid":5924,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517831410,"pid":5924,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517833558,"pid":9516,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517833587,"pid":9516,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517833590,"pid":9516,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517835907,"pid":6828,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517835938,"pid":6828,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517835942,"pid":6828,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517858719,"pid":2504,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517873025,"pid":12540,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517873052,"pid":12540,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517873056,"pid":12540,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689517877520,"pid":2692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689517877544,"pid":2692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689517877548,"pid":2692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689518017101,"pid":3016,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518017126,"pid":3016,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689518017129,"pid":3016,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689518030850,"pid":2796,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518030881,"pid":2796,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689518030884,"pid":2796,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689518049805,"pid":10044,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518049837,"pid":10044,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689518049841,"pid":10044,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689518052844,"pid":10968,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518052877,"pid":10968,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689518052881,"pid":10968,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689518054688,"pid":6232,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518062041,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518062070,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689518062073,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689518088974,"pid":6388,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/register","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":60042},"msg":"incoming request"}
-{"level":30,"time":1689518088976,"pid":6388,"hostname":"GeorgiGalechyan","reqId":"req-1","msg":"Route GET:/register not found"}
-{"level":30,"time":1689518088988,"pid":6388,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":404},"responseTime":13.30059999995865,"msg":"request completed"}
-{"level":30,"time":1689518108241,"pid":11040,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518110217,"pid":7292,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518110250,"pid":7292,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1689518110253,"pid":7292,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1689518116005,"pid":8864,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518129498,"pid":9812,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518137100,"pid":11384,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518174222,"pid":6108,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518183702,"pid":3932,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518195081,"pid":1944,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518197428,"pid":884,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518211835,"pid":2352,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518219577,"pid":3424,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518221051,"pid":7476,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518286308,"pid":4820,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518288923,"pid":10732,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518291146,"pid":6616,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518296834,"pid":7356,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518301248,"pid":9156,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518303687,"pid":8108,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518336166,"pid":476,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518349597,"pid":644,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518381298,"pid":8632,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518387902,"pid":1908,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518390950,"pid":1284,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518393601,"pid":9432,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518403503,"pid":5844,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518404559,"pid":8692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518408488,"pid":12656,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518410355,"pid":2500,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518412411,"pid":6900,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518413948,"pid":6240,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518415426,"pid":7416,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518416639,"pid":1232,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518417969,"pid":9300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518420177,"pid":5632,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518426136,"pid":2520,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518428219,"pid":6432,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518439553,"pid":10472,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518442597,"pid":7476,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518448314,"pid":1948,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518450280,"pid":4448,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518451980,"pid":10856,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518454020,"pid":9164,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518458012,"pid":6692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518464712,"pid":8540,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518467761,"pid":3156,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518470345,"pid":1140,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518473814,"pid":7984,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518482084,"pid":1900,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518487968,"pid":4212,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518495990,"pid":4480,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518498305,"pid":6148,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518506338,"pid":7288,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518510118,"pid":9592,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518527789,"pid":2432,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518530660,"pid":3644,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518533986,"pid":7960,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518538316,"pid":436,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518540866,"pid":5532,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518543799,"pid":7980,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518570348,"pid":6024,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518573939,"pid":8780,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518576995,"pid":3164,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518578891,"pid":3932,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518583826,"pid":3808,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518586471,"pid":8068,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518587781,"pid":12976,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518590108,"pid":8216,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518592942,"pid":8288,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518598211,"pid":4440,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518602514,"pid":8424,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518633983,"pid":8324,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518640074,"pid":6236,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518642449,"pid":13252,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518645170,"pid":8452,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518649249,"pid":7424,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518659418,"pid":8828,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518660642,"pid":13192,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518663012,"pid":11548,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518675027,"pid":3156,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518678867,"pid":3424,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518680868,"pid":9196,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518682952,"pid":13084,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518684648,"pid":11928,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518694605,"pid":3556,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518696165,"pid":9232,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518701727,"pid":7148,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518713477,"pid":2800,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518717903,"pid":1220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518719245,"pid":11052,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518720978,"pid":9516,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518729909,"pid":888,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518731905,"pid":9600,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518742347,"pid":8164,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518745288,"pid":11072,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518755538,"pid":1284,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518772104,"pid":224,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518807752,"pid":6120,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518810106,"pid":5644,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518830878,"pid":12680,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518832858,"pid":4132,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518834488,"pid":3172,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518838963,"pid":8324,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518864425,"pid":8120,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518874648,"pid":1936,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518878757,"pid":13212,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689518880543,"pid":4152,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519039318,"pid":11844,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519042724,"pid":348,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519044491,"pid":7188,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519045918,"pid":11120,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519052195,"pid":888,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519053995,"pid":6232,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519065312,"pid":9672,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519068163,"pid":7520,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1689519069683,"pid":2516,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690375568911,"pid":5512,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690375701802,"pid":4172,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690375711309,"pid":1960,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690375712630,"pid":5304,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376954059,"pid":8160,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376961812,"pid":3164,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376963091,"pid":1908,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376964933,"pid":7152,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376967798,"pid":13092,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376969707,"pid":7488,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376973980,"pid":11916,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376978112,"pid":12544,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376979251,"pid":5524,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376980924,"pid":8260,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376984190,"pid":8896,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376986299,"pid":13292,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376989122,"pid":11076,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376994246,"pid":12312,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376997581,"pid":9228,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690376999756,"pid":2192,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377001786,"pid":10064,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377007467,"pid":12420,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377009633,"pid":13160,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377059852,"pid":5576,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377070909,"pid":6944,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377193996,"pid":11252,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377198196,"pid":13136,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377204023,"pid":12244,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377209965,"pid":12260,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377212486,"pid":10364,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377215142,"pid":6960,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377218530,"pid":12904,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377220847,"pid":700,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377227195,"pid":4064,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377229989,"pid":1000,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377231671,"pid":10156,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377234812,"pid":12568,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377236135,"pid":4948,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377241221,"pid":3876,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377244816,"pid":8716,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377250312,"pid":6608,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377284769,"pid":7572,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690377287156,"pid":9560,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690447874286,"pid":11868,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690447992292,"pid":10228,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448030616,"pid":8004,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448050684,"pid":4784,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448073009,"pid":9692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448076808,"pid":6188,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448079214,"pid":6436,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448088119,"pid":7152,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448099843,"pid":1032,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448128498,"pid":5980,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448197692,"pid":7192,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448204223,"pid":9564,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448208037,"pid":3580,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448233848,"pid":11580,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448242636,"pid":7796,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448249556,"pid":2824,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690448252107,"pid":9660,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457164936,"pid":10400,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457196979,"pid":2016,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457216664,"pid":5656,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457225517,"pid":13264,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457254781,"pid":6448,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457257205,"pid":8732,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457260200,"pid":3052,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457264174,"pid":644,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457284476,"pid":8004,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457287519,"pid":5780,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457290849,"pid":6460,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457305814,"pid":11536,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457317887,"pid":7292,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457323732,"pid":12836,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457335529,"pid":6520,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457338658,"pid":11756,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457371219,"pid":5972,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457413237,"pid":13012,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457415787,"pid":9556,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457415813,"pid":9556,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457415817,"pid":9556,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457433669,"pid":12676,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457433693,"pid":12676,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457433696,"pid":12676,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457474254,"pid":12676,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":58199},"msg":"incoming request"}
-{"level":30,"time":1690457474270,"pid":12676,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":14.246099948883057,"msg":"request completed"}
-{"level":30,"time":1690457476259,"pid":12676,"hostname":"GeorgiGalechyan","reqId":"req-2","req":{"method":"GET","url":"/favicon.ico","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":58199},"msg":"incoming request"}
-{"level":30,"time":1690457476260,"pid":12676,"hostname":"GeorgiGalechyan","reqId":"req-2","msg":"Route GET:/favicon.ico not found"}
-{"level":30,"time":1690457476261,"pid":12676,"hostname":"GeorgiGalechyan","reqId":"req-2","res":{"statusCode":404},"responseTime":1.8191999197006226,"msg":"request completed"}
-{"level":30,"time":1690457503342,"pid":3748,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457503365,"pid":3748,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457503369,"pid":3748,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457519796,"pid":3748,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":58387},"msg":"incoming request"}
-{"level":30,"time":1690457519806,"pid":3748,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":9.139900088310242,"msg":"request completed"}
-{"level":30,"time":1690457568602,"pid":11860,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457568627,"pid":11860,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457568630,"pid":11860,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457574279,"pid":1316,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457578236,"pid":5456,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457578264,"pid":5456,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457578267,"pid":5456,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457583584,"pid":5456,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/req","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":58414},"msg":"incoming request"}
-{"level":30,"time":1690457583585,"pid":5456,"hostname":"GeorgiGalechyan","reqId":"req-1","msg":"Route GET:/req not found"}
-{"level":30,"time":1690457583593,"pid":5456,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":404},"responseTime":7.877300024032593,"msg":"request completed"}
-{"level":30,"time":1690457590160,"pid":5456,"hostname":"GeorgiGalechyan","reqId":"req-2","req":{"method":"GET","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":58414},"msg":"incoming request"}
-{"level":30,"time":1690457590161,"pid":5456,"hostname":"GeorgiGalechyan","reqId":"req-2","res":{"statusCode":200},"responseTime":1.0875999927520752,"msg":"request completed"}
-{"level":30,"time":1690457640211,"pid":10608,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457640235,"pid":10608,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457640239,"pid":10608,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457644592,"pid":808,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457644658,"pid":808,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457644665,"pid":808,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457647145,"pid":1824,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457647199,"pid":1824,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457647215,"pid":1824,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457650565,"pid":1824,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":58599},"msg":"incoming request"}
-{"level":30,"time":1690457650575,"pid":1824,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":9.928099989891052,"msg":"request completed"}
-{"level":30,"time":1690457681850,"pid":800,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457683859,"pid":12952,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457683897,"pid":12952,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457683901,"pid":12952,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457687889,"pid":12004,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457687917,"pid":12004,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457687926,"pid":12004,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457699766,"pid":7132,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457699800,"pid":7132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457699805,"pid":7132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457701867,"pid":13032,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457701892,"pid":13032,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457701895,"pid":13032,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457704735,"pid":1256,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457704760,"pid":1256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457704763,"pid":1256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457715179,"pid":6692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457715208,"pid":6692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457715215,"pid":6692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457724163,"pid":12000,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457724249,"pid":12000,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457724252,"pid":12000,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
-{"level":30,"time":1690457768287,"pid":3056,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
-{"level":30,"time":1690457768375,"pid":3056,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
-{"level":30,"time":1690457768378,"pid":3056,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461468441,"pid":848,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461471385,"pid":8816,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461471586,"pid":8816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461471590,"pid":8816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461477462,"pid":3308,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461477583,"pid":3308,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461477588,"pid":3308,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461749395,"pid":11680,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461749601,"pid":11680,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461749609,"pid":11680,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461763000,"pid":12196,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461763110,"pid":12196,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461763114,"pid":12196,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461767418,"pid":5608,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461767727,"pid":5608,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461767762,"pid":5608,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461771112,"pid":12952,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461773987,"pid":1824,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461776384,"pid":14256,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461776502,"pid":14256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461776506,"pid":14256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461781300,"pid":12028,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461781482,"pid":12028,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461783216,"pid":11240,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461785843,"pid":9716,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461785967,"pid":9716,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461785972,"pid":9716,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461790673,"pid":13208,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461790783,"pid":13208,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461790786,"pid":13208,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461794933,"pid":15056,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461795078,"pid":15056,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461795083,"pid":15056,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461829974,"pid":12620,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461830091,"pid":12620,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461830096,"pid":12620,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461836374,"pid":8012,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461836504,"pid":8012,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461836508,"pid":8012,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461856171,"pid":14260,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461856383,"pid":14260,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461856388,"pid":14260,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461870635,"pid":15192,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461870789,"pid":15192,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461870793,"pid":15192,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461879396,"pid":1764,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461879540,"pid":1764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461879544,"pid":1764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461884409,"pid":1920,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461884519,"pid":1920,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461884523,"pid":1920,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690461886603,"pid":5816,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690461886715,"pid":5816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690461886722,"pid":5816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462023502,"pid":13988,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462023667,"pid":13988,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462023675,"pid":13988,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462027276,"pid":15244,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462027433,"pid":15244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462027437,"pid":15244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462037983,"pid":5180,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462038107,"pid":5180,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462038112,"pid":5180,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462131545,"pid":14584,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462131668,"pid":14584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462131673,"pid":14584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462176311,"pid":9500,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462176425,"pid":9500,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462176429,"pid":9500,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462183605,"pid":5896,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462183776,"pid":5896,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462183795,"pid":5896,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462191942,"pid":9376,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462192093,"pid":9376,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462192099,"pid":9376,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462199117,"pid":12604,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462199250,"pid":12604,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462199260,"pid":12604,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462294944,"pid":14560,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462295099,"pid":14560,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462295103,"pid":14560,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462304541,"pid":5224,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462304714,"pid":5224,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462304719,"pid":5224,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462307684,"pid":12596,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462307797,"pid":12596,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462307802,"pid":12596,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462313588,"pid":14244,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462313742,"pid":14244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462313748,"pid":14244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462318380,"pid":10764,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462318603,"pid":10764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462318609,"pid":10764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462320706,"pid":8852,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462320819,"pid":8852,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462320825,"pid":8852,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462323242,"pid":10476,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462323405,"pid":10476,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462323409,"pid":10476,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462326569,"pid":10604,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462326679,"pid":10604,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462326684,"pid":10604,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462338209,"pid":5744,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462338327,"pid":5744,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462338331,"pid":5744,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462348825,"pid":4048,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462349090,"pid":4048,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462349095,"pid":4048,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462358696,"pid":5296,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462358816,"pid":5296,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462358821,"pid":5296,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462361959,"pid":11964,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462362107,"pid":11964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462362112,"pid":11964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462366439,"pid":1040,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462366612,"pid":1040,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462366617,"pid":1040,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462369268,"pid":7212,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462369426,"pid":7212,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462369431,"pid":7212,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462373228,"pid":9408,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462373412,"pid":9408,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462373416,"pid":9408,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462375847,"pid":15000,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462375983,"pid":15000,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462375992,"pid":15000,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462380757,"pid":9340,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462380931,"pid":9340,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462380936,"pid":9340,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462391958,"pid":14560,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462392067,"pid":14560,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462392071,"pid":14560,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462406100,"pid":6420,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462406314,"pid":6420,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462406319,"pid":6420,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462416389,"pid":14692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462416562,"pid":14692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462416567,"pid":14692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462422767,"pid":13228,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462422983,"pid":13228,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462422994,"pid":13228,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462432222,"pid":15244,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462432335,"pid":15244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462432339,"pid":15244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462584377,"pid":13572,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462584566,"pid":13572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462584571,"pid":13572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462589792,"pid":15032,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462589912,"pid":15032,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462589916,"pid":15032,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462593473,"pid":14188,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462593608,"pid":14188,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462593612,"pid":14188,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462599211,"pid":11596,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462599395,"pid":11596,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462599414,"pid":11596,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462603740,"pid":5036,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462603911,"pid":5036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462603921,"pid":5036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462606039,"pid":4792,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462606206,"pid":4792,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462606209,"pid":4792,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462616520,"pid":12928,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462616652,"pid":12928,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462616656,"pid":12928,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462620597,"pid":684,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462620762,"pid":684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462620766,"pid":684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462630067,"pid":14516,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462630343,"pid":14516,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462630348,"pid":14516,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462633487,"pid":14084,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462633636,"pid":14084,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462633643,"pid":14084,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462640948,"pid":11364,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462641114,"pid":11364,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462641122,"pid":11364,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462648223,"pid":6424,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462648395,"pid":6424,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462648404,"pid":6424,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462661963,"pid":900,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462662127,"pid":900,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462662131,"pid":900,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462667313,"pid":13104,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462667465,"pid":13104,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462667500,"pid":13104,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462669857,"pid":3376,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462670042,"pid":3376,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462670051,"pid":3376,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462959192,"pid":8520,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462959427,"pid":8520,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462959465,"pid":8520,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462963089,"pid":12512,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462963341,"pid":12512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462963346,"pid":12512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690462988404,"pid":9532,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690462988593,"pid":9532,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690462988605,"pid":9532,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690463198290,"pid":9532,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg/","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":52557},"msg":"incoming request"}
+{"level":30,"time":1690463198299,"pid":9532,"hostname":"GeorgiGalechyan","reqId":"req-1","msg":"Route POST:/reg/ not found"}
+{"level":30,"time":1690463198307,"pid":9532,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":404},"responseTime":15.807600021362305,"msg":"request completed"}
+{"level":30,"time":1690463203091,"pid":9532,"hostname":"GeorgiGalechyan","reqId":"req-2","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":52557},"msg":"incoming request"}
+{"level":30,"time":1690463203095,"pid":9532,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690463203096,"pid":9532,"hostname":"GeorgiGalechyan","reqId":"req-2","res":{"statusCode":200},"responseTime":5.242799997329712,"msg":"request completed"}
+{"level":30,"time":1690470454494,"pid":7552,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470454614,"pid":7552,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470454618,"pid":7552,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470461176,"pid":3544,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470461295,"pid":3544,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470461299,"pid":3544,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470471527,"pid":11792,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470471823,"pid":11792,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470471829,"pid":11792,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470482283,"pid":7680,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470482431,"pid":7680,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470482435,"pid":7680,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470512845,"pid":3380,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470512960,"pid":3380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470512965,"pid":3380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470518937,"pid":4452,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470519053,"pid":4452,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470519057,"pid":4452,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470531884,"pid":6428,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470532022,"pid":6428,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470532027,"pid":6428,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470546977,"pid":916,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470547128,"pid":916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470547132,"pid":916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470553186,"pid":1276,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470553320,"pid":1276,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470553325,"pid":1276,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470559633,"pid":5568,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470559739,"pid":5568,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470559743,"pid":5568,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470564374,"pid":10868,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470564575,"pid":10868,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470564580,"pid":10868,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690470566768,"pid":16920,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690470566878,"pid":16920,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690470566882,"pid":16920,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471177327,"pid":16496,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471177484,"pid":16496,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471177490,"pid":16496,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471179754,"pid":10884,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471179984,"pid":10884,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471179993,"pid":10884,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471185082,"pid":16220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471185243,"pid":16220,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471185247,"pid":16220,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471191684,"pid":4740,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471191968,"pid":4740,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471191980,"pid":4740,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471203022,"pid":17212,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471203149,"pid":17212,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471203153,"pid":17212,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471219114,"pid":15960,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471219219,"pid":15960,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471219223,"pid":15960,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471226841,"pid":1396,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471227002,"pid":1396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471227010,"pid":1396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471234914,"pid":15372,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471235047,"pid":15372,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471235051,"pid":15372,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471239283,"pid":12272,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471239395,"pid":12272,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471239401,"pid":12272,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471248097,"pid":14704,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471248223,"pid":14704,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471248231,"pid":14704,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471260481,"pid":15924,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471260709,"pid":15924,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471260719,"pid":15924,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471263064,"pid":11624,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471263238,"pid":11624,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471263243,"pid":11624,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471856329,"pid":4524,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471856475,"pid":4524,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471856479,"pid":4524,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471866460,"pid":1872,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471866648,"pid":1872,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471866652,"pid":1872,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471978055,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471978497,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471978503,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471981495,"pid":16064,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471981684,"pid":16064,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471981689,"pid":16064,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690471985238,"pid":14020,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690471985381,"pid":14020,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690471985385,"pid":14020,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472025670,"pid":8248,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472025799,"pid":8248,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472025803,"pid":8248,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472027775,"pid":12944,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472027890,"pid":12944,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472027895,"pid":12944,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472032389,"pid":1256,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472032614,"pid":1256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472032619,"pid":1256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472036707,"pid":6684,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472036834,"pid":6684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472036838,"pid":6684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472040781,"pid":5660,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472040924,"pid":5660,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472040929,"pid":5660,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472043439,"pid":6860,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472043699,"pid":6860,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472043711,"pid":6860,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472090488,"pid":10488,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472090686,"pid":10488,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472090700,"pid":10488,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472097978,"pid":15672,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472098135,"pid":15672,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472098139,"pid":15672,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472102547,"pid":5096,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472102805,"pid":5096,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472102812,"pid":5096,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472127184,"pid":12132,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472127313,"pid":12132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472127318,"pid":12132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472129428,"pid":10456,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472129558,"pid":10456,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472129562,"pid":10456,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472131603,"pid":8812,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472131798,"pid":8812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472131804,"pid":8812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472139820,"pid":3764,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472139991,"pid":3764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472140002,"pid":3764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472143625,"pid":16596,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472143803,"pid":16596,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472143814,"pid":16596,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472145785,"pid":10764,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472145919,"pid":10764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472145924,"pid":10764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472147988,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472148144,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472148151,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690472154290,"pid":16240,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690472154549,"pid":16240,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690472154554,"pid":16240,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473450679,"pid":16268,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473450919,"pid":16268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473450936,"pid":16268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473458654,"pid":2948,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473458801,"pid":2948,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473458807,"pid":2948,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473463941,"pid":15744,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473464097,"pid":15744,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473464106,"pid":15744,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473466573,"pid":14132,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473466757,"pid":14132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473466763,"pid":14132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473488897,"pid":16940,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473489036,"pid":16940,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473489048,"pid":16940,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473492622,"pid":10400,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473492740,"pid":10400,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473492747,"pid":10400,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473495662,"pid":5976,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473495808,"pid":5976,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473495813,"pid":5976,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473498815,"pid":3380,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473498972,"pid":3380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473498978,"pid":3380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473506908,"pid":15500,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473507121,"pid":15500,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473507126,"pid":15500,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473617643,"pid":15076,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473617774,"pid":15076,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473617782,"pid":15076,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690473839823,"pid":452,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690473840137,"pid":452,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690473840163,"pid":452,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474040760,"pid":11448,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474040971,"pid":11448,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474040977,"pid":11448,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474048799,"pid":13028,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474048968,"pid":13028,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474048977,"pid":13028,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474097053,"pid":13404,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474097306,"pid":13404,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474097310,"pid":13404,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474188005,"pid":7100,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474188134,"pid":7100,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474188140,"pid":7100,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474195395,"pid":7100,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":59258},"msg":"incoming request"}
+{"level":50,"time":1690474195409,"pid":7100,"hostname":"GeorgiGalechyan","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'transact')","stack":"TypeError: Cannot read properties of undefined (reading 'transact')\n    at createNewUser (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:44:22)\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:41:13)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)"},"msg":"Cannot read properties of undefined (reading 'transact')"}
+{"level":50,"time":1690474195410,"pid":7100,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя galechyan"}
+{"level":30,"time":1690474195422,"pid":7100,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":26.221400022506714,"msg":"request completed"}
+{"level":30,"time":1690474480449,"pid":15732,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474480809,"pid":15732,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474480836,"pid":15732,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474484660,"pid":3764,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474484862,"pid":3764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474484867,"pid":3764,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474484997,"pid":3764,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":53347},"msg":"incoming request"}
+{"level":50,"time":1690474485008,"pid":3764,"hostname":"GeorgiGalechyan","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'transact')","stack":"TypeError: Cannot read properties of undefined (reading 'transact')\n    at createNewUser (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:44:22)\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:41:13)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)"},"msg":"Cannot read properties of undefined (reading 'transact')"}
+{"level":50,"time":1690474485009,"pid":3764,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя galechyan"}
+{"level":30,"time":1690474485019,"pid":3764,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":21.11900007724762,"msg":"request completed"}
+{"level":30,"time":1690474507419,"pid":7688,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474507597,"pid":7688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474507603,"pid":7688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474508759,"pid":7688,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":53365},"msg":"incoming request"}
+{"level":30,"time":1690474508777,"pid":7688,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690474508788,"pid":7688,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":27.81760001182556,"msg":"request completed"}
+{"level":40,"time":1690474508796,"pid":7688,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"FastifyError","message":"Reply was already sent.","stack":"FastifyError: Reply was already sent.\n    at Reply.send (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\reply.js:127:26)\n    at onResult (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:49:19)\n    at PendingItem.callback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:12:21)\n    at Client._connectionCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:254:23)\n    at Client._handleErrorWhileConnecting (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:327:19)\n    at Client._handleErrorEvent (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:337:19)\n    at Connection.emit (node:events:513:28)\n    at Socket.reportStreamError (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\connection.js:58:12)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)","code":"FST_ERR_REP_ALREADY_SENT","name":"FastifyError","statusCode":500},"msg":"Reply already sent"}
+{"level":30,"time":1690474573683,"pid":10380,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474573863,"pid":10380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474573873,"pid":10380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474576437,"pid":10380,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":53415},"msg":"incoming request"}
+{"level":30,"time":1690474576455,"pid":10380,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690474576468,"pid":10380,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":30.556699991226196,"msg":"request completed"}
+{"level":30,"time":1690474639559,"pid":17396,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474639764,"pid":17396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474639775,"pid":17396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474643013,"pid":17396,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":53452},"msg":"incoming request"}
+{"level":30,"time":1690474643031,"pid":17396,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690474643043,"pid":17396,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":29.392599940299988,"msg":"request completed"}
+{"level":30,"time":1690474739373,"pid":15384,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474739682,"pid":15384,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474739688,"pid":15384,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474752956,"pid":16748,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474753100,"pid":16748,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474753107,"pid":16748,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474758987,"pid":4380,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474759133,"pid":4380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474759138,"pid":4380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474766629,"pid":2264,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474766740,"pid":2264,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474766744,"pid":2264,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474775066,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474775226,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474775235,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474794179,"pid":7692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474794351,"pid":7692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474794357,"pid":7692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474822837,"pid":7692,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":53512},"msg":"incoming request"}
+{"level":50,"time":1690474822851,"pid":7692,"hostname":"GeorgiGalechyan","err":{"type":"TypeError","message":"app.pg.transact is not a function","stack":"TypeError: app.pg.transact is not a function\n    at createNewUser (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:44:16)\n    at Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:41:13)\n    at preHandlerCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)"},"msg":"app.pg.transact is not a function"}
+{"level":50,"time":1690474822852,"pid":7692,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя alaverdyan"}
+{"level":30,"time":1690474822861,"pid":7692,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":23.316200017929077,"msg":"request completed"}
+{"level":30,"time":1690474866490,"pid":10196,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474866706,"pid":10196,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474866712,"pid":10196,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474870900,"pid":10196,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":53539},"msg":"incoming request"}
+{"level":30,"time":1690474870918,"pid":10196,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690474870931,"pid":10196,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":30.486000061035156,"msg":"request completed"}
+{"level":30,"time":1690474937340,"pid":13992,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474937486,"pid":13992,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474937495,"pid":13992,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474945002,"pid":16916,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474945266,"pid":16916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474945284,"pid":16916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474948272,"pid":13708,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474948385,"pid":13708,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474948389,"pid":13708,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474959602,"pid":7100,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474959782,"pid":7100,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474959791,"pid":7100,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474968511,"pid":17212,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474968635,"pid":17212,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474968640,"pid":17212,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474974303,"pid":4324,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474974449,"pid":4324,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474974453,"pid":4324,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474978999,"pid":1692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474979119,"pid":1692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474979126,"pid":1692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474984269,"pid":5636,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474984435,"pid":5636,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474984487,"pid":5636,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474990198,"pid":8060,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474990623,"pid":8060,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474990646,"pid":8060,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690474996117,"pid":12388,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690474996281,"pid":12388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690474996288,"pid":12388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690475021757,"pid":16664,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690475021884,"pid":16664,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690475021888,"pid":16664,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690475040858,"pid":17200,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690475041022,"pid":17200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690475041028,"pid":17200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690475079244,"pid":7028,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690475079352,"pid":7028,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690475079357,"pid":7028,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690475083057,"pid":7028,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"127.0.0.1:5500","remoteAddress":"127.0.0.1","remotePort":53629},"msg":"incoming request"}
+{"level":30,"time":1690475083075,"pid":7028,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690475083086,"pid":7028,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":28.26639997959137,"msg":"request completed"}

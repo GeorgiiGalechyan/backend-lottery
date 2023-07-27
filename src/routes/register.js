@@ -1,4 +1,4 @@
-// opts
+// // opts
 
 const regNewUserOpts = {
   logLevel: 'info',
@@ -35,25 +35,22 @@ export const getRegUserPage = async (app) => {
 }
 
 export const regNewUser = async (app) => {
-  await app.post('/reg/', regNewUserOpts, async function (request, reply) {
+  await app.post('/reg', regNewUserOpts, async function (request, reply) {
     try {
-      // 1. Проверяем тело запроса. Должен быть  {login: '', pass: ''}
-      // 1.1. успех: логируем успех
-      // 1.2. провал: логирем провал, возвращаем сообщение о провале.
-      // 2 Проверяем логин на уникальность;
-      // 2.1. успех:
-      // 2.1.1. вносим данные в БД
-      // 2.1.2. проверяем что данные внеслись в БД (успех или провал)
-      // 2.1.3. отпраляем пользователю сообщение об успешной регистрации
-      // 2.2. провал:
-      // 3) Если всё хорошо, то вносим данные в BD
-      // 4) Возвращаем объект {status: 'error'/'sucesfull', msg: '' }
-      // здесь логика маршрута
+      const { login, password, email } = request.body // получили наши данные
+      await createNewUser(login, password, email)
+
+      async function createNewUser(login, password, email) {
+        app.pg.dev.transact(async (client) => {
+          await client.query(`INSERT INTO users (login, password, email) VALUES (${login}, ${password}, ${email});`)
+        })
+      }
+
       await app.log.info({ msg: 'Post метод отработал (logger)' })
       await reply.send('Post метод отработал (reply.send)')
     } catch (err) {
       await app.log.error(err)
-      await app.log.error({ msg: `Что-то пошло не так при регистрации пользователя ${newUserData.login}` })
+      await app.log.error({ msg: `Что-то пошло не так при регистрации пользователя ${request.body.login}` })
     }
   })
 }

@@ -10,7 +10,7 @@ import fastify from 'fastify'
 
 // Routes
 const { default: getHomePage } = await import('./src/routes/home.js')
-const { getRegUserPage, regNewUser } = await import('./src/routes/register.js')
+const { /*getRegUserPage,*/ regNewUser } = await import('./src/routes/register.js')
 
 // pino - config object = {dev, prod, test}
 
@@ -26,7 +26,7 @@ await app.register(import('./src/plugins/postgres/plugin.js'))
 
 // Registering routes
 await app.register(await import('./src/routes/home.js'))
-await app.register(getRegUserPage)
+// await app.register(getRegUserPage)
 await app.register(regNewUser)
 
 // Start listening
