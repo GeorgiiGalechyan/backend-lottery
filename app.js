@@ -1,5 +1,4 @@
 // Adding __filename and __dirname for ES6 modules.
-
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 const __filename = fileURLToPath(import.meta.url)
@@ -9,7 +8,12 @@ const __dirname = dirname(__filename)
 import _ from './src/services/env/env-scheme.js'
 import fastify from 'fastify'
 
+// Routes
+const { default: getHomePage } = await import('./src/routes/home.js')
+const { getRegUserPage, regNewUser } = await import('./src/routes/register.js')
+
 // pino - config object = {dev, prod, test}
+
 const { default: pino } = await import('./src/services/pino/config/config.js')
 
 /* =================== Main thread =================== */
@@ -21,8 +25,9 @@ const app = fastify({ logger: pino.dev ?? true })
 await app.register(import('./src/plugins/postgres/plugin.js'))
 
 // Registering routes
-await app.register(import('./src/routes/home.js'))
-await app.register(import('./src/routes/register.js'))
+await app.register(await import('./src/routes/home.js'))
+await app.register(getRegUserPage)
+await app.register(regNewUser)
 
 // Start listening
 const start = async () => {
