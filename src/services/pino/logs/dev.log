@@ -848,3 +848,933 @@
 }
 {"level":30,"time":1690617247497,"pid":10844,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
 {"level":30,"time":1690617247502,"pid":10844,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":366.4745999998413,"msg":"request completed"}
+{"level":30,"time":1690618947298,"pid":12828,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690618947433,"pid":12828,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690618947442,"pid":12828,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690618948073,"pid":12828,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60378},"msg":"incoming request"}
+{"level":50,"time":1690618948423,"pid":12828,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'"}
+{"level":30,"time":1690618948423,"pid":12828,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690618948428,"pid":12828,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":353.9157999996096,"msg":"request completed"}
+{"level":30,"time":1690619049539,"pid":6936,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619049714,"pid":6936,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619049721,"pid":6936,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619094114,"pid":5292,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619094232,"pid":5292,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619094236,"pid":5292,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619097900,"pid":10464,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619098036,"pid":10464,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619098057,"pid":10464,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619102152,"pid":12724,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619102303,"pid":12724,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619102312,"pid":12724,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619103450,"pid":12724,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60425},"msg":"incoming request"}
+{"level":50,"time":1690619103855,"pid":12724,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"detail is not defined","stack":"ReferenceError: detail is not defined\n    at createNewUser (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:52:95)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:41:7)"},"msg":"detail is not defined"}
+{"level":50,"time":1690619103856,"pid":12724,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя alaverdyan"}
+{"level":30,"time":1690619103862,"pid":12724,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":411.09960000030696,"msg":"request completed"}
+{"level":30,"time":1690619131844,"pid":5480,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619131974,"pid":5480,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619131980,"pid":5480,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619134535,"pid":6868,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619134618,"pid":6868,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619134621,"pid":6868,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619199554,"pid":8008,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619199668,"pid":8008,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619199673,"pid":8008,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619203110,"pid":5300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619203202,"pid":5300,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619203205,"pid":5300,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619204537,"pid":4892,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619204631,"pid":4892,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619204634,"pid":4892,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619210948,"pid":4892,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60469},"msg":"incoming request"}
+{"level":50,"time":1690619211273,"pid":4892,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","detail":"Key (login)=(alaverdyan) already exists."}
+{"level":30,"time":1690619211273,"pid":4892,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690619211278,"pid":4892,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":329.51650000037625,"msg":"request completed"}
+{"level":30,"time":1690619259073,"pid":12768,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619259267,"pid":12768,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619259272,"pid":12768,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619270926,"pid":10464,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619271044,"pid":10464,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619271050,"pid":10464,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619273236,"pid":10464,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60499},"msg":"incoming request"}
+{"level":50,"time":1690619273580,"pid":10464,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'. Key (login)=(alaverdyan) already exists."}
+{"level":30,"time":1690619273580,"pid":10464,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690619273585,"pid":10464,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":348.624199999962,"msg":"request completed"}
+{"level":30,"time":1690619285547,"pid":6472,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619285676,"pid":6472,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619285682,"pid":6472,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619288468,"pid":6472,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60506},"msg":"incoming request"}
+{"level":50,"time":1690619288742,"pid":6472,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'.\n Key (login)=(alaverdyan) already exists."}
+{"level":30,"time":1690619288742,"pid":6472,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690619288748,"pid":6472,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":279.59290000004694,"msg":"request completed"}
+{"level":30,"time":1690619311197,"pid":10236,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619311285,"pid":10236,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619311291,"pid":10236,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619314927,"pid":9588,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619315019,"pid":9588,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619315023,"pid":9588,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619317752,"pid":9588,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60514},"msg":"incoming request"}
+{"level":50,"time":1690619318073,"pid":9588,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'.\n Подробности: Key (login)=(alaverdyan) already exists."}
+{"level":30,"time":1690619318073,"pid":9588,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690619318080,"pid":9588,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":327.8843999998644,"msg":"request completed"}
+{"level":30,"time":1690619414102,"pid":6552,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619414243,"pid":6552,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619414247,"pid":6552,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619417115,"pid":4584,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619417203,"pid":4584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619417206,"pid":4584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619503133,"pid":1508,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619503300,"pid":1508,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619503312,"pid":1508,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619504746,"pid":6040,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619504869,"pid":6040,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619504880,"pid":6040,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619509150,"pid":6328,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619509280,"pid":6328,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619509284,"pid":6328,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619510926,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619511008,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619511012,"pid":4804,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619513762,"pid":8136,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619513861,"pid":8136,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619513865,"pid":8136,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619516580,"pid":10344,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619516728,"pid":10344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619516745,"pid":10344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619525767,"pid":4204,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619525937,"pid":4204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619525941,"pid":4204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619540453,"pid":8892,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619540547,"pid":8892,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619540551,"pid":8892,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619542402,"pid":1920,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619542521,"pid":1920,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619542525,"pid":1920,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619544181,"pid":4572,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619544291,"pid":4572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619544295,"pid":4572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619548073,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619548171,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619548174,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619564529,"pid":12816,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619564679,"pid":12816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619564682,"pid":12816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619571049,"pid":9568,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619571153,"pid":9568,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619571156,"pid":9568,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619575477,"pid":12956,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619575583,"pid":12956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619575586,"pid":12956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619576648,"pid":4808,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619576733,"pid":4808,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619576736,"pid":4808,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619579375,"pid":11832,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619579509,"pid":11832,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619579513,"pid":11832,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619597528,"pid":12264,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619597613,"pid":12264,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619597616,"pid":12264,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619668162,"pid":1108,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619668266,"pid":1108,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619668270,"pid":1108,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619676163,"pid":1904,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619676263,"pid":1904,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619676267,"pid":1904,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619687462,"pid":10816,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619687627,"pid":10816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619687633,"pid":10816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619697505,"pid":2020,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619697590,"pid":2020,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619697593,"pid":2020,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619703707,"pid":6880,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619703804,"pid":6880,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619703814,"pid":6880,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619710737,"pid":13016,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619710826,"pid":13016,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619710829,"pid":13016,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619735629,"pid":9904,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619735806,"pid":9904,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619735816,"pid":9904,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619741964,"pid":10584,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619742074,"pid":10584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619742081,"pid":10584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619772161,"pid":6008,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619772262,"pid":6008,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619772265,"pid":6008,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619774716,"pid":12692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619774804,"pid":12692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619774807,"pid":12692,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619779731,"pid":4044,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619779861,"pid":4044,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619779865,"pid":4044,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619786298,"pid":1516,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619786392,"pid":1516,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619786395,"pid":1516,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619787949,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619788081,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619788085,"pid":8256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619790175,"pid":1168,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619790276,"pid":1168,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619790280,"pid":1168,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619792214,"pid":7584,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619792303,"pid":7584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619792306,"pid":7584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619795968,"pid":1916,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619796053,"pid":1916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619796057,"pid":1916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619800742,"pid":10108,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619802294,"pid":6444,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619802382,"pid":6444,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619802385,"pid":6444,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619804084,"pid":9968,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619804201,"pid":9968,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619804204,"pid":9968,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619806193,"pid":8344,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619806285,"pid":8344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619806288,"pid":8344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619809016,"pid":8816,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619809109,"pid":8816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619809112,"pid":8816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619816846,"pid":4800,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619817003,"pid":4800,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619817007,"pid":4800,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619818828,"pid":2244,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619818926,"pid":2244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619818931,"pid":2244,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619821151,"pid":11772,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619821293,"pid":11772,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619821296,"pid":11772,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619822867,"pid":3080,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619823004,"pid":3080,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619823007,"pid":3080,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619824484,"pid":9980,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619824596,"pid":9980,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619824601,"pid":9980,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619827245,"pid":8900,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619827335,"pid":8900,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619827338,"pid":8900,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619847228,"pid":9588,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619847368,"pid":9588,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619847371,"pid":9588,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619850060,"pid":4384,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619850234,"pid":4384,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619850240,"pid":4384,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619855719,"pid":11772,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619855932,"pid":11772,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619855942,"pid":11772,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619860712,"pid":4704,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619860822,"pid":4704,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619860824,"pid":4704,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619863644,"pid":5040,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619863785,"pid":5040,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619863790,"pid":5040,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619866725,"pid":13184,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619866822,"pid":13184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619866825,"pid":13184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619880459,"pid":4384,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619880615,"pid":4384,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619880619,"pid":4384,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619883132,"pid":11936,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619883216,"pid":11936,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619883219,"pid":11936,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619886982,"pid":3460,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619887163,"pid":3460,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619887166,"pid":3460,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619893121,"pid":9576,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619893259,"pid":9576,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619893264,"pid":9576,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619897212,"pid":10016,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619897306,"pid":10016,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619897309,"pid":10016,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619901529,"pid":5992,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619901630,"pid":5992,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619901633,"pid":5992,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619904068,"pid":10152,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619904199,"pid":10152,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619904204,"pid":10152,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619906438,"pid":12616,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619906596,"pid":12616,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619906604,"pid":12616,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619913729,"pid":6840,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619913815,"pid":6840,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619913818,"pid":6840,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619919625,"pid":12696,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619919717,"pid":12696,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619919720,"pid":12696,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619923026,"pid":7584,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619923193,"pid":7584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619923198,"pid":7584,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619924612,"pid":8484,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619924736,"pid":8484,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619924740,"pid":8484,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619926889,"pid":5256,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619926968,"pid":5256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619926972,"pid":5256,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619932999,"pid":12816,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619933078,"pid":12816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619933081,"pid":12816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619935560,"pid":9328,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619935651,"pid":9328,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619935655,"pid":9328,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619937789,"pid":12848,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619937887,"pid":12848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619937890,"pid":12848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619943664,"pid":12788,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619943762,"pid":12788,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619943766,"pid":12788,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619946944,"pid":3224,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619947028,"pid":3224,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619947030,"pid":3224,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619950920,"pid":4012,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690619951231,"pid":4012,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690619951235,"pid":4012,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690619971301,"pid":4012,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60707},"msg":"incoming request"}
+{"level":50,"time":1690619971638,"pid":4012,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'.\n            {\n              \n Тип ошибки (type): undefined. \n              \n Код ошибки (code): 23505, \n              \n Сообщение (message): duplicate key value violates unique constraint \"users_login_key\", \n              \n Детали (detail): Key (login)=(alaverdyan) already exists., \n              \n Таблица (table): users, \n              \n Ограничение (constraint): users_login_key\n            }"}
+{"level":30,"time":1690619971638,"pid":4012,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690619971646,"pid":4012,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":344.0255000004545,"msg":"request completed"}
+{"level":30,"time":1690620021740,"pid":9512,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620021822,"pid":9512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620021825,"pid":9512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620023987,"pid":572,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620024088,"pid":572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620024090,"pid":572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620029212,"pid":356,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620029298,"pid":356,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620029301,"pid":356,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620034944,"pid":4452,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620035064,"pid":4452,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620035068,"pid":4452,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620041158,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620041274,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620041277,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620070207,"pid":496,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620070316,"pid":496,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620070320,"pid":496,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620072826,"pid":1916,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620072956,"pid":1916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620072960,"pid":1916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620075985,"pid":912,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620076105,"pid":912,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620076108,"pid":912,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620080839,"pid":10200,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620080919,"pid":10200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620080922,"pid":10200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620259079,"pid":8136,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620259171,"pid":8136,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620259174,"pid":8136,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620262225,"pid":8136,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60839},"msg":"incoming request"}
+{"level":50,"time":1690620262578,"pid":8136,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key"}
+{"level":30,"time":1690620262578,"pid":8136,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690620262583,"pid":8136,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":355.18599999975413,"msg":"request completed"}
+{"level":30,"time":1690620294469,"pid":12424,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620294600,"pid":12424,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620294603,"pid":12424,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620297112,"pid":7448,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620297228,"pid":7448,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620297232,"pid":7448,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620300483,"pid":9184,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620300593,"pid":9184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620300598,"pid":9184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620305395,"pid":9184,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60849},"msg":"incoming request"}
+{"level":50,"time":1690620305723,"pid":9184,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key"}
+{"level":30,"time":1690620305723,"pid":9184,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690620305728,"pid":9184,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":332.59539999999106,"msg":"request completed"}
+{"level":30,"time":1690620340329,"pid":9308,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620340449,"pid":9308,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620340454,"pid":9308,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620341739,"pid":9308,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60857},"msg":"incoming request"}
+{"level":50,"time":1690620342106,"pid":9308,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key"}
+{"level":50,"time":1690620342106,"pid":9308,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":30,"time":1690620342106,"pid":9308,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690620342111,"pid":9308,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":371.9238999998197,"msg":"request completed"}
+{"level":30,"time":1690620354899,"pid":8520,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620354994,"pid":8520,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620354998,"pid":8520,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620369251,"pid":5292,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620369335,"pid":5292,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620369339,"pid":5292,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620376736,"pid":9208,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620376825,"pid":9208,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620376827,"pid":9208,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620381689,"pid":684,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620381792,"pid":684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620381795,"pid":684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620384943,"pid":11548,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620385118,"pid":11548,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620385123,"pid":11548,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620386697,"pid":12848,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620386810,"pid":12848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620386813,"pid":12848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620388957,"pid":12848,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60877},"msg":"incoming request"}
+{"level":50,"time":1690620389329,"pid":12848,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key"}
+{"level":50,"time":1690620389329,"pid":12848,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":30,"time":1690620389330,"pid":12848,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690620389335,"pid":12848,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":375.8008000003174,"msg":"request completed"}
+{"level":30,"time":1690620420869,"pid":4152,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620421051,"pid":4152,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620421064,"pid":4152,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620425842,"pid":4152,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60887},"msg":"incoming request"}
+{"level":50,"time":1690620426215,"pid":4152,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key"}
+{"level":50,"time":1690620426215,"pid":4152,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":30,"time":1690620426216,"pid":4152,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690620426222,"pid":4152,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":378.65270000044256,"msg":"request completed"}
+{"level":30,"time":1690620447383,"pid":12248,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620447469,"pid":12248,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620447473,"pid":12248,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620472025,"pid":12788,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620472132,"pid":12788,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620472136,"pid":12788,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620489272,"pid":2252,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620489365,"pid":2252,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620489368,"pid":2252,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620493136,"pid":2252,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60918},"msg":"incoming request"}
+{"level":50,"time":1690620493481,"pid":2252,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key","Стек (stack)":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":50,"time":1690620493481,"pid":2252,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":30,"time":1690620493482,"pid":2252,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690620493487,"pid":2252,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":350.92889999970794,"msg":"request completed"}
+{"level":30,"time":1690620547891,"pid":10048,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620548107,"pid":10048,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620548115,"pid":10048,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620551812,"pid":8672,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620551892,"pid":8672,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620551895,"pid":8672,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620553391,"pid":5200,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620553529,"pid":5200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620553532,"pid":5200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620555506,"pid":5200,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60939},"msg":"incoming request"}
+{"level":50,"time":1690620555848,"pid":5200,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key","Стек (stack)":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":50,"time":1690620555852,"pid":5200,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":30,"time":1690620555853,"pid":5200,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690620555860,"pid":5200,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":353.1068000001833,"msg":"request completed"}
+{"level":30,"time":1690620571021,"pid":8696,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620571114,"pid":8696,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620571118,"pid":8696,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620575592,"pid":1560,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620575787,"pid":1560,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620575792,"pid":1560,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620578409,"pid":1560,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":60950},"msg":"incoming request"}
+{"level":50,"time":1690620578675,"pid":1560,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key","Стек (stack)":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":50,"time":1690620578675,"pid":1560,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1690620578675,"pid":1560,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690620578685,"pid":1560,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":275.0952999992296,"msg":"request completed"}
+{"level":30,"time":1690620719883,"pid":9396,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620719996,"pid":9396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620720000,"pid":9396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620723024,"pid":496,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620723205,"pid":496,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620723210,"pid":496,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620725660,"pid":12276,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620725981,"pid":12276,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620725987,"pid":12276,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620727281,"pid":11520,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620727412,"pid":11520,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620727416,"pid":11520,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690620745746,"pid":2628,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690620745865,"pid":2628,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690620745868,"pid":2628,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690626130405,"pid":2628,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690626130486,"pid":2628,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690626130489,"pid":2628,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690626131312,"pid":2628,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":50948},"msg":"incoming request"}
+{"level":50,"time":1690626131675,"pid":2628,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key","Стек (stack)":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":50,"time":1690626131675,"pid":2628,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":30,"time":1690626131675,"pid":2628,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690626131681,"pid":2628,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":368.4186000004411,"msg":"request completed"}
+{"level":30,"time":1690627379993,"pid":6656,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627380100,"pid":6656,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627380105,"pid":6656,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627382733,"pid":6656,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51141},"msg":"incoming request"}
+{"level":50,"time":1690627383092,"pid":6656,"hostname":"GeorgiGalechyan","msg":"Ошибка добавления пользователя 'alaverdyan' в таблицу 'users'","Код ошибки (code)":"23505","Сообщение (message)":"duplicate key value violates unique constraint \"users_login_key\"","Детали ошибки (detail)":"Key (login)=(alaverdyan) already exists.","Таблица (table)":"users","Ограничение (constraint)":"users_login_key","Стек (stack)":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690627383093,"pid":6656,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690627383111,"pid":6656,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":377.69730000011623,"msg":"request completed"}
+{"level":30,"time":1690627847632,"pid":13832,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627847725,"pid":13832,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627847728,"pid":13832,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627852944,"pid":10720,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627853052,"pid":10720,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627853056,"pid":10720,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627856576,"pid":1452,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627856766,"pid":1452,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627856773,"pid":1452,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627858547,"pid":13728,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627858658,"pid":13728,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627858661,"pid":13728,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627860495,"pid":14688,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627860616,"pid":14688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627860621,"pid":14688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627864665,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627864748,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627864751,"pid":12760,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627868530,"pid":5924,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627868630,"pid":5924,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627868632,"pid":5924,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627887381,"pid":12868,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627887505,"pid":12868,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627887511,"pid":12868,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627903579,"pid":12740,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627903678,"pid":12740,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627903682,"pid":12740,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627905948,"pid":2880,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627906039,"pid":2880,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627906042,"pid":2880,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627910960,"pid":13336,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690627911059,"pid":13336,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690627911062,"pid":13336,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690627923851,"pid":13336,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51342},"msg":"incoming request"}
+{
+  "level":50,
+  "time":1690627924195,
+  "pid":13336,
+  "hostname":"GeorgiGalechyan",
+  "msg":"Error adding user 'alaverdyan' to table 'users'",
+  "Error code":"23505",
+  "Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.",
+  "DB table":"users",
+  "DB constraint":"users_login_key",
+  "Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"
+}
+
+{"level":30,"time":1690627924195,"pid":13336,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690627924201,"pid":13336,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":348.59149999916553,"msg":"request completed"}
+{"level":30,"time":1690629960427,"pid":14820,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690629960523,"pid":14820,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690629960527,"pid":14820,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690629961143,"pid":14820,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":56684},"msg":"incoming request"}
+{"level":50,"time":1690629961452,"pid":14820,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":30,"time":1690629961454,"pid":14820,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690629961459,"pid":14820,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":315.83479999937117,"msg":"request completed"}
+{"level":30,"time":1690634977916,"pid":5800,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690634978016,"pid":5800,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690634978019,"pid":5800,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690634980536,"pid":5800,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":58607},"msg":"incoming request"}
+{"level":50,"time":1690634980889,"pid":5800,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1690634980889,"pid":5800,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690634980896,"pid":5800,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":359.7520000003278,"msg":"request completed"}
+{"level":30,"time":1690635003723,"pid":6732,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690635003845,"pid":6732,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690635003852,"pid":6732,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690635008913,"pid":6732,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":58625},"msg":"incoming request"}
+{"level":50,"time":1690635009152,"pid":6732,"hostname":"GeorgiGalechyan","msg":"msg: undefined"}
+{"level":30,"time":1690635009152,"pid":6732,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690635009158,"pid":6732,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":243.57869999855757,"msg":"request completed"}
+{"level":30,"time":1690635043233,"pid":13100,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690635043344,"pid":13100,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690635043349,"pid":13100,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690635046856,"pid":13100,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":58647},"msg":"incoming request"}
+{"level":50,"time":1690635047237,"pid":13100,"hostname":"GeorgiGalechyan","msg":"undefined"}
+{"level":30,"time":1690635047237,"pid":13100,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690635047243,"pid":13100,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":386.103900000453,"msg":"request completed"}
+{"level":30,"time":1690636756625,"pid":14368,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690636756712,"pid":14368,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690636756715,"pid":14368,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690636758896,"pid":14400,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690636759017,"pid":14400,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690636759020,"pid":14400,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637063799,"pid":14492,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637063978,"pid":14492,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637063992,"pid":14492,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637067575,"pid":14492,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59328},"msg":"incoming request"}
+{"level":50,"time":1690637067971,"pid":14492,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690637067971,"pid":14492,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637067980,"pid":14492,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":403.26290000230074,"msg":"request completed"}
+{"level":30,"time":1690637079579,"pid":13360,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637079762,"pid":13360,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637079767,"pid":13360,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637085408,"pid":14852,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637085513,"pid":14852,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637085516,"pid":14852,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637188797,"pid":1124,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637188950,"pid":1124,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637188954,"pid":1124,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637191887,"pid":14776,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637192082,"pid":14776,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637192086,"pid":14776,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637193033,"pid":14776,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59379},"msg":"incoming request"}
+{"level":50,"time":1690637193451,"pid":14776,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690637193451,"pid":14776,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637193462,"pid":14776,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":428.2267999984324,"msg":"request completed"}
+{"level":30,"time":1690637202328,"pid":8784,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637202445,"pid":8784,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637202448,"pid":8784,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637204099,"pid":8784,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59393},"msg":"incoming request"}
+{"level":50,"time":1690637204386,"pid":8784,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690637204387,"pid":8784,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637204400,"pid":8784,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":299.81359999999404,"msg":"request completed"}
+{"level":30,"time":1690637222954,"pid":12964,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637223101,"pid":12964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637223106,"pid":12964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637227532,"pid":12964,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59400},"msg":"incoming request"}
+{"level":50,"time":1690637227866,"pid":12964,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Error type":"000","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690637227866,"pid":12964,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637227872,"pid":12964,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":339.2672999985516,"msg":"request completed"}
+{"level":30,"time":1690637243360,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637243506,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637243512,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637246564,"pid":13944,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637246690,"pid":13944,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637246694,"pid":13944,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637249090,"pid":13944,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59406},"msg":"incoming request"}
+{"level":50,"time":1690637249400,"pid":13944,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Error type":{"length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690637249400,"pid":13944,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637249407,"pid":13944,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":315.52560000121593,"msg":"request completed"}
+{"level":30,"time":1690637360954,"pid":680,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637361032,"pid":680,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637361035,"pid":680,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637362609,"pid":15228,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637362696,"pid":15228,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637362699,"pid":15228,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637373463,"pid":9964,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637373561,"pid":9964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637373565,"pid":9964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637377661,"pid":14620,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637377739,"pid":14620,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637377743,"pid":14620,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637383269,"pid":6512,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637383355,"pid":6512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637383358,"pid":6512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637389999,"pid":14300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637390240,"pid":14300,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637390284,"pid":14300,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637392647,"pid":7904,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637392787,"pid":7904,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637392791,"pid":7904,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637402212,"pid":10348,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637402400,"pid":10348,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637402404,"pid":10348,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637412012,"pid":13688,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637412222,"pid":13688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637412237,"pid":13688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637413857,"pid":14512,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637414087,"pid":14512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637414094,"pid":14512,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637418797,"pid":14512,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59430},"msg":"incoming request"}
+{"level":50,"time":1690637419145,"pid":14512,"hostname":"GeorgiGalechyan","error":{"length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"}}
+{"level":50,"time":1690637419146,"pid":14512,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690637419146,"pid":14512,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637419152,"pid":14512,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":353.80209999904037,"msg":"request completed"}
+{"level":30,"time":1690637442343,"pid":432,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637442473,"pid":432,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637442477,"pid":432,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637447238,"pid":4572,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637447379,"pid":4572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637447386,"pid":4572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637450212,"pid":4388,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637450647,"pid":4388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637450651,"pid":4388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637453975,"pid":4388,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59445},"msg":"incoming request"}
+{"level":50,"time":1690637454343,"pid":4388,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637454345,"pid":4388,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690637454345,"pid":4388,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637454351,"pid":4388,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":375.29580000042915,"msg":"request completed"}
+{"level":30,"time":1690637481449,"pid":14416,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637481562,"pid":14416,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637481566,"pid":14416,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637484443,"pid":14852,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637484555,"pid":14852,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637484560,"pid":14852,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637488799,"pid":5660,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637488984,"pid":5660,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637489008,"pid":5660,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637512203,"pid":9108,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637512297,"pid":9108,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637512299,"pid":9108,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637526500,"pid":12964,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637526616,"pid":12964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637526621,"pid":12964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637530932,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637531023,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637531026,"pid":4812,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637536528,"pid":15032,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637536674,"pid":15032,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637536679,"pid":15032,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637537373,"pid":15032,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59455},"msg":"incoming request"}
+{"level":50,"time":1690637537697,"pid":15032,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637537698,"pid":15032,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505"}
+{"level":30,"time":1690637537698,"pid":15032,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637537708,"pid":15032,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":333.7705999985337,"msg":"request completed"}
+{"level":30,"time":1690637575151,"pid":2280,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637575228,"pid":2280,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637575231,"pid":2280,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637641739,"pid":15116,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637641865,"pid":15116,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637641868,"pid":15116,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637644383,"pid":2036,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637644457,"pid":2036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637644459,"pid":2036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637647463,"pid":2600,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637647590,"pid":2600,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637647595,"pid":2600,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637649232,"pid":12588,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637649351,"pid":12588,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637649355,"pid":12588,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637661863,"pid":3200,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637662036,"pid":3200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637662042,"pid":3200,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637665844,"pid":3200,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59477},"msg":"incoming request"}
+{"level":50,"time":1690637666224,"pid":3200,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637666230,"pid":3200,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637666231,"pid":3200,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505"}
+{"level":30,"time":1690637666231,"pid":3200,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637666251,"pid":3200,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":405.4336999990046,"msg":"request completed"}
+{"level":30,"time":1690637685821,"pid":12344,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637685928,"pid":12344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637685933,"pid":12344,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637689161,"pid":15112,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637689269,"pid":15112,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637689272,"pid":15112,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637711033,"pid":11816,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637711116,"pid":11816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637711119,"pid":11816,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637728650,"pid":11816,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59499},"msg":"incoming request"}
+{"level":50,"time":1690637729066,"pid":11816,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637729067,"pid":11816,"hostname":"GeorgiGalechyan","error":{"length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"}}
+{"level":50,"time":1690637729067,"pid":11816,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505"}
+{"level":30,"time":1690637729067,"pid":11816,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637729082,"pid":11816,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":430.4217999987304,"msg":"request completed"}
+{"level":30,"time":1690637750276,"pid":14184,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637750399,"pid":14184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637750402,"pid":14184,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637755902,"pid":8836,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637755991,"pid":8836,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637755995,"pid":8836,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637760504,"pid":15128,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637760610,"pid":15128,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637760613,"pid":15128,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637761932,"pid":9292,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637762056,"pid":9292,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637762062,"pid":9292,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637779557,"pid":6400,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637779639,"pid":6400,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637779642,"pid":6400,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637805838,"pid":6400,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59507},"msg":"incoming request"}
+{"level":50,"time":1690637806191,"pid":6400,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637806192,"pid":6400,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637806192,"pid":6400,"hostname":"GeorgiGalechyan","error":{"length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"}}
+{"level":50,"time":1690637806192,"pid":6400,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505"}
+{"level":30,"time":1690637806192,"pid":6400,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637806206,"pid":6400,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":367.34050000086427,"msg":"request completed"}
+{"level":30,"time":1690637833060,"pid":10044,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637833281,"pid":10044,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637833285,"pid":10044,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637834737,"pid":14572,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637834841,"pid":14572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637834845,"pid":14572,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637840042,"pid":13776,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637840115,"pid":13776,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637840119,"pid":13776,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637845599,"pid":13776,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59522},"msg":"incoming request"}
+{"level":50,"time":1690637845946,"pid":13776,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637845947,"pid":13776,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637845947,"pid":13776,"hostname":"GeorgiGalechyan","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'type')","stack":"TypeError: Cannot read properties of undefined (reading 'type')\n    at createNewUser (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:54:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:41:7)"},"msg":"Cannot read properties of undefined (reading 'type')"}
+{"level":50,"time":1690637845947,"pid":13776,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя alaverdyan"}
+{"level":30,"time":1690637845951,"pid":13776,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":351.37149999663234,"msg":"request completed"}
+{"level":30,"time":1690637877009,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690637877141,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690637877181,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690637886410,"pid":9956,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59529},"msg":"incoming request"}
+{"level":50,"time":1690637886762,"pid":9956,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637886763,"pid":9956,"hostname":"GeorgiGalechyan","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13","length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
+{"level":50,"time":1690637886763,"pid":9956,"hostname":"GeorgiGalechyan","error":{"length":202,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(alaverdyan) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"}}
+{"level":50,"time":1690637886763,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505"}
+{"level":30,"time":1690637886763,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690637886771,"pid":9956,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":360.6359000019729,"msg":"request completed"}
+{"level":30,"time":1690639311573,"pid":13380,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639311715,"pid":13380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639311723,"pid":13380,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639315174,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639315300,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639315303,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639351152,"pid":14720,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639351290,"pid":14720,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639351294,"pid":14720,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639353569,"pid":14720,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59785},"msg":"incoming request"}
+{"level":50,"time":1690639353990,"pid":14720,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Error type":"error","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690639353990,"pid":14720,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690639354003,"pid":14720,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":432.24929999932647,"msg":"request completed"}
+{"level":30,"time":1690639370815,"pid":8092,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639370915,"pid":8092,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639370919,"pid":8092,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639372573,"pid":2948,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639372708,"pid":2948,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639372711,"pid":2948,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639376477,"pid":15300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639376554,"pid":15300,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639376557,"pid":15300,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639378604,"pid":13928,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639378688,"pid":13928,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639378691,"pid":13928,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639381589,"pid":5080,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639381679,"pid":5080,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639381683,"pid":5080,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639385267,"pid":5080,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59797},"msg":"incoming request"}
+{"level":50,"time":1690639385586,"pid":5080,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690639385586,"pid":5080,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690639385592,"pid":5080,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":324.2102999985218,"msg":"request completed"}
+{"level":30,"time":1690639406755,"pid":7740,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639406857,"pid":7740,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639406860,"pid":7740,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639408630,"pid":7740,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59804},"msg":"incoming request"}
+{"level":50,"time":1690639408922,"pid":7740,"hostname":"GeorgiGalechyan","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690639408922,"pid":7740,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690639408932,"pid":7740,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":301.3999000005424,"msg":"request completed"}
+{"level":30,"time":1690639431038,"pid":12808,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639431152,"pid":12808,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639431155,"pid":12808,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639437308,"pid":15204,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639437396,"pid":15204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639437399,"pid":15204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639439151,"pid":14924,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639439242,"pid":14924,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639439246,"pid":14924,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639494911,"pid":1352,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639495108,"pid":1352,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639495112,"pid":1352,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639497520,"pid":14500,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639497690,"pid":14500,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639497695,"pid":14500,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639502989,"pid":3516,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639503075,"pid":3516,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639503077,"pid":3516,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639508308,"pid":3504,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639508492,"pid":3504,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639508510,"pid":3504,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639510498,"pid":12840,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639510644,"pid":12840,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639510663,"pid":12840,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639513112,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639513205,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639513208,"pid":14592,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639517454,"pid":14272,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639517575,"pid":14272,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639517578,"pid":14272,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639519264,"pid":3180,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639519359,"pid":3180,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639519362,"pid":3180,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639521460,"pid":228,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639521662,"pid":228,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639521669,"pid":228,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639523572,"pid":228,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59825},"msg":"incoming request"}
+{"level":50,"time":1690639523954,"pid":228,"hostname":"GeorgiGalechyan","err":{"type":"SyntaxError","message":"Unexpected token e in JSON at position 0","stack":"SyntaxError: Unexpected token e in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at createNewUser (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:52:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:41:7)"},"msg":"Unexpected token e in JSON at position 0"}
+{"level":50,"time":1690639523954,"pid":228,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя alaverdyan"}
+{"level":30,"time":1690639523961,"pid":228,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":388.3113000020385,"msg":"request completed"}
+{"level":30,"time":1690639546055,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639546205,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639546210,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639547719,"pid":14600,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59829},"msg":"incoming request"}
+{"level":50,"time":1690639548096,"pid":14600,"hostname":"GeorgiGalechyan","err":{"type":"SyntaxError","message":"Unexpected token e in JSON at position 0","stack":"SyntaxError: Unexpected token e in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at createNewUser (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:52:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:41:7)"},"msg":"Unexpected token e in JSON at position 0"}
+{"level":50,"time":1690639548097,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя alaverdyan"}
+{"level":30,"time":1690639548104,"pid":14600,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":383.5182999968529,"msg":"request completed"}
+{"level":30,"time":1690639568836,"pid":14676,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639568985,"pid":14676,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639569004,"pid":14676,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639570962,"pid":11172,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639571070,"pid":11172,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639571074,"pid":11172,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639577095,"pid":14396,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639577281,"pid":14396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639577299,"pid":14396,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639669929,"pid":9904,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639670057,"pid":9904,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639670061,"pid":9904,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639673980,"pid":14848,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639674065,"pid":14848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639674068,"pid":14848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639676608,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639676716,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639676721,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639678176,"pid":9956,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59854},"msg":"incoming request"}
+{"level":50,"time":1690639678563,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690639678563,"pid":9956,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690639678568,"pid":9956,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":392.332000002265,"msg":"request completed"}
+{"level":30,"time":1690639696384,"pid":14364,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639696503,"pid":14364,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639696507,"pid":14364,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639699308,"pid":14364,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59858},"msg":"incoming request"}
+{"level":50,"time":1690639699580,"pid":14364,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Error type":{},"Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690639699580,"pid":14364,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690639699592,"pid":14364,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":283.4919000007212,"msg":"request completed"}
+{"level":30,"time":1690639713962,"pid":12204,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639714049,"pid":12204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639714052,"pid":12204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639715346,"pid":10148,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639715452,"pid":10148,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639715456,"pid":10148,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639716906,"pid":10148,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59864},"msg":"incoming request"}
+{"level":50,"time":1690639717270,"pid":10148,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Error type":{},"Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690639717270,"pid":10148,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690639717278,"pid":10148,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":371.22450000047684,"msg":"request completed"}
+{"level":30,"time":1690639725066,"pid":10148,"hostname":"GeorgiGalechyan","reqId":"req-2","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59864},"msg":"incoming request"}
+{"level":50,"time":1690639725161,"pid":10148,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Error type":{},"Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690639725162,"pid":10148,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690639725162,"pid":10148,"hostname":"GeorgiGalechyan","reqId":"req-2","res":{"statusCode":200},"responseTime":96.41759999841452,"msg":"request completed"}
+{"level":30,"time":1690639736682,"pid":4844,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639736809,"pid":4844,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639736812,"pid":4844,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639739032,"pid":13916,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639739118,"pid":13916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639739121,"pid":13916,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690639745683,"pid":11912,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690639745785,"pid":11912,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690639745788,"pid":11912,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690640140533,"pid":7436,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690640140751,"pid":7436,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690640140755,"pid":7436,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690640143932,"pid":13960,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690640144103,"pid":13960,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690640144113,"pid":13960,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690640145680,"pid":7108,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690640145842,"pid":7108,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690640145846,"pid":7108,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690640154580,"pid":13964,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690640154692,"pid":13964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690640154694,"pid":13964,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690640158294,"pid":4688,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690640158406,"pid":4688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690640158410,"pid":4688,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690640162857,"pid":4688,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":59923},"msg":"incoming request"}
+{"level":50,"time":1690640168261,"pid":4688,"hostname":"GeorgiGalechyan","err":{"type":"ReferenceError","message":"error is not defined","stack":"ReferenceError: error is not defined\n    at createNewUser (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:52:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.<anonymous> (file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:41:7)"},"msg":"error is not defined"}
+{"level":50,"time":1690640168262,"pid":4688,"hostname":"GeorgiGalechyan","msg":"Что-то пошло не так при регистрации пользователя alaverdyan"}
+{"level":30,"time":1690640168271,"pid":4688,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":5412.778500001878,"msg":"request completed"}
+{"level":30,"time":1690640192937,"pid":10848,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690640193044,"pid":10848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690640193048,"pid":10848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643540841,"pid":10848,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":50997},"msg":"incoming request"}
+{"level":50,"time":1690643541206,"pid":10848,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690643541206,"pid":10848,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690643541215,"pid":10848,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":373.2719999998808,"msg":"request completed"}
+{"level":30,"time":1690643665345,"pid":12724,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690643665480,"pid":12724,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690643665486,"pid":12724,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643668266,"pid":15100,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690643668344,"pid":15100,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690643668347,"pid":15100,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643675206,"pid":5684,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690643675302,"pid":5684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690643675307,"pid":5684,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643679352,"pid":5684,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51015},"msg":"incoming request"}
+{"level":50,"time":1690643679717,"pid":5684,"hostname":"GeorgiGalechyan"}
+{"level":30,"time":1690643679717,"pid":5684,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690643679724,"pid":5684,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":372.0167999975383,"msg":"request completed"}
+{"level":30,"time":1690643694061,"pid":7704,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690643694166,"pid":7704,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690643694173,"pid":7704,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643700782,"pid":14612,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690643700889,"pid":14612,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690643700893,"pid":14612,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643704246,"pid":14224,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690643704351,"pid":14224,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690643704355,"pid":14224,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643709304,"pid":14224,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51021},"msg":"incoming request"}
+{"level":50,"time":1690643709637,"pid":14224,"hostname":"GeorgiGalechyan","msg":"undefined"}
+{"level":30,"time":1690643709637,"pid":14224,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690643709647,"pid":14224,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":340.3799999989569,"msg":"request completed"}
+{"level":30,"time":1690643864550,"pid":14156,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690643864666,"pid":14156,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690643864669,"pid":14156,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643868887,"pid":13968,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1690643868994,"pid":13968,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1690643868997,"pid":13968,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1690643874534,"pid":13968,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51044},"msg":"incoming request"}
+{"level":50,"time":1690643874857,"pid":13968,"hostname":"GeorgiGalechyan","msg":"Error adding user 'alaverdyan' to table 'users'","Error code":"23505","Message":"duplicate key value violates unique constraint \"users_login_key\"","Detail":"Key (login)=(alaverdyan) already exists.","DB table":"users","DB constraint":"users_login_key","Stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/routes/register.js:46:13"}
+{"level":30,"time":1690643874857,"pid":13968,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1690643874871,"pid":13968,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":336.0295999981463,"msg":"request completed"}

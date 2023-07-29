@@ -49,8 +49,16 @@ export const regNewUser = async (app) => {
             await app.log.info({ msg: `Пользователь '${login}' добавлен в таблицу 'users'` })
           })
         } catch (err) {
-          app.log.error({ msg: `Ошибка добавления пользователя '${login}' в таблицу 'users'` })
-          app.log.error(err)
+          app.log.error({
+            msg: `Error adding user '${login}' to table 'users'`,
+            'Error code': err.code,
+            'Error type': err.type,
+            Message: err.message,
+            Detail: err.detail,
+            'DB table': err.table,
+            'DB constraint': err.constraint,
+            Stack: err.stack,
+          })
         }
       }
 
@@ -58,6 +66,7 @@ export const regNewUser = async (app) => {
       await reply.send('Post метод отработал (reply.send)')
     } catch (err) {
       await app.log.error(err)
+
       await app.log.error({ msg: `Что-то пошло не так при регистрации пользователя ${request.body.login}` })
     }
   })
