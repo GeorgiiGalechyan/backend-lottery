@@ -38,17 +38,22 @@ export const regNewUser = async (app) => {
   await app.post('/reg', regNewUserOpts, async function (request, reply) {
     try {
       const { login, password, email } = request.body // получили наши данные
+      await createNewUser(login, password, email)
 
       async function createNewUser(login, password, email) {
-        app.pg.dev.transact(async (client) => {
-          console.log(login)
-          console.log(password)
-          console.log(email)
-          await client.query(`INSERT INTO users VALUES (${login}, ${password}, ${email});`)
-        })
+        try {
+          await app.pg.dev.transact(async (client) => {
+            await client.query(
+              `INSERT INTO users (login, password, email) VALUES ('${login}', '${password}', '${email}') RETURNING *;`
+            )
+            await app.log.info({ msg: `Пользователь '${login}' добавлен в таблицу 'users'` })
+          })
+        } catch (err) {
+          app.log.error({ msg: `Ошибка добавления пользователя '${login}' в таблицу 'users'` })
+          app.log.error(err)
+        }
       }
 
-      await createNewUser(login, password, email)
       await app.log.info({ msg: 'Post метод отработал (logger)' })
       await reply.send('Post метод отработал (reply.send)')
     } catch (err) {
