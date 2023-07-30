@@ -36,8 +36,6 @@ CREATE TABLE IF NOT EXISTS persons {
   orders _______ -- связь с несколькими из табл. orders
 }
 
-
-
 -- basket
 CREATE TABLE IF NOT EXISTS baskets {
   id SERIAL PRIMARY KEY,
@@ -54,17 +52,11 @@ CREATE TABLE IF NOT EXISTS goods {
  -- total_price
 }
 
-
-
-
 -- order
 CREATE TABLE IF NOT EXISTS orders {
   id SERIAL PRIMARY KEY,
   tickets ________ -- связь с несколькими из табл. orders
 }
-
-
-
 
 
 -- tickets
@@ -98,17 +90,3 @@ CREATE TABLE IF NOT EXISTS drawing {
   id SERIAL PRIMARY KEY,
   activity VARCHAR(11)
 }
-
---------------------------------------------------------------------------------
-
-
--- Ищет таблицу по указанным парамертам и возвращает true/false -->
-SELECT EXISTS (SELECT * FROM pg_tables WHERE tablename = 'users' AND tableowner = 'nrdfntug' );
-
-SELECT EXISTS (SELECT * FROM pg_tables WHERE tableowner = 'nrdfntug' );
-
--- Показывает структуру талицы -->
-SELECT column_name, column_default, data_type FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name = 'users';
-
-
--- Показывает содержимое таблицы
