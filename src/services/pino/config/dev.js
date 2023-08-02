@@ -1,40 +1,15 @@
-// Adding __dirname to the ES6 module
-import path from 'path'
-import { fileURLToPath } from 'url'
+// Import serialisers
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
+// const { default: serializers } = await import('./serialise.js')
 
-//============ Multistream with Targets (another way: ) ======================
+// Import Transports for Targets
+const { devTerminal } = await import('./targets/devTerminal.js')
+const { default: devLocalFileInfo } = await import('./targets/devLocalFileInfo.js')
+const { default: devLocalFileError } = await import('./targets/devLocalFileError.js')
 
-const targets = [
-  {
-    name: 'dev-terminal', // можно не указывать
-    level: process.env.PINO_LOG_DEV_LEVEL || 'info',
-    target: 'pino-pretty',
-    options: {
-      // настройки pino-pretty
-      colorize: true, // добавляем цвета в консоль
-      levelFirst: true, // переносим значение level в начало сообщения
-      ignore: 'pid,hostname', // убираем из сообщения id процесса и имя хоста
-      translateTime: 'yyyy-mm-dd HH:MM:ss Z', // меняем формат даты
-    },
-  },
-  {
-    name: 'dev-local-file',
-    level: 'debug',
-    target: 'pino/file',
-    options: {
-      // Настройки 'pino/file'
-      // cr
-      destination: `${__dirname}/../logs/dev.log`,
-      mkdir: true,
-    },
-  },
-]
-
+// Export Opts
 export default {
   transport: {
-    targets,
+    targets: [devTerminal, devLocalFileInfo, devLocalFileError],
   },
 }

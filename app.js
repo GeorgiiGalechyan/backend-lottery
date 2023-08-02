@@ -5,41 +5,28 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 /* =================== Imports =================== */
+import { app, start } from './server.js'
+
 import _ from './src/services/env/env-scheme.js'
-import fastify from 'fastify'
 
 // Routes
+const { getHomePage } = await import('./src/routes/home.js')
 const { getRegUserPage, regNewUser } = await import('./src/routes/register.js')
-
-// pino - config object = {dev, prod, test}
-
-const { default: pino } = await import('./src/services/pino/config/config.js')
 
 /* =================== Main thread =================== */
 
-// Create server
-const app = fastify({ logger: pino.dev ?? true })
-
 // Registering plugins
 await app.register(import('./src/plugins/postgres/plugin.js'))
+app.log.info({ msg: '----- All plugins are registered! -----' })
 
 // Registering routes
-await app.register(await import('./src/routes/home.js'))
-await app.register(getRegUserPage)
-await app.register(regNewUser)
+await app.register(getHomePage).after(app.log.info({ msg: 'Route  GET   "getHomePage"     is registered.' }))
+
+await app.register(getRegUserPage).after(app.log.info({ msg: 'Route  GET   "getRegUserPage"  is registered.' }))
+
+await app.register(regNewUser).after(app.log.info({ msg: 'Route  POST  "regNewUser"      is registered.' }))
+
+app.log.info({ msg: '----- All Routes are registered! -----' })
 
 // Start listening
-const start = async () => {
-  try {
-    app.listen({
-      host: process.env.HOST || 'localhost',
-      port: process.env.PORT || 5000,
-      listenTextResolver: (address) => `Server listening on address ${address}`,
-    })
-  } catch (err) {
-    app.log.error(err)
-    process.exit(1)
-  }
-}
-
 start()

@@ -46,10 +46,10 @@ export const regNewUser = async (app) => {
             await client.query(
               `INSERT INTO users (login, password, email) VALUES ('${login}', '${password}', '${email}') RETURNING *;`
             )
-            await app.log.info({ msg: `Пользователь '${login}' добавлен в таблицу 'users'` })
+            await request.log.info({ msg: `Пользователь '${login}' добавлен в таблицу 'users'` })
           })
         } catch (err) {
-          app.log.error(err)
+          request.log.error(err)
 
           app.log.error({
             msg: `Error adding user '${login}' to table 'users'`,
