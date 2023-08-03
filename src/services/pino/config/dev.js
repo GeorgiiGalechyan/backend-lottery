@@ -1,6 +1,5 @@
 // Import serialisers
-
-// const { default: serializers } = await import('./serialise.js')
+import { serializers } from './serializers/devPino.js'
 
 // Import Transports for Targets
 const { devTerminal } = await import('./targets/devTerminal.js')
@@ -9,6 +8,7 @@ const { default: devLocalFileError } = await import('./targets/devLocalFileError
 
 // Export Opts
 export default {
+  serializers,
   transport: {
     targets: [devTerminal, devLocalFileInfo, devLocalFileError],
   },

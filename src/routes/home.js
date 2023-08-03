@@ -3,7 +3,7 @@ export const getHomePage = async (app) => {
     try {
       await reply.send('Стартовая страница')
     } catch (err) {
-      app.log.error(err)
+      request.log.error(err)
     }
   })
 }

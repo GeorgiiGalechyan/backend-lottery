@@ -51,7 +51,7 @@ export const regNewUser = async (app) => {
         } catch (err) {
           request.log.error(err)
 
-          app.log.error({
+          request.log.error({
             msg: `Error adding user '${login}' to table 'users'`,
             'Error code': err.code,
             'Error type': err.type,

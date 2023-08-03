@@ -5,9 +5,10 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 /* =================== Imports =================== */
-import { app, start } from './server.js'
+import _ from './src/services/env/env-scheme.js' // env
+import { app, start } from './server.js' // 
 
-import _ from './src/services/env/env-scheme.js'
+
 
 // Routes
 const { getHomePage } = await import('./src/routes/home.js')
