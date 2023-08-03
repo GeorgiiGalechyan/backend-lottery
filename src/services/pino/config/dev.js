@@ -1,5 +1,5 @@
 // Import serialisers
-import { serializers } from './serializers/devPino.js'
+import { serializers } from './serializers/dev.js'
 
 // Import Transports for Targets
 const { devTerminal } = await import('./targets/devTerminal.js')
