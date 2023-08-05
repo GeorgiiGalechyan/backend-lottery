@@ -1389,3 +1389,19 @@
 {"level":30,"time":1691070611581,"pid":13856,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
 {"level":30,"time":1691070611651,"pid":13856,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
 {"level":30,"time":1691070611654,"pid":13856,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691099341153,"pid":2176,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691099341155,"pid":2176,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691099341155,"pid":2176,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getHomePage\"     is registered."}
+{"level":30,"time":1691099341160,"pid":2176,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691099341163,"pid":2176,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691099341165,"pid":2176,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691099341225,"pid":2176,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691099341228,"pid":2176,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691099371978,"pid":12004,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691099371980,"pid":12004,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691099371980,"pid":12004,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getHomePage\"     is registered."}
+{"level":30,"time":1691099371985,"pid":12004,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691099371987,"pid":12004,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691099371990,"pid":12004,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691099372050,"pid":12004,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691099372052,"pid":12004,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
