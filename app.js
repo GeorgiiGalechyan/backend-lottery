@@ -6,18 +6,16 @@ const __dirname = dirname(__filename)
 
 /* =================== Imports =================== */
 import _ from './src/services/env/env-scheme.js' // env
-import { app, start } from './server.js' // 
-
-
+import { app, start } from './server.js' //
 
 // Routes
-const { getHomePage } = await import('./src/routes/home.js')
-const { getRegUserPage, regNewUser } = await import('./src/routes/register.js')
+import { getHomePage } from './src/routes/home.js'
+import { getRegUserPage, regNewUser } from './src/routes/register.js'
 
 /* =================== Main thread =================== */
 
 // Registering plugins
-await app.register(import('./src/plugins/postgres/plugin.js'))
+await app.register(import('./src/plugins/postgres/index.js'))
 app.log.info({ msg: '----- All plugins are registered! -----' })
 
 // Registering routes

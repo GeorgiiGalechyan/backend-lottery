@@ -1,4 +1,4 @@
-// // opts
+// opts
 
 const regNewUserOpts = {
   logLevel: 'info',
@@ -28,13 +28,13 @@ const getRegUserPageOpts = {
 }
 
 // Routes
-export const getRegUserPage = async (app) => {
+const getRegUserPage = async (app) => {
   await app.get('/reg', getRegUserPageOpts, async function (request, reply) {
     await reply.send('Здесь будет страница регистрации нового пользователя')
   })
 }
 
-export const regNewUser = async (app) => {
+const regNewUser = async (app) => {
   await app.post('/reg', regNewUserOpts, async function (request, reply) {
     try {
       const { login, password, email } = request.body // получили наши данные
@@ -73,3 +73,5 @@ export const regNewUser = async (app) => {
     }
   })
 }
+
+export { getRegUserPage, regNewUser }

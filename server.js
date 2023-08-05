@@ -4,19 +4,24 @@ import { dirname, join } from 'path'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
-/* =================== Imports =================== */
+// Adding Current Environment Variable
+import { environment } from './src/utils/currentEnvironment.js'
+
+// Adding Env Variables
 import _ from './src/services/env/env-scheme.js'
+
+// Fastify import
 import fastify from 'fastify'
 
 // Logger Pino congiguration
-const { default: pino, environment } = await import('./src/services/pino/index.js')
+import { pino } from './src/services/pino/index.js'
 
 /* =================== Main thread =================== */
 
 // Create server
-export const app = fastify({ logger: pino[environment] ?? { level: 'error' } })
+const app = fastify({ logger: pino[environment] ?? { level: 'error' } })
 
-export function start() {
+function start() {
   try {
     app.listen({
       host: process.env.HOST || 'localhost',
@@ -28,3 +33,5 @@ export function start() {
     process.exit(1)
   }
 }
+
+export { app, start }

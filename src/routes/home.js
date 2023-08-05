@@ -1,4 +1,4 @@
-export const getHomePage = async (app) => {
+const getHomePage = async (app) => {
   await app.get('/', { loglevel: 'info' }, async function (request, reply) {
     try {
       await reply.send('Стартовая страница')
@@ -7,3 +7,5 @@ export const getHomePage = async (app) => {
     }
   })
 }
+
+export { getHomePage }
