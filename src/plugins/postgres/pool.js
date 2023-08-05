@@ -1,3 +1,5 @@
+import { environment } from '../../utils/currentEnvironment.js'
+
 const pool = {
   development: {
     user: process.env.PG_USERNAME_DEV,
@@ -15,6 +17,6 @@ const pool = {
   },
 }
 
-export { pool }
+const Pool = pool[environment]
 
-
+export { Pool }

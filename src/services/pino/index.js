@@ -4,10 +4,10 @@ const { default: prodOpts } = await import('./config/prod.js')
 const { default: testOpts } = await import('./config/test.js')
 
 // Export Pino Environment Opts Object
-const pino = {
+const Pino = {
   development: devOpts,
   production: prodOpts,
   test: testOpts,
 }
 
-export { pino }
+export { Pino }

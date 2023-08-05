@@ -1,5 +1,3 @@
-// opts
-
 const regNewUserOpts = {
   logLevel: 'info',
   schema: {
@@ -42,7 +40,7 @@ const regNewUser = async (app) => {
 
       async function createNewUser(login, password, email) {
         try {
-          await app.pg.dev.transact(async (client) => {
+          await app.pg.transact(async (client) => {
             await client.query(
               `INSERT INTO users (login, password, email) VALUES ('${login}', '${password}', '${email}') RETURNING *;`
             )
