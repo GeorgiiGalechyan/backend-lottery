@@ -37,6 +37,13 @@ export default {
     PG_HOST_DEV: { type: 'string' },
     PG_PORT_DEV: { type: 'string' },
     PG_DB_NAME_DEV: { type: 'string' },
+
+    PG_HOST_PROD: { type: 'string' },
+    PG_PORT_PROD: { type: 'string' },
+    PG_USERNAME_PROD: { type: 'string' },
+    PG_PASSWORD_PROD: { type: 'string' },
+    PG_DB_NAME_PROD: { type: 'string' },
+
     // JWT
     JWT_SECRET: { type: 'string' },
   },
