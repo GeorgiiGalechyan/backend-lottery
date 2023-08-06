@@ -3,21 +3,6 @@ import { createNewUser } from '../controllers/usersController.js'
 
 // Routes
 
-const regNewUserOpts = {
-  logLevel: 'info',
-  schema: {
-    body: {
-      type: 'object',
-      required: ['login', 'password', 'email'],
-      properties: {
-        login: { type: 'string' },
-        password: { type: 'string' },
-        email: { type: 'string', format: 'email' },
-      },
-    },
-  },
-}
-
 const getRegUserPageOpts = {
   logLevel: 'info',
   // подумать в будущем как работать со схемами

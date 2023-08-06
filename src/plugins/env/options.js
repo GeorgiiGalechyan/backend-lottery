@@ -1,12 +1,14 @@
 // =============== Env-scheme options ===============
 
-const { default: schema } = await import('./schema.js')
-const { default: dotenv } = await import('./dotenv.js')
+import { schema } from './schema.js'
+import { dotenv } from './dotenv.js'
 
-export default {
+const opts = {
   confKey: 'config',
   schema,
   dotenv,
   data: process.env,
   // expandEnv: true, // PROBLEM!!!
 }
+
+export { opts }

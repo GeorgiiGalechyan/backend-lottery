@@ -6,10 +6,10 @@ import { routesRegistration } from './routesRegistration.js'
 /* =================== Main thread =================== */
 
 // Registering plugins
-pluginsRegistration()
+await pluginsRegistration()
 
 // Registering routes
-routesRegistration()
+await routesRegistration()
 
 // Start Server listening
-start()
+await start()

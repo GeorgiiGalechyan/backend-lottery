@@ -1,4 +1,3 @@
-import _ from '../../services/env/env-scheme.js' // adding env variables
 import fp from 'fastify-plugin'
 import fastifyPostgres from '@fastify/postgres'
 
