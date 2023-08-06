@@ -772,3 +772,201 @@
 {"level":30,"time":1691270814649,"pid":14164,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
 {"level":30,"time":1691270814696,"pid":14164,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
 {"level":30,"time":1691270814698,"pid":14164,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691320608273,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691320608275,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691320608293,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691320608299,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691320608303,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691320608304,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691320608306,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691320608308,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691320608310,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691320608370,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691320608373,"pid":4908,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691320669090,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691320669093,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691320669114,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691320669120,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691320669124,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691320669125,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691320669127,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691320669129,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691320669131,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691320669190,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691320669193,"pid":10036,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691320722064,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691320722066,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691320722085,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691320722091,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691320722095,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691320722096,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691320722098,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691320722100,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691320722102,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691320722163,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691320722166,"pid":13584,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691320770177,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691320770179,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691320770198,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691320770204,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691320770208,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691320770210,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691320770212,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691320770214,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691320770216,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691320770276,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691320770279,"pid":13536,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691320829988,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691320829991,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691320830009,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691320830015,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691320830019,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691320830020,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691320830022,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691320830024,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691320830026,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691320830085,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691320830088,"pid":14332,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321067193,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321067195,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321067213,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321067220,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321067223,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321067225,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321067226,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321067228,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321067230,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321067290,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321067293,"pid":5708,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321078097,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321078099,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321078118,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321078124,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321078128,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321078129,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321078131,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321078133,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321078135,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321078194,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321078197,"pid":7040,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321089602,"pid":7040,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51322},"msg":"incoming request"}
+{"level":50,"time":1691321089614,"pid":7040,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51322},"res":{"statusCode":500},"err":{"type":"ReferenceError","message":"request is not defined","stack":"ReferenceError: request is not defined\n    at Object.createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/usersController.js:33:84)\n    at preHandlerCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"request is not defined"}
+{"level":30,"time":1691321089625,"pid":7040,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":500},"responseTime":21.338299999013543,"msg":"request completed"}
+{"level":30,"time":1691321122907,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321122910,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321122928,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321122934,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321122938,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321122939,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321122941,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321122943,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321122946,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321123005,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321123008,"pid":14240,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321134724,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321134726,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321134745,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321134751,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321134754,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321134755,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321134757,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321134759,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321134762,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321134821,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321134824,"pid":11432,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321162325,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321162327,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321162347,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321162353,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321162356,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321162358,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321162360,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321162362,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321162364,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321162426,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321162429,"pid":10268,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321172337,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321172341,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321172372,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321172378,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321172381,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321172383,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321172385,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321172387,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321172389,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321172449,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321172452,"pid":2724,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321176310,"pid":2724,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51339},"msg":"incoming request"}
+{"level":50,"time":1691321176323,"pid":2724,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51339},"res":{"statusCode":500},"err":{"type":"ReferenceError","message":"request is not defined","stack":"ReferenceError: request is not defined\n    at Object.createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/usersController.js:33:84)\n    at preHandlerCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"request is not defined"}
+{"level":30,"time":1691321176332,"pid":2724,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":500},"responseTime":20.700299998745322,"msg":"request completed"}
+{"level":30,"time":1691321195278,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321195280,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321195299,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321195305,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321195308,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321195310,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321195311,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321195313,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321195316,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321195375,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321195378,"pid":10140,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321241590,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321241592,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321241611,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321241617,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321241621,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321241622,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321241624,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321241626,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321241628,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321241688,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321241690,"pid":9136,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321244804,"pid":9136,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51353},"msg":"incoming request"}
+{"level":50,"time":1691321244810,"pid":9136,"hostname":"GeorgiiGalechyan","reqId":"req-1","err":{"type":"ReferenceError","message":"app is not defined","stack":"ReferenceError: app is not defined\n    at createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/usersController.js:8:9)\n    at Object.createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/usersController.js:4:11)\n    at preHandlerCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)"},"msg":"app is not defined"}
+{"level":50,"time":1691321244812,"pid":9136,"hostname":"GeorgiiGalechyan","reqId":"req-1","msg":"Error adding user 'tes4' to table 'users'","Message":"app is not defined","Stack":"ReferenceError: app is not defined\n    at createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/usersController.js:8:9)\n    at Object.createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/usersController.js:4:11)\n    at preHandlerCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)"}
+{"level":50,"time":1691321244814,"pid":9136,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5500","remoteAddress":"::1","remotePort":51353},"res":{"statusCode":500},"err":{"type":"ReferenceError","message":"app is not defined","stack":"ReferenceError: app is not defined\n    at Object.createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/usersController.js:33:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"app is not defined"}
+{"level":30,"time":1691321244821,"pid":9136,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":500},"responseTime":16.522099999710917,"msg":"request completed"}
+{"level":30,"time":1691321613162,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321613165,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321613183,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321613190,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321613193,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321613195,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321613196,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321613198,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321613201,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321613260,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321613263,"pid":11740,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321631659,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321631662,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321631682,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321631689,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321631693,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321631694,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321631696,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321631698,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321631700,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321631763,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321631767,"pid":5640,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691321654416,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691321654418,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691321654436,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691321654443,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691321654446,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691321654448,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691321654449,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691321654451,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691321654454,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691321654520,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691321654525,"pid":11536,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1691322237083,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691322237086,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":30,"time":1691322237104,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691322237110,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691322237114,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691322237115,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691322237117,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Route  GET   \"getRegUserPage\"  is registered."}
+{"level":30,"time":1691322237119,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Route  POST  \"regNewUser\"      is registered."}
+{"level":30,"time":1691322237121,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691322237181,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1691322237183,"pid":6224,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}

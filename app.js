@@ -1,7 +1,7 @@
 /* =================== Imports =================== */
 import { start } from './server.js'
-import { routesRegistration } from './routesRegistration.js'
 import { pluginsRegistration } from './pluginsRegistration.js'
+import { routesRegistration } from './routesRegistration.js'
 
 /* =================== Main thread =================== */
 
