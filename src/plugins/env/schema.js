@@ -3,8 +3,8 @@ export default {
   type: 'object',
   required: [
     // app.listen()
-    'PORT',
-    'HOST',
+    'HTTP_PORT',
+    'HTTP_HOST',
 
     // PINO
     'PINO_LOG_DEV_LEVEL',
@@ -29,8 +29,8 @@ export default {
   ],
   properties: {
     // app.listen(port: PORT)
-    PORT: { type: 'number' },
-    HOST: { type: 'string' },
+    HTTP_PORT: { type: 'number' },
+    HTTP_HOST: { type: 'string' },
 
     // PINO
     PINO_LOG_DEV_LEVEL: { type: 'string' },

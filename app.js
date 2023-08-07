@@ -1,15 +1,15 @@
 /* =================== Imports =================== */
-import { start } from './server.js'
+import { app, start } from './server.js'
 import pluginsRegistration from './pluginsRegistration.js'
 import routesRegistration from './routesRegistration.js'
 
 /* =================== Main thread =================== */
 
 // Registering plugins
-await pluginsRegistration()
+await pluginsRegistration(app)
 
 // Registering routes
-await routesRegistration()
+await routesRegistration(app)
 
 // Start Server listening
 await start()

@@ -1,9 +1,9 @@
 // Adding __dirname to the ES6 module
-import path from 'path'
-import { fileURLToPath } from 'url'
-
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
+// import path from 'path'
+// import { fileURLToPath } from 'url'
+//
+// const __filename = fileURLToPath(import.meta.url)
+// const __dirname = path.dirname(__filename)
 
 // Adding Current Environment Variable
 import { environment } from './src/utils/currentEnvironment.js'
@@ -17,9 +17,9 @@ import { Pino } from './src/services/pino/index.js'
 /* =================== Main thread =================== */
 
 // Create server
-const app = fastify({ logger: Pino[environment] ?? { level: 'error' } })
+export const app = fastify({ logger: Pino[environment] ?? { level: 'info' } })
 
-async function start() {
+export async function start(app) {
   try {
     app.listen({
       port: process.env.PORT || 5000,
@@ -30,5 +30,3 @@ async function start() {
     process.exit(1)
   }
 }
-
-export { app, start }

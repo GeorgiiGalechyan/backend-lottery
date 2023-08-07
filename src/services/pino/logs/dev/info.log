@@ -1446,3 +1446,288 @@
 {"level":30,"time":1691356711768,"pid":11140,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
 {"level":30,"time":1691356729478,"pid":12144,"hostname":"GeorgiiGalechyan","msg":"Plugin @fastify/postgres is registered"}
 {"level":30,"time":1691356729480,"pid":12144,"hostname":"GeorgiiGalechyan","msg":"----- All plugins are registered! -----"}
+{"level":50,"time":1691408265478,"pid":11564,"hostname":"GeorgiGalechyan","err":{"type":"Error","message":"env must have required property 'PORT', env must have required property 'HOST', env must have required property 'PINO_LOG_DEV_LEVEL', env must have required property 'PINO_LOG_PROD_LEVEL', env must have required property 'PG_HOST_DEV', env must have required property 'PG_PORT_DEV', env must have required property 'PG_USERNAME_DEV', env must have required property 'PG_PASSWORD_DEV', env must have required property 'PG_DB_NAME_DEV', env must have required property 'PG_HOST_PROD', env must have required property 'PG_PORT_PROD', env must have required property 'PG_USERNAME_PROD', env must have required property 'PG_PASSWORD_PROD', env must have required property 'PG_DB_NAME_PROD', env must have required property 'JWT_SECRET'","stack":"Error: env must have required property 'PORT', env must have required property 'HOST', env must have required property 'PINO_LOG_DEV_LEVEL', env must have required property 'PINO_LOG_PROD_LEVEL', env must have required property 'PG_HOST_DEV', env must have required property 'PG_PORT_DEV', env must have required property 'PG_USERNAME_DEV', env must have required property 'PG_PASSWORD_DEV', env must have required property 'PG_DB_NAME_DEV', env must have required property 'PG_HOST_PROD', env must have required property 'PG_PORT_PROD', env must have required property 'PG_USERNAME_PROD', env must have required property 'PG_PASSWORD_PROD', env must have required property 'PG_DB_NAME_PROD', env must have required property 'JWT_SECRET'\n    at envSchema (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\env-schema\\index.js:84:19)\n    at fastifyEnv (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\env\\index.js:8:20)\n    at Plugin.exec (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\avvio\\plugin.js:130:19)\n    at Boot.loadPlugin (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\avvio\\plugin.js:272:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","aggregateErrors":[{"type":"Object","message":"must have required property 'PORT'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PORT"}},{"type":"Object","message":"must have required property 'HOST'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"HOST"}},{"type":"Object","message":"must have required property 'PINO_LOG_DEV_LEVEL'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PINO_LOG_DEV_LEVEL"}},{"type":"Object","message":"must have required property 'PINO_LOG_PROD_LEVEL'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PINO_LOG_PROD_LEVEL"}},{"type":"Object","message":"must have required property 'PG_HOST_DEV'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_HOST_DEV"}},{"type":"Object","message":"must have required property 'PG_PORT_DEV'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_PORT_DEV"}},{"type":"Object","message":"must have required property 'PG_USERNAME_DEV'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_USERNAME_DEV"}},{"type":"Object","message":"must have required property 'PG_PASSWORD_DEV'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_PASSWORD_DEV"}},{"type":"Object","message":"must have required property 'PG_DB_NAME_DEV'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_DB_NAME_DEV"}},{"type":"Object","message":"must have required property 'PG_HOST_PROD'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_HOST_PROD"}},{"type":"Object","message":"must have required property 'PG_PORT_PROD'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_PORT_PROD"}},{"type":"Object","message":"must have required property 'PG_USERNAME_PROD'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_USERNAME_PROD"}},{"type":"Object","message":"must have required property 'PG_PASSWORD_PROD'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_PASSWORD_PROD"}},{"type":"Object","message":"must have required property 'PG_DB_NAME_PROD'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_DB_NAME_PROD"}},{"type":"Object","message":"must have required property 'JWT_SECRET'","stack":"","instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"JWT_SECRET"}}],"errors":[{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PORT"},"message":"must have required property 'PORT'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"HOST"},"message":"must have required property 'HOST'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PINO_LOG_DEV_LEVEL"},"message":"must have required property 'PINO_LOG_DEV_LEVEL'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PINO_LOG_PROD_LEVEL"},"message":"must have required property 'PINO_LOG_PROD_LEVEL'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_HOST_DEV"},"message":"must have required property 'PG_HOST_DEV'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_PORT_DEV"},"message":"must have required property 'PG_PORT_DEV'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_USERNAME_DEV"},"message":"must have required property 'PG_USERNAME_DEV'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_PASSWORD_DEV"},"message":"must have required property 'PG_PASSWORD_DEV'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_DB_NAME_DEV"},"message":"must have required property 'PG_DB_NAME_DEV'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_HOST_PROD"},"message":"must have required property 'PG_HOST_PROD'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_PORT_PROD"},"message":"must have required property 'PG_PORT_PROD'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_USERNAME_PROD"},"message":"must have required property 'PG_USERNAME_PROD'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_PASSWORD_PROD"},"message":"must have required property 'PG_PASSWORD_PROD'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"PG_DB_NAME_PROD"},"message":"must have required property 'PG_DB_NAME_PROD'"},{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"JWT_SECRET"},"message":"must have required property 'JWT_SECRET'"}]},"msg":"env must have required property 'PORT', env must have required property 'HOST', env must have required property 'PINO_LOG_DEV_LEVEL', env must have required property 'PINO_LOG_PROD_LEVEL', env must have required property 'PG_HOST_DEV', env must have required property 'PG_PORT_DEV', env must have required property 'PG_USERNAME_DEV', env must have required property 'PG_PASSWORD_DEV', env must have required property 'PG_DB_NAME_DEV', env must have required property 'PG_HOST_PROD', env must have required property 'PG_PORT_PROD', env must have required property 'PG_USERNAME_PROD', env must have required property 'PG_PASSWORD_PROD', env must have required property 'PG_DB_NAME_PROD', env must have required property 'JWT_SECRET'"}
+{"level":50,"time":1691408841201,"pid":13460,"hostname":"GeorgiGalechyan","err":{"type":"Error","message":"env/PG_PORT_PROD must be number","stack":"Error: env/PG_PORT_PROD must be number\n    at envSchema (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\env-schema\\index.js:84:19)\n    at fastifyEnv (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\env\\index.js:8:20)\n    at Plugin.exec (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\avvio\\plugin.js:130:19)\n    at Boot.loadPlugin (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\avvio\\plugin.js:272:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","aggregateErrors":[{"type":"Object","message":"must be number","stack":"","instancePath":"/PG_PORT_PROD","schemaPath":"#/properties/PG_PORT_PROD/type","keyword":"type","params":{"type":"number"}}],"errors":[{"instancePath":"/PG_PORT_PROD","schemaPath":"#/properties/PG_PORT_PROD/type","keyword":"type","params":{"type":"number"},"message":"must be number"}]},"msg":"env/PG_PORT_PROD must be number"}
+{"level":30,"time":1691408872645,"pid":5720,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691408872647,"pid":5720,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691408872647,"pid":5720,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691409128186,"pid":14268,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691409128188,"pid":14268,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691409128188,"pid":14268,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691409802273,"pid":6692,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691409802275,"pid":6692,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691409802275,"pid":6692,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410029033,"pid":3844,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410029035,"pid":3844,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410029036,"pid":3844,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410032615,"pid":14128,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410040051,"pid":10220,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410040052,"pid":10220,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410040053,"pid":10220,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410044720,"pid":12112,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410046882,"pid":11384,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410046884,"pid":11384,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410046884,"pid":11384,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410050051,"pid":836,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410050053,"pid":836,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410054827,"pid":14280,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410054828,"pid":14280,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410302252,"pid":7308,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410302254,"pid":7308,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410373232,"pid":8300,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410373236,"pid":8300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410375564,"pid":4656,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410375566,"pid":4656,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410377770,"pid":13556,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410377773,"pid":13556,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410405803,"pid":12132,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410405805,"pid":12132,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410405833,"pid":12132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410405841,"pid":12132,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410407949,"pid":12864,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410407972,"pid":12864,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410407976,"pid":12864,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410407978,"pid":12864,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410407980,"pid":12864,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410407995,"pid":12864,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410407998,"pid":12864,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410408013,"pid":12864,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410408018,"pid":12864,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410415628,"pid":2352,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410415650,"pid":2352,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410415655,"pid":2352,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410415657,"pid":2352,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410415659,"pid":2352,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410415666,"pid":2352,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410415668,"pid":2352,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410415690,"pid":2352,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410415693,"pid":2352,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410438844,"pid":11968,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410438847,"pid":11968,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410438870,"pid":11968,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410438873,"pid":11968,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410440209,"pid":13896,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410440211,"pid":13896,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410440232,"pid":13896,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410440239,"pid":13896,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410441281,"pid":8300,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410441282,"pid":8300,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410468213,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410468215,"pid":11540,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410468215,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410468220,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410468224,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410468227,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410468229,"pid":11540,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410468244,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410468247,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410483405,"pid":1104,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410483411,"pid":1104,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410483411,"pid":1104,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410483420,"pid":1104,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410483423,"pid":1104,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410483428,"pid":1104,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410483430,"pid":1104,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410483459,"pid":1104,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410483463,"pid":1104,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410488527,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410488530,"pid":5888,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410488530,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410488538,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410488547,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410488550,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410488553,"pid":5888,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410488576,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410488580,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410491409,"pid":10296,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410491412,"pid":10296,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410491413,"pid":10296,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410491418,"pid":10296,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410491421,"pid":10296,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410491423,"pid":10296,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410491425,"pid":10296,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410491438,"pid":10296,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410491442,"pid":10296,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410495541,"pid":12892,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410495544,"pid":12892,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410495545,"pid":12892,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410495553,"pid":12892,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410495560,"pid":12892,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410495562,"pid":12892,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410495563,"pid":12892,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410495585,"pid":12892,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410495595,"pid":12892,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410500319,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410500321,"pid":6388,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410500322,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410500330,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410500333,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410500334,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410500336,"pid":6388,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410500364,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410500372,"pid":6388,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410502978,"pid":12896,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410502980,"pid":12896,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410502981,"pid":12896,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410502986,"pid":12896,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410502989,"pid":12896,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410502991,"pid":12896,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410502993,"pid":12896,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410503012,"pid":12896,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410503018,"pid":12896,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410505993,"pid":2260,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410505996,"pid":2260,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410505996,"pid":2260,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410506004,"pid":2260,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410506010,"pid":2260,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410506012,"pid":2260,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410506014,"pid":2260,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410506043,"pid":2260,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410506050,"pid":2260,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410510121,"pid":4848,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410510123,"pid":4848,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410510123,"pid":4848,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410510131,"pid":4848,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410510135,"pid":4848,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410510136,"pid":4848,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410510138,"pid":4848,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410510162,"pid":4848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410510170,"pid":4848,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410590635,"pid":9724,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410590638,"pid":9724,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410590638,"pid":9724,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410590642,"pid":9724,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410590644,"pid":9724,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410590646,"pid":9724,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410590648,"pid":9724,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410590662,"pid":9724,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410590665,"pid":9724,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410646888,"pid":3936,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410646890,"pid":3936,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410646890,"pid":3936,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410646895,"pid":3936,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410646898,"pid":3936,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410646899,"pid":3936,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410646903,"pid":3936,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410646916,"pid":3936,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410646921,"pid":3936,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410673203,"pid":3036,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410673208,"pid":3036,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410673209,"pid":3036,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410673253,"pid":3036,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410673258,"pid":3036,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410673260,"pid":3036,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410673263,"pid":3036,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410673318,"pid":3036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410673334,"pid":3036,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410683174,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410683176,"pid":5908,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410683176,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410683182,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410683186,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410683189,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410683191,"pid":5908,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410683206,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410683209,"pid":5908,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410763296,"pid":14204,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410763298,"pid":14204,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410763298,"pid":14204,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410763303,"pid":14204,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410763305,"pid":14204,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410763307,"pid":14204,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410763309,"pid":14204,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410763324,"pid":14204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410763328,"pid":14204,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410779899,"pid":14296,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410779901,"pid":14296,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410779902,"pid":14296,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410779906,"pid":14296,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410779909,"pid":14296,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410779911,"pid":14296,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410779913,"pid":14296,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410779928,"pid":14296,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410779932,"pid":14296,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410824251,"pid":10836,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410824253,"pid":10836,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410824253,"pid":10836,"hostname":"GeorgiGalechyan","msg":"Route \"screens/start\" is registered."}
+{"level":30,"time":1691410824258,"pid":10836,"hostname":"GeorgiGalechyan","msg":"Route \"screens/registration\" is registered."}
+{"level":30,"time":1691410824260,"pid":10836,"hostname":"GeorgiGalechyan","msg":"Route \"screens/gamesList\" is registered."}
+{"level":30,"time":1691410824262,"pid":10836,"hostname":"GeorgiGalechyan","msg":"Route \"screens/lottery-game\" is registered."}
+{"level":30,"time":1691410824264,"pid":10836,"hostname":"GeorgiGalechyan","msg":"----- All Routes are registered! -----"}
+{"level":30,"time":1691410824277,"pid":10836,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691410824282,"pid":10836,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691410859369,"pid":10636,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410859372,"pid":10636,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410873227,"pid":6336,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410873229,"pid":6336,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410876606,"pid":11340,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410876608,"pid":11340,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410888624,"pid":11324,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410888626,"pid":11324,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410888626,"pid":11324,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410890183,"pid":11588,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410890186,"pid":11588,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410890186,"pid":11588,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410948755,"pid":10212,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410948758,"pid":10212,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410948758,"pid":10212,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410966294,"pid":5388,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410966296,"pid":5388,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410966296,"pid":5388,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410976477,"pid":12124,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410976479,"pid":12124,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410976479,"pid":12124,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410981527,"pid":11404,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410981529,"pid":11404,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410981529,"pid":11404,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410983954,"pid":9796,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410983956,"pid":9796,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410983956,"pid":9796,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410986635,"pid":4916,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410986637,"pid":4916,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410986638,"pid":4916,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691410998677,"pid":11356,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691410998680,"pid":11356,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691410998680,"pid":11356,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411002398,"pid":5336,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411002399,"pid":5336,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411002400,"pid":5336,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411008911,"pid":12640,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411008912,"pid":12640,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411008912,"pid":12640,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411027486,"pid":11104,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411027488,"pid":11104,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411027489,"pid":11104,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411032624,"pid":6244,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411032628,"pid":6244,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411032628,"pid":6244,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411037474,"pid":6852,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411037476,"pid":6852,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411037477,"pid":6852,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411040929,"pid":12476,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411040931,"pid":12476,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411040931,"pid":12476,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411077511,"pid":13244,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411077514,"pid":13244,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411077514,"pid":13244,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411079071,"pid":6768,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411079073,"pid":6768,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411079073,"pid":6768,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411080233,"pid":5888,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411080235,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411080236,"pid":5888,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411101591,"pid":13612,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411101594,"pid":13612,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411101594,"pid":13612,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411109717,"pid":11540,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411109719,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411109719,"pid":11540,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411124544,"pid":13484,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411124545,"pid":13484,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411124545,"pid":13484,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411141660,"pid":4080,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411141662,"pid":4080,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411141662,"pid":4080,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}
+{"level":30,"time":1691411151863,"pid":11344,"hostname":"GeorgiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691411151864,"pid":11344,"hostname":"GeorgiGalechyan","msg":"Plugin \"env-schema\" is registered"}
+{"level":30,"time":1691411151864,"pid":11344,"hostname":"GeorgiGalechyan","msg":"Plugin @fastify/postgres is registered"}

@@ -12,7 +12,9 @@ import { lotteryGame } from './src/api/v1/screens/lotteryGame.js'
 
 // Function for route registration
 export default async () => {
-  await app.register(start).after(app.log.info({ msg: 'Route "screens/start" is registered.' }))
+  await app
+    .register(start)
+    .after((err) => (err ? app.log.error(err) : app.log.info({ msg: 'Route "screens/start" is registered.' })))
 
   await app.register(registration).after(app.log.info({ msg: 'Route "screens/registration" is registered.' }))
 
