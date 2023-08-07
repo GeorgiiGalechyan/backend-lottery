@@ -1,14 +1,13 @@
-// =============== Env-scheme options ===============
+// Imports configuration parts
 
-import { schema } from './schema.js'
-import { dotenv } from './dotenv.js'
+import schema from './schema.js'
+import dotenv from './dotenv.js'
 
-const opts = {
+// Merge configuration parts
+export default {
   confKey: 'config',
-  schema,
-  dotenv,
+  schema: schema,
+  dotenv: dotenv,
   data: process.env,
   // expandEnv: true, // PROBLEM!!!
 }
-
-export { opts }

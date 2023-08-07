@@ -1,6 +1,5 @@
-// =============== Schema ===============
-
-const schema = {
+// Schema
+export default {
   type: 'object',
   required: [
     // app.listen()
@@ -54,5 +53,3 @@ const schema = {
     JWT_SECRET: { type: 'string' },
   },
 }
-
-export { schema }

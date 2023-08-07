@@ -22,7 +22,6 @@ const app = fastify({ logger: Pino[environment] ?? { level: 'error' } })
 async function start() {
   try {
     app.listen({
-      host: process.env.HOST || 'localhost',
       port: process.env.PORT || 5000,
       listenTextResolver: (address) => `Server listening on address ${address}`,
     })

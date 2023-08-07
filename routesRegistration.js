@@ -11,7 +11,7 @@ import { lotteryGame } from './src/api/v1/screens/lotteryGame.js'
 // import { getRegUserPage, regNewUser } from './src/routes/register.js'
 
 // Function for route registration
-const routesRegistration = async () => {
+export default async () => {
   await app.register(start).after(app.log.info({ msg: 'Route "screens/start" is registered.' }))
 
   await app.register(registration).after(app.log.info({ msg: 'Route "screens/registration" is registered.' }))
@@ -26,5 +26,3 @@ const routesRegistration = async () => {
 
   app.log.info({ msg: '----- All Routes are registered! -----' })
 }
-
-export { routesRegistration }
