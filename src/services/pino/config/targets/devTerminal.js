@@ -2,7 +2,7 @@
 export const devTerminal = {
   target: 'pino-pretty',
   name: 'dev-terminal', // можно не указывать
-  level: process.env.PINO_LOG_DEV_LEVEL || 'error',
+  level: process.env.PINO_LOG_DEV_LEVEL || 'info',
 
   // настройки pino-pretty
   options: {

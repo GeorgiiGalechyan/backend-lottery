@@ -5,9 +5,6 @@ import opts from './options.js'
 
 console.log(opts.connectionString)
 
-const postgresPlugin = async (app) =>
-  await app
-    .register(fastifyPostgres, opts)
-    .ready((err) => (err ? app.log.error(err) : app.log.info('Plugin @fastify/postgres is registered')))
+const postgresPlugin = async (app) => await app.register(fastifyPostgres, opts)
 
 export default fp(postgresPlugin)

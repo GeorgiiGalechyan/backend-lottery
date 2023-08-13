@@ -19,7 +19,7 @@ import { Pino } from './src/services/pino/index.js'
 // Create server
 export const app = fastify({ logger: Pino[environment] ?? { level: 'info' } })
 
-export async function start(app) {
+export async function start() {
   try {
     app.listen({
       port: process.env.PORT || 5000,

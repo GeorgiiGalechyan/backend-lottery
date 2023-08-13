@@ -1,4 +1,7 @@
-const createNewUserOpts = {
+// Imports Users Controllers
+import Users from '../../controllers/user.js'
+
+const opts = {
   logLevel: 'info',
   schema: {
     body: {
@@ -13,4 +16,6 @@ const createNewUserOpts = {
   },
 }
 
-export { createNewUserOpts }
+const handler = Users.createUser
+
+export default async (app) => await app.post('/reg', opts, handler)
