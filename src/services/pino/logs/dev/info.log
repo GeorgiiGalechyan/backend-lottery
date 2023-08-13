@@ -291,3 +291,148 @@
 {"level":30,"time":1691956985713,"pid":1252,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":7.47859999537468,"msg":"request completed"}
 {"level":30,"time":1691956991502,"pid":1252,"hostname":"GeorgiiGalechyan","reqId":"req-2","req":{"method":"GET","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":61887},"msg":"incoming request"}
 {"level":30,"time":1691956991503,"pid":1252,"hostname":"GeorgiiGalechyan","reqId":"req-2","res":{"statusCode":200},"responseTime":0.6618000045418739,"msg":"request completed"}
+{"level":30,"time":1691957636702,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691957636706,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691957636708,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691957636710,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691957636712,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691957636714,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691957636745,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691957636748,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691957636748,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691957636797,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691957636797,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691957636808,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691957636811,"pid":6476,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691957677192,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62092},"msg":"incoming request"}
+{"level":30,"time":1691957677202,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":8.053100004792213,"msg":"request completed"}
+{"level":30,"time":1691957684841,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-2","req":{"method":"GET","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62092},"msg":"incoming request"}
+{"level":30,"time":1691957684842,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-2","res":{"statusCode":200},"responseTime":0.8196000009775162,"msg":"request completed"}
+{"level":30,"time":1691957700344,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-3","req":{"method":"POST","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62092},"msg":"incoming request"}
+{"level":30,"time":1691957700345,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-3","res":{"statusCode":400},"err":{"type":"Error","message":"body must be object","stack":"Error: body must be object\n    at defaultSchemaErrorFormatter (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\context.js:108:10)\n    at wrapValidationError (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\validation.js:228:17)\n    at validate (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\validation.js:146:16)\n    at preValidationCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:92:25)\n    at handler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at handleRequest (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:36:9)\n    at runPreParsing (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\route.js:569:5)\n    at Object.routeHandler [as handler] (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\route.js:488:7)\n    at Router.callHandler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\find-my-way\\index.js:398:14)\n    at Router.lookup (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\find-my-way\\index.js:376:17)","statusCode":400,"code":"FST_ERR_VALIDATION","validation":[{"instancePath":"","schemaPath":"#/type","keyword":"type","params":{"type":"object"},"message":"must be object"}],"validationContext":"body"},"msg":"body must be object"}
+{"level":30,"time":1691957700348,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-3","res":{"statusCode":400},"responseTime":3.3018999993801117,"msg":"request completed"}
+{"level":30,"time":1691957790535,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-4","req":{"method":"POST","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62117},"msg":"incoming request"}
+{"level":50,"time":1691957790539,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-4","err":{"type":"ReferenceError","message":"app is not defined","stack":"ReferenceError: app is not defined\n    at createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/user.js:9:11)\n    at Object.createUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/user.js:5:13)\n    at preHandlerCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)"},"msg":"app is not defined"}
+{"level":50,"time":1691957790540,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-4","msg":"Error adding user '111' to table 'users'","Message":"app is not defined","Stack":"ReferenceError: app is not defined\n    at createNewUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/user.js:9:11)\n    at Object.createUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/user.js:5:13)\n    at preHandlerCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)"}
+{"level":50,"time":1691957790540,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-4","req":{"method":"POST","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62117},"res":{"statusCode":500},"err":{"type":"ReferenceError","message":"app is not defined","stack":"ReferenceError: app is not defined\n    at Object.createUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/user.js:34:7)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"app is not defined"}
+{"level":30,"time":1691957790541,"pid":6476,"hostname":"GeorgiiGalechyan","reqId":"req-4","res":{"statusCode":500},"responseTime":5.2001999989151955,"msg":"request completed"}
+{"level":30,"time":1691957867715,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691957867720,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691957867722,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691957867724,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691957867726,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691957867728,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691957867759,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691957867762,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691957867762,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691957867814,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691957867814,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691957867825,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691957867827,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691957869337,"pid":7792,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62143},"msg":"incoming request"}
+{"level":50,"time":1691957869344,"pid":7792,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62143},"res":{"statusCode":500},"err":{"type":"ReferenceError","message":"app is not defined","stack":"ReferenceError: app is not defined\n    at Object.createUser (file:///C:/Users/galec/dev/lottery/backend-lottery/src/controllers/user.js:35:7)\n    at preHandlerCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:139:37)\n    at validationCompleted (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:123:5)\n    at preValidationCallback (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:99:5)\n    at handler (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\handleRequest.js:76:7)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:192:9\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at done (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:186:14)\n    at Parser.defaultJsonParser [as fn] (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:294:5)\n    at IncomingMessage.onEnd (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\fastify\\lib\\contentTypeParser.js:273:27)"},"msg":"app is not defined"}
+{"level":30,"time":1691957869351,"pid":7792,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":500},"responseTime":13.601999998092651,"msg":"request completed"}
+{"level":30,"time":1691957912451,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691957912455,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691957912457,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691957912459,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691957912461,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691957912463,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691957912494,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691957912497,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691957912497,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691957912547,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691957912547,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691957912558,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691957912560,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691957914468,"pid":4208,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62168},"msg":"incoming request"}
+{"level":50,"time":1691957914477,"pid":4208,"hostname":"GeorgiiGalechyan","reqId":"req-1","err":{"type":"TypeError","message":"Invalid URL","stack":"TypeError [ERR_INVALID_URL]: Invalid URL\n    at new NodeError (node:internal/errors:405:5)\n    at new URL (node:internal/url:611:13)\n    at parse (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-connection-string\\index.js:29:14)\n    at new ConnectionParameters (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg\\lib\\connection-parameters.js:56:42)\n    at new Client (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:18:33)\n    at BoundPool.newClient (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:218:20)\n    at BoundPool.connect (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:212:10)\n    at transactionUtil (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:11:8)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:51:5\n    at new Promise (<anonymous>)","input":"postgres://undefined:undefined@undefined:undefined/undefined","code":"ERR_INVALID_URL"},"msg":"Invalid URL"}
+{"level":50,"time":1691957914478,"pid":4208,"hostname":"GeorgiiGalechyan","reqId":"req-1","msg":"Error adding user '111' to table 'users'","Error code":"ERR_INVALID_URL","Message":"Invalid URL","Stack":"TypeError [ERR_INVALID_URL]: Invalid URL\n    at new NodeError (node:internal/errors:405:5)\n    at new URL (node:internal/url:611:13)\n    at parse (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-connection-string\\index.js:29:14)\n    at new ConnectionParameters (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg\\lib\\connection-parameters.js:56:42)\n    at new Client (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:18:33)\n    at BoundPool.newClient (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:218:20)\n    at BoundPool.connect (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:212:10)\n    at transactionUtil (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:11:8)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:51:5\n    at new Promise (<anonymous>)"}
+{"level":30,"time":1691957914478,"pid":4208,"hostname":"GeorgiiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1691957914485,"pid":4208,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":15.068900004029274,"msg":"request completed"}
+{"level":30,"time":1691957996604,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691957996608,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691957996610,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691957996613,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691957996615,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691957996617,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691957996648,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691957996651,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691957996651,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691957996701,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691957996702,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691957996713,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691957996715,"pid":1332,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691958008751,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691958008755,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691958008757,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691958008759,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691958008761,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691958008763,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691958008794,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691958008797,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691958008797,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691958008849,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958008849,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958008860,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691958008863,"pid":1904,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691958011077,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691958011081,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691958011083,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691958011085,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691958011087,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691958011089,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691958011120,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691958011122,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691958011122,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691958011172,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958011172,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958011183,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691958011186,"pid":6184,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691958031653,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691958031657,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691958031659,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691958031661,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691958031664,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691958031666,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691958031696,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691958031698,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691958031698,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691958031748,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958031748,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958031759,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691958031762,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691958034635,"pid":11916,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62194},"msg":"incoming request"}
+{"level":50,"time":1691958034643,"pid":11916,"hostname":"GeorgiiGalechyan","reqId":"req-1","err":{"type":"TypeError","message":"Invalid URL","stack":"TypeError [ERR_INVALID_URL]: Invalid URL\n    at new NodeError (node:internal/errors:405:5)\n    at new URL (node:internal/url:611:13)\n    at parse (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-connection-string\\index.js:29:14)\n    at new ConnectionParameters (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg\\lib\\connection-parameters.js:56:42)\n    at new Client (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:18:33)\n    at BoundPool.newClient (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:218:20)\n    at BoundPool.connect (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:212:10)\n    at transactionUtil (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:11:8)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:51:5\n    at new Promise (<anonymous>)","input":"postgres://undefined:undefined@undefined:undefined/undefined","code":"ERR_INVALID_URL"},"msg":"Invalid URL"}
+{"level":30,"time":1691958034644,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1691958034651,"pid":11916,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":14.383200004696846,"msg":"request completed"}
+{"level":30,"time":1691958064318,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691958064323,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691958064325,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691958064327,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691958064329,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691958064331,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691958064362,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691958064365,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691958064365,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691958064415,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958064415,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958064426,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691958064429,"pid":4984,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691958075235,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691958075240,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691958075242,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691958075244,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691958075246,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691958075248,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691958075279,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691958075281,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691958075281,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691958075331,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958075331,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691958075342,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691958075344,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691958078915,"pid":11848,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":62211},"msg":"incoming request"}
+{"level":50,"time":1691958078923,"pid":11848,"hostname":"GeorgiiGalechyan","reqId":"req-1","err":{"type":"TypeError","message":"Invalid URL","stack":"TypeError [ERR_INVALID_URL]: Invalid URL\n    at new NodeError (node:internal/errors:405:5)\n    at new URL (node:internal/url:611:13)\n    at parse (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-connection-string\\index.js:29:14)\n    at new ConnectionParameters (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg\\lib\\connection-parameters.js:56:42)\n    at new Client (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:18:33)\n    at BoundPool.newClient (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:218:20)\n    at BoundPool.connect (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:212:10)\n    at transactionUtil (C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:11:8)\n    at C:\\Users\\galec\\dev\\lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:51:5\n    at new Promise (<anonymous>)","input":"postgres://undefined:undefined@undefined:undefined/undefined","code":"ERR_INVALID_URL"},"msg":"Invalid URL"}
+{"level":30,"time":1691958078924,"pid":11848,"hostname":"GeorgiiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1691958078931,"pid":11848,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":14.369600005447865,"msg":"request completed"}
