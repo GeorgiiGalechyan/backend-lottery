@@ -1,5 +1,5 @@
-import { Pool } from './pool.js'
+import pg from './pool.js'
 
 export default {
-  connectionString: `postgres://${Pool.user}:${Pool.password}@${Pool.host}:${Pool.port}/${Pool.database}`,
+  connectionString: `postgres://${pg.user}:${pg.password}@${pg.host}:${pg.port}/${pg.database}`,
 }

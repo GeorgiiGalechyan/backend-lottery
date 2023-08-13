@@ -8,7 +8,7 @@ import lotteryGame from './screens/lotteryGame.js'
 import basket from './screens/basket.js'
 
 // User route
-import createUser from './users/regNewUser.js'
+import createUser from './users/createUser.js'
 
 // Function for route registration
 export default async () => {
@@ -29,5 +29,5 @@ export default async () => {
 
   await app.register(createUser)
 
-  app.log.info({ msg: 'All routes are registered!' })
+  app.log.info('Routes registration completed! ====\n')
 }

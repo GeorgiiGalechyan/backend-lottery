@@ -17,6 +17,4 @@ const pool = {
   },
 }
 
-const Pool = pool[environment]
-
-export { Pool }
+export default pool[environment]

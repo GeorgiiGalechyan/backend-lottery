@@ -5,11 +5,11 @@ import regAllRoutes from './src/routes/regAllRoutes.js'
 
 /* =================== Main thread =================== */
 
-// Registering routes
-await regAllRoutes()
-
 // Registering plugins
 await regAllplugins()
+
+// Registering routes
+await regAllRoutes()
 
 // Start Server listening
 await start()
