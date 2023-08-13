@@ -14,27 +14,20 @@ import createUser from './users/regNewUser.js'
 export default async () => {
   await app.register(start)
   app.log.info({ msg: 'Route "/" is registered.' })
-  // .ready(app.log.info({ msg: 'Route "/" is registered.' }))
 
   await app.register(registration)
-
-  // .ready(app.log.info({ msg: 'Route "/reg" is registered.' }))
+  app.log.info({ msg: 'Route "/reg" is registered.' })
 
   await app.register(gameslist)
-
-  // .ready(app.log.info({ msg: 'Route "games/list" is registered.' }))
+  app.log.info({ msg: 'Route "/games" is registered.' })
 
   await app.register(lotteryGame)
-
-  // .ready(app.log.info({ msg: 'Route "/games/lottery" is registered.' }))
+  app.log.info({ msg: 'Route "/games/lottery" is registered.' })
 
   await app.register(basket)
-
-  // .ready(app.log.info({ msg: 'Route "/basket" is registered.' }))
+  app.log.info({ msg: 'Route "/user/basket" is registered.' })
 
   await app.register(createUser)
-
-  // .ready(app.log.info({ msg: 'Route "/reg" is registered.' }))
 
   app.log.info({ msg: 'All routes are registered!' })
 }

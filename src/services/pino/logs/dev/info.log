@@ -83,3 +83,211 @@
 {"level":30,"time":1691955873262,"pid":12528,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
 {"level":30,"time":1691955873322,"pid":12528,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
 {"level":30,"time":1691955873325,"pid":12528,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956074489,"pid":6204,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956074490,"pid":6204,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956173130,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956173134,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956173136,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956173138,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956173140,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956173142,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956173143,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956173174,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956173176,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956173238,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956173241,"pid":10700,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956189573,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956189578,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956189580,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956189582,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956189584,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956189586,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956189586,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956189618,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956189620,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956189682,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956189685,"pid":1336,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956204574,"pid":11076,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956204579,"pid":11076,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956204581,"pid":11076,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956204583,"pid":11076,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956204585,"pid":11076,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956220768,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956220773,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956220775,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956220777,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956220779,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956220782,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956220782,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956220813,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956220816,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956220884,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956220886,"pid":12564,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956245920,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956245930,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956245934,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956245937,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956245939,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956245941,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956245941,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956245972,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956245974,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956246036,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956246038,"pid":14100,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956259558,"pid":10864,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956259565,"pid":10864,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956438667,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956438671,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956438673,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956438675,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956438677,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956438679,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956438680,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956438711,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956438713,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956438774,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956438777,"pid":9236,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956485550,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956485554,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956485556,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956485558,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956485560,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956485562,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956485562,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956485593,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956485596,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956485656,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956485659,"pid":4116,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956498576,"pid":4116,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/user/basket","hostname":"localhost:5000","remoteAddress":"::1","remotePort":61690},"msg":"incoming request"}
+{"level":30,"time":1691956498586,"pid":4116,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":9.533700004220009,"msg":"request completed"}
+{"level":30,"time":1691956503597,"pid":4116,"hostname":"GeorgiiGalechyan","reqId":"req-2","req":{"method":"GET","url":"/user","hostname":"localhost:5000","remoteAddress":"::1","remotePort":61690},"msg":"incoming request"}
+{"level":30,"time":1691956503597,"pid":4116,"hostname":"GeorgiiGalechyan","reqId":"req-2","msg":"Route GET:/user not found"}
+{"level":30,"time":1691956503599,"pid":4116,"hostname":"GeorgiiGalechyan","reqId":"req-2","res":{"statusCode":404},"responseTime":1.7206999957561493,"msg":"request completed"}
+{"level":30,"time":1691956510907,"pid":4116,"hostname":"GeorgiiGalechyan","reqId":"req-3","req":{"method":"GET","url":"/","hostname":"localhost:5000","remoteAddress":"::1","remotePort":61690},"msg":"incoming request"}
+{"level":30,"time":1691956510908,"pid":4116,"hostname":"GeorgiiGalechyan","reqId":"req-3","res":{"statusCode":200},"responseTime":0.6618000045418739,"msg":"request completed"}
+{"level":30,"time":1691956557646,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956557650,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956557653,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956557655,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956557657,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956557659,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956557689,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956557691,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956557691,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956557752,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956557755,"pid":5232,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956589696,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956589700,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956589702,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956589704,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956589706,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956589708,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956589741,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956589741,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956589741,"pid":3512,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956619371,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956619375,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956619377,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956619379,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956619381,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956619383,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956619414,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956619416,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956619416,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956619477,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956619480,"pid":12740,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956656357,"pid":10356,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956656362,"pid":10356,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956656364,"pid":10356,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956656366,"pid":10356,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956656368,"pid":10356,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956656370,"pid":10356,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956656454,"pid":10356,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956669700,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956669705,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956669707,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956669709,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956669711,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956669713,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956669744,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956669746,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956669746,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956669807,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956669810,"pid":6088,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956687663,"pid":13112,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956687667,"pid":13112,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956687669,"pid":13112,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956687671,"pid":13112,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956687674,"pid":13112,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956687676,"pid":13112,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956687707,"pid":13112,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956691254,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956691259,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956691261,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956691263,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956691265,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956691267,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956691297,"pid":11916,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956756055,"pid":7684,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956756060,"pid":7684,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956756062,"pid":7684,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956756064,"pid":7684,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956756066,"pid":7684,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956756068,"pid":7684,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956756098,"pid":7684,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956770088,"pid":1040,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956770092,"pid":1040,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956770094,"pid":1040,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956770096,"pid":1040,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956770098,"pid":1040,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956770101,"pid":1040,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956770131,"pid":1040,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956826329,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956826333,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956826335,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956826337,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956826339,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956826342,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956826372,"pid":7792,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956859896,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956859901,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956859903,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956859905,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956859907,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956859909,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956859939,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956859942,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956859942,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956859991,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691956860002,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956860004,"pid":9652,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956883124,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956883129,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956883131,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956883133,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956883135,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956883137,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956883168,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956883171,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956883171,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956883222,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691956883222,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691956883234,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956883236,"pid":8784,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956913255,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1691956913259,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1691956913261,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1691956913263,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1691956913265,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1691956913268,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"All routes are registered!"}
+{"level":30,"time":1691956913300,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Plugin \"env-schema\" is ready"}
+{"level":30,"time":1691956913302,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Plugin Postgres is ready"}
+{"level":30,"time":1691956913302,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"All plugins are registered!"}
+{"level":30,"time":1691956913353,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691956913353,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Plugin '@fastify/postgres' is ready"}
+{"level":30,"time":1691956913364,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5000"}
+{"level":30,"time":1691956913367,"pid":1252,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5000"}
+{"level":30,"time":1691956985705,"pid":1252,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"localhost:5000","remoteAddress":"::1","remotePort":61887},"msg":"incoming request"}
+{"level":30,"time":1691956985713,"pid":1252,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":7.47859999537468,"msg":"request completed"}
+{"level":30,"time":1691956991502,"pid":1252,"hostname":"GeorgiiGalechyan","reqId":"req-2","req":{"method":"GET","url":"/reg","hostname":"localhost:5000","remoteAddress":"::1","remotePort":61887},"msg":"incoming request"}
+{"level":30,"time":1691956991503,"pid":1252,"hostname":"GeorgiiGalechyan","reqId":"req-2","res":{"statusCode":200},"responseTime":0.6618000045418739,"msg":"request completed"}

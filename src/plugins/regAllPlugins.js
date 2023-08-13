@@ -6,10 +6,11 @@ import Postgres from './postgres/index.js'
 
 // Function for plugins registration
 export default async () => {
-  app.register(env).ready(app.log.info('Plugin "env-schema" is ready'))
-  await app
-  app.register(Postgres).ready(app.log.info({ msg: 'Plugin Postgres is ready' }))
-  await app
+  await app.register(env)
+  app.log.info('Plugin "env-schema" is ready')
+
+  await app.register(Postgres)
+  app.log.info({ msg: 'Plugin Postgres is ready' })
 
   app.log.info({ msg: 'All plugins are registered!' })
 }

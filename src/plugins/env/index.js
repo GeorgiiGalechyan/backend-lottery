@@ -3,6 +3,9 @@ import fastifyEnv from '@fastify/env'
 
 import opts from './options.js'
 
-const envPlugin = async (app) => await app.register(fastifyEnv, opts)
+const envPlugin = async (app) =>
+  await app
+    .register(fastifyEnv, opts)
+    .ready((err) => (err ? app.log.error(err) : app.log.info({ msg: "Plugin '@fastify/postgres' is ready" })))
 
 export default fp(envPlugin)

@@ -3,4 +3,4 @@ import Screens from '../../controllers/screen.js'
 const opts = {}
 const handler = Screens.getBasketScreen
 
-export default async (app) => await app.get('/basket', opts, handler)
+export default async (app) => await app.get('/user/basket', opts, handler)
