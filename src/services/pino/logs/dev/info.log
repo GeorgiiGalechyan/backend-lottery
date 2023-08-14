@@ -3272,3 +3272,140 @@
 {"level":30,"time":1692023179818,"pid":15368,"hostname":"GeorgiGalechyan","msg":"Plugins registration completed! ====\n"}
 {"level":30,"time":1692023179830,"pid":15368,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
 {"level":30,"time":1692023179834,"pid":15368,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035271349,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035271352,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035271354,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035271356,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035271358,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035271360,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035271420,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Plugins registration completed! ====\n"}
+{"level":30,"time":1692035271433,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035271436,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035350777,"pid":15268,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/user/","hostname":"localhost:5500","remoteAddress":"::1","remotePort":54107},"msg":"incoming request"}
+{"level":50,"time":1692035350784,"pid":15268,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"TypeError","message":"Invalid URL","stack":"TypeError [ERR_INVALID_URL]: Invalid URL\n    at new NodeError (node:internal/errors:399:5)\n    at new URL (node:internal/url:560:13)\n    at parse (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-connection-string\\index.js:29:14)\n    at new ConnectionParameters (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\connection-parameters.js:56:42)\n    at new Client (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:18:33)\n    at BoundPool.newClient (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:218:20)\n    at BoundPool.connect (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:212:10)\n    at transactionUtil (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:11:8)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:51:5\n    at new Promise (<anonymous>)","input":"postgres://undefined:undefined@undefined:undefined/undefined","code":"ERR_INVALID_URL"},"msg":"Invalid URL"}
+{"level":30,"time":1692035350785,"pid":15268,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1692035350794,"pid":15268,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":16.31030000001192,"msg":"request completed"}
+{"level":30,"time":1692035378978,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035378982,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035378984,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035378987,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035378989,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035378990,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035379037,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Plugins registration completed! ====\n"}
+{"level":30,"time":1692035379049,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035379052,"pid":13392,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035381898,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035381901,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035381902,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035381904,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035381906,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035381908,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035381965,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Plugins registration completed! ====\n"}
+{"level":30,"time":1692035381980,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035381983,"pid":14104,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035384021,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035384027,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035384029,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035384031,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035384033,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035384034,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035384114,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Plugins registration completed! ====\n"}
+{"level":30,"time":1692035384134,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035384138,"pid":6800,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035563143,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035563146,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035563149,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035563151,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035563153,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035563155,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035563213,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692035563225,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035563229,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035573719,"pid":6508,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/user/","hostname":"localhost:5500","remoteAddress":"::1","remotePort":54156},"msg":"incoming request"}
+{"level":50,"time":1692035573725,"pid":6508,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"TypeError","message":"Invalid URL","stack":"TypeError [ERR_INVALID_URL]: Invalid URL\n    at new NodeError (node:internal/errors:399:5)\n    at new URL (node:internal/url:560:13)\n    at parse (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-connection-string\\index.js:29:14)\n    at new ConnectionParameters (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\connection-parameters.js:56:42)\n    at new Client (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:18:33)\n    at BoundPool.newClient (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:218:20)\n    at BoundPool.connect (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:212:10)\n    at transactionUtil (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:11:8)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:51:5\n    at new Promise (<anonymous>)","input":"postgres://undefined:undefined@undefined:undefined/undefined","code":"ERR_INVALID_URL"},"msg":"Invalid URL"}
+{"level":30,"time":1692035573726,"pid":6508,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1692035573736,"pid":6508,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":16.234600000083447,"msg":"request completed"}
+{"level":30,"time":1692035703395,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035703400,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035703403,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035703406,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035703409,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035703411,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035703482,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692035703493,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035703497,"pid":14600,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035705944,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035705946,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035705948,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035705950,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035705952,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035705953,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035706000,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692035706012,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035706016,"pid":6856,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035733351,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035733353,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035733355,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035733357,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035733358,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035733360,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035733411,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692035733423,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035733427,"pid":12980,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035751017,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035751020,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035751023,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035751025,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035751027,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035751029,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035751077,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692035751092,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035751095,"pid":6168,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035835652,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692035835658,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692035835661,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692035835663,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692035835666,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692035835667,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692035835729,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692035835741,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692035835746,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692035845360,"pid":10820,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/user/","hostname":"localhost:5500","remoteAddress":"::1","remotePort":54191},"msg":"incoming request"}
+{"level":50,"time":1692035845366,"pid":10820,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"TypeError","message":"Invalid URL","stack":"TypeError [ERR_INVALID_URL]: Invalid URL\n    at new NodeError (node:internal/errors:399:5)\n    at new URL (node:internal/url:560:13)\n    at parse (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-connection-string\\index.js:29:14)\n    at new ConnectionParameters (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\connection-parameters.js:56:42)\n    at new Client (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:18:33)\n    at BoundPool.newClient (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:218:20)\n    at BoundPool.connect (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg-pool\\index.js:212:10)\n    at transactionUtil (C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:11:8)\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\@fastify\\postgres\\index.js:51:5\n    at new Promise (<anonymous>)","input":"postgres://undefined:undefined@undefined:undefined/undefined","code":"ERR_INVALID_URL"},"msg":"Invalid URL"}
+{"level":30,"time":1692035845367,"pid":10820,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1692035845372,"pid":10820,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":11.511600002646446,"msg":"request completed"}
+{"level":30,"time":1692036459163,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692036459167,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692036459169,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692036459173,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692036459176,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692036459177,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692036459239,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692036459251,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692036459254,"pid":13840,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692036471609,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692036471612,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692036471614,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692036471616,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692036471618,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692036471619,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692036471676,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692036471689,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692036471693,"pid":15232,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692036472762,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Route \"/\" is registered."}
+{"level":30,"time":1692036472764,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Route \"/reg\" is registered."}
+{"level":30,"time":1692036472766,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Route \"/games\" is registered."}
+{"level":30,"time":1692036472768,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Route \"/games/lottery\" is registered."}
+{"level":30,"time":1692036472769,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Route \"/user/basket\" is registered."}
+{"level":30,"time":1692036472771,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Routes registration completed! ====\n"}
+{"level":30,"time":1692036472816,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Plugins registration complete"}
+{"level":30,"time":1692036472829,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692036472833,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692036476572,"pid":7956,"hostname":"GeorgiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/user/","hostname":"localhost:5500","remoteAddress":"::1","remotePort":54282},"msg":"incoming request"}
+{"level":50,"time":1692036476582,"pid":7956,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"Error","message":"connect ECONNREFUSED ::1:5432","stack":"Error: connect ECONNREFUSED ::1:5432\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":5432},"msg":"connect ECONNREFUSED ::1:5432"}
+{"level":30,"time":1692036476583,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1692036476593,"pid":7956,"hostname":"GeorgiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":20.382200002670288,"msg":"request completed"}
+{"level":30,"time":1692036527794,"pid":7956,"hostname":"GeorgiGalechyan","reqId":"req-2","req":{"method":"POST","url":"/user/","hostname":"localhost:5500","remoteAddress":"::1","remotePort":54282},"msg":"incoming request"}
+{"level":50,"time":1692036527797,"pid":7956,"hostname":"GeorgiGalechyan","reqId":"req-2","err":{"type":"Error","message":"connect ECONNREFUSED ::1:5432","stack":"Error: connect ECONNREFUSED ::1:5432\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":5432},"msg":"connect ECONNREFUSED ::1:5432"}
+{"level":30,"time":1692036527798,"pid":7956,"hostname":"GeorgiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1692036527798,"pid":7956,"hostname":"GeorgiGalechyan","reqId":"req-2","res":{"statusCode":200},"responseTime":3.593400001525879,"msg":"request completed"}

@@ -5,10 +5,8 @@ import regAllRoutes from './src/routes/regAllRoutes.js'
 
 /* =================== Main thread =================== */
 
-await regAllplugins()
+await regAllplugins(app)
 await regAllRoutes()
-await app.ready()
-
 await start()
 
 // Checking Pino

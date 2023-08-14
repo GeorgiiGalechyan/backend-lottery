@@ -1,4 +1,4 @@
-import { environment } from '../../utils/currentEnvironment.js'
+import currentEnvironment from '../../utils/currentEnvironment.js'
 
 const pool = {
   development: {
@@ -17,4 +17,4 @@ const pool = {
   },
 }
 
-export default pool[environment]
+export default pool[currentEnvironment]

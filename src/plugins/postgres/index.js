@@ -3,8 +3,6 @@ import fastifyPostgres from '@fastify/postgres'
 
 import opts from './options.js'
 
-const postgresPlugin = async (app) => app.register(fastifyPostgres, opts)
+const postgresPlugin = async (app, opts) => app.register(fastifyPostgres, opts)
 
 export default fp(postgresPlugin)
-
-console.log(opts.connectionString)
