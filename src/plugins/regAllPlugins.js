@@ -1,18 +1,19 @@
 import { app } from '../../server.js'
-import fastifyEnv from '@fastify/env'
-import envOpts from './env/options.js'
-import fastifyPostgres from '@fastify/postgres'
-import pgOpts from './postgres/options.js'
+
+import envPlugin from './env/index.js'
+import postgresPlugin from './postgres/index.js'
 
 // Function for plugins registration
 export default async () => {
-  await app
-    .register(fastifyEnv, envOpts)
-    .after((err) => (err ? app.log.error(err) : app.log.info({ msg: 'Plugin "@fastify/env" are registered' })))
+  app.register(envPlugin).after((err) => {
+    if (err) {
+      app.log.error(`There was an error loading @fastify/env: '${err}'`)
+    }
+  })
 
-  await app
-    .register(fastifyPostgres, pgOpts)
-    .after((err) => (err ? app.log.error(err) : app.log.info({ msg: 'Plugin "@fastify/postgres" are registered' })))
-
-  app.log.info('Plugins registration completed! ====\n')
+  app.register(postgresPlugin).after((err) => {
+    if (err) {
+      app.log.error(`There was an error loading @fastify/postgres: '${err}`)
+    }
+  })
 }
