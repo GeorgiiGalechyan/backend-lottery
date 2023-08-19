@@ -11,7 +11,12 @@ export const app = fastify(serverOpts)
 
 export async function start() {
   try {
-    await app.ready().then(() => app.log.info('Plugins registration complete'))
+    await app.ready().then(() => {
+      app.log.info('Plugins are ready')
+      console.log('root -- ', app.envPlugin)
+      console.log('root -- ', app.postgresPlugin)
+    })
+
     await app.listen({
       port: process.env.HTTP_PORT || 5000,
       listenTextResolver: (address) => `Server listening on address ${address}`,

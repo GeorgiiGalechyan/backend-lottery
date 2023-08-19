@@ -1,1 +1,68 @@
 {"level":50,"time":1692432280954,"pid":7052,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"Error","message":"connect ECONNREFUSED ::1:5432","stack":"Error: connect ECONNREFUSED ::1:5432\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":5432},"msg":"connect ECONNREFUSED ::1:5432"}
+{"level":50,"time":1692437147977,"pid":3760,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437160202,"pid":11084,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437165413,"pid":4480,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/env: 'null'"}
+{"level":50,"time":1692437165419,"pid":4480,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437206010,"pid":4200,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/env: 'null'"}
+{"level":50,"time":1692437206014,"pid":4200,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437216391,"pid":108,"hostname":"GeorgiGalechyan","msg":"@fastify/env: 'null'"}
+{"level":50,"time":1692437216399,"pid":108,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437218662,"pid":2588,"hostname":"GeorgiGalechyan","msg":"@fastify/env Plugin registration error: 'null'"}
+{"level":50,"time":1692437218666,"pid":2588,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437220513,"pid":2828,"hostname":"GeorgiGalechyan","msg":"@fastify/env  registration error: 'null'"}
+{"level":50,"time":1692437220522,"pid":2828,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437222518,"pid":3460,"hostname":"GeorgiGalechyan","msg":"@fastify/env\"  registration error: 'null'"}
+{"level":50,"time":1692437222521,"pid":3460,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437224049,"pid":13636,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\"  registration error: 'null'"}
+{"level":50,"time":1692437224054,"pid":13636,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437226317,"pid":1188,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" registration error: 'null'"}
+{"level":50,"time":1692437226321,"pid":1188,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437231435,"pid":8676,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437231439,"pid":8676,"hostname":"GeorgiGalechyan","msg":"There was an error loading @fastify/postgres: 'undefined"}
+{"level":50,"time":1692437238068,"pid":8364,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437238072,"pid":8364,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres: 'undefined"}
+{"level":50,"time":1692437240926,"pid":10984,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437240931,"pid":10984,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" куп: 'undefined"}
+{"level":50,"time":1692437245060,"pid":11460,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437245062,"pid":11460,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692437293102,"pid":6580,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437293107,"pid":6580,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692437419298,"pid":2988,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437419302,"pid":2988,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692437427595,"pid":2072,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437427601,"pid":2072,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692437429456,"pid":4080,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437429459,"pid":4080,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692437446174,"pid":3940,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437446178,"pid":3940,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692437466648,"pid":12488,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437466653,"pid":12488,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692437500200,"pid":14040,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437506614,"pid":8112,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437506618,"pid":8112,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692437565019,"pid":4184,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692437565026,"pid":4184,"hostname":"GeorgiGalechyan","msg":"\"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692438826267,"pid":3132,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692438826272,"pid":3132,"hostname":"GeorgiGalechyan","msg":"@fastify/postgres\" reg error: 'undefined"}
+{"level":50,"time":1692438827989,"pid":7864,"hostname":"GeorgiGalechyan","msg":"\"@fastify/env\" reg error: 'null'"}
+{"level":50,"time":1692438827999,"pid":7864,"hostname":"GeorgiGalechyan","msg":"@fastify/postgres reg error: 'undefined"}
+{"level":50,"time":1692438830109,"pid":8036,"hostname":"GeorgiGalechyan","msg":"@fastify/env reg error: 'null'"}
+{"level":50,"time":1692438830114,"pid":8036,"hostname":"GeorgiGalechyan","msg":"@fastify/postgres reg error: 'undefined"}
+{"level":50,"time":1692438842128,"pid":14256,"hostname":"GeorgiGalechyan","msg":"envPlugin reg error: 'null'"}
+{"level":50,"time":1692438842131,"pid":14256,"hostname":"GeorgiGalechyan","msg":"@fastify/postgres reg error: 'undefined"}
+{"level":50,"time":1692438888292,"pid":5284,"hostname":"GeorgiGalechyan","msg":"envPlugin reg error: null"}
+{"level":50,"time":1692438888295,"pid":5284,"hostname":"GeorgiGalechyan","msg":"envPlugin reg error: undefined"}
+{"level":50,"time":1692438893010,"pid":5036,"hostname":"GeorgiGalechyan","msg":"envPlugin reg error: null"}
+{"level":50,"time":1692438893015,"pid":5036,"hostname":"GeorgiGalechyan","msg":"postgresPlugin reg error: undefined"}
+{"level":50,"time":1692438923070,"pid":8840,"hostname":"GeorgiGalechyan","msg":"postgresPlugin reg error: undefined"}
+{"level":50,"time":1692438947435,"pid":5960,"hostname":"GeorgiGalechyan","msg":"postgresPlugin reg error: undefined"}
+{"level":50,"time":1692439014713,"pid":10304,"hostname":"GeorgiGalechyan","msg":"postgresPlugin reg error: undefined"}
+{"level":50,"time":1692439036516,"pid":8636,"hostname":"GeorgiGalechyan","msg":"postgresPlugin reg error: undefined"}
+{"level":50,"time":1692439041277,"pid":12332,"hostname":"GeorgiGalechyan","msg":"postgresPlugin reg error: undefined"}
+{"level":50,"time":1692439303255,"pid":8152,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"Error","message":"connect ECONNREFUSED ::1:5432","stack":"Error: connect ECONNREFUSED ::1:5432\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":5432},"msg":"connect ECONNREFUSED ::1:5432"}
+{"level":50,"time":1692439449950,"pid":8492,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"Error","message":"connect ECONNREFUSED ::1:5432","stack":"Error: connect ECONNREFUSED ::1:5432\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":5432},"msg":"connect ECONNREFUSED ::1:5432"}
+{"level":50,"time":1692440248339,"pid":7692,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"Error","message":"connect ECONNREFUSED ::1:5432","stack":"Error: connect ECONNREFUSED ::1:5432\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":5432},"msg":"connect ECONNREFUSED ::1:5432"}
+{"level":50,"time":1692440729234,"pid":992,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"Error","message":"connect ECONNREFUSED ::1:5432","stack":"Error: connect ECONNREFUSED ::1:5432\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":5432},"msg":"connect ECONNREFUSED ::1:5432"}
+{"level":50,"time":1692441043145,"pid":4432,"hostname":"GeorgiGalechyan","reqId":"req-1","err":{"type":"Error","message":"connect ECONNREFUSED ::1:5432","stack":"Error: connect ECONNREFUSED ::1:5432\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"::1","port":5432},"msg":"connect ECONNREFUSED ::1:5432"}
+{"level":50,"time":1692441161799,"pid":9848,"hostname":"GeorgiGalechyan","msg":"envPlugin reg error: Error: opts must have required property 'schema'"}
+{"level":50,"time":1692441246435,"pid":4132,"hostname":"GeorgiGalechyan","reqId":"req-2","err":{"type":"DatabaseError","message":"duplicate key value violates unique constraint \"users_login_key\"","stack":"error: duplicate key value violates unique constraint \"users_login_key\"\n    at C:\\Users\\galec\\Dev\\Lottery\\backend-lottery\\node_modules\\pg\\lib\\client.js:526:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///C:/Users/galec/Dev/Lottery/backend-lottery/src/controllers/user.js:12:13","length":197,"name":"error","severity":"ERROR","code":"23505","detail":"Key (login)=(test8) already exists.","schema":"public","table":"users","constraint":"users_login_key","file":"nbtinsert.c","line":"649","routine":"_bt_check_unique"},"msg":"duplicate key value violates unique constraint \"users_login_key\""}
