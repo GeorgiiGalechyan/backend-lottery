@@ -1,5 +1,7 @@
-import fastifyEnv from '@fastify/env'
+import fp from 'fastify-plugin'
 
-import opts from './options.js'
+import envOpts from './options.js'
 
-export default async (app) => await app.register(fastifyEnv, opts)
+export default fp(async (app, options) => {
+  await app.register(import('@fastify/env'), envOpts)
+})

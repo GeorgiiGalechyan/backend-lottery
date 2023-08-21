@@ -1,21 +1,11 @@
-// Wrap screen routes
-import start from './screens/start.js'
-import registration from './screens/registration.js'
-import gameslist from './screens/gamesList.js'
-import lotteryGame from './screens/lotteryGame.js'
-import basket from './screens/basket.js'
-
-// User route
-import createUser from './users/createUser.js'
+import { app } from '../../server.js'
 
 // Function for route registration
-export default async (app) => {
-  await app.register(start)
-  await app.register(registration)
-  await app.register(gameslist)
-  await app.register(lotteryGame)
-  await app.register(basket)
-  await app.register(createUser)
-
-  app.log.info('Routes registration is complete')
+export default async () => {
+  app.register(import('./users/createUser.js'))
+  app.register(import('./screens/start.js'))
+  app.register(import('./screens/registration.js'))
+  app.register(import('./screens/gamesList.js'))
+  app.register(import('./screens/lotteryGame.js'))
+  app.register(import('./screens/basket.js'))
 }

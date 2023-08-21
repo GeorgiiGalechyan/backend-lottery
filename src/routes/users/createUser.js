@@ -18,4 +18,4 @@ const opts = {
 
 const handler = Users.createUser
 
-export default async (app) => await app.post('/user/:username', opts, handler)
+export default async (app) => app.post('/user/:username', opts, handler)

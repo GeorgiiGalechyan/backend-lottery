@@ -1,5 +1,7 @@
-import fastifyPostgres from '@fastify/postgres'
+import fp from 'fastify-plugin'
 
-import opts from './options.js'
+import postgresOpts from './options.js'
 
-export default async (app) => app.register(fastifyPostgres, opts)
+export default fp(async (app, options) => {
+  app.register(import('@fastify/postgres'), postgresOpts)
+})
