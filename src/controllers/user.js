@@ -1,5 +1,13 @@
 import { app } from '../../src/utils/server.js'
 
+class User {
+  constructor(login, password, email) {
+    this.login = login
+    this.password = password
+    this.email = email
+  }
+}
+
 export default {
   createUser: async (request, reply) => {
     try {
