@@ -1,11 +1,11 @@
 // Imports
 import { app, start } from './server.js'
 import regPlugins from './src/plugins/regAllPlugins.js'
-import regRoutes from './src/routes/regAllRoutes.js'
+import regRoutes from './src/routes/index.js'
 
 // Main thread
-regPlugins().then(app.log.info('Plugins registration is complete'))
-regRoutes().then(app.log.info('Routes registration is complete'))
+regPlugins(app).then(app.log.info('Plugins registration is complete.\n'))
+regRoutes(app).then(app.log.info('Routes registration is complete.\n'))
 start()
 
 // Checking Pino

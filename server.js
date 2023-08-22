@@ -7,7 +7,7 @@ const serverOpts = {
 
 export const app = Fastify(serverOpts)
 
-export async function start() {
+export const start = async () => {
   try {
     await app.ready().then(app.log.info('App is ready.'))
     app.listen({
