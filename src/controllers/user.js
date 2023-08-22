@@ -1,4 +1,4 @@
-import { app } from '../../server.js'
+import { app } from '../../src/utils/server.js'
 
 export default {
   createUser: async (request, reply) => {

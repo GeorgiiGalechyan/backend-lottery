@@ -1,7 +1,5 @@
-import { app } from '../../server.js'
-
 // Function for plugins registration
-export default async () => {
+export default async (app) => {
   await app.register(import('./env/index.js'))
   await app.register(import('./postgres/index.js'))
 }

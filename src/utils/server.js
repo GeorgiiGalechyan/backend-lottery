@@ -1,5 +1,5 @@
 import Fastify from 'fastify'
-import Pino from './src/services/pino/index.js' // Pino congiguration
+import Pino from '../services/pino/index.js' // Pino congiguration
 
 const serverOpts = {
   logger: Pino ?? { level: 'info' },

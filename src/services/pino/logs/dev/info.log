@@ -5770,3 +5770,19 @@
 {"level":30,"time":1692710576493,"pid":4860,"hostname":"GeorgiGalechyan","msg":"App is ready."}
 {"level":30,"time":1692710576844,"pid":4860,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://[::1]:5500"}
 {"level":30,"time":1692710576847,"pid":4860,"hostname":"GeorgiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692730835555,"pid":10080,"hostname":"GeorgiiGalechyan","msg":"Plugins registration is complete.\n"}
+{"level":30,"time":1692730835560,"pid":10080,"hostname":"GeorgiiGalechyan","msg":"Screen routes are registered."}
+{"level":30,"time":1692730835561,"pid":10080,"hostname":"GeorgiiGalechyan","msg":"User routes are registered."}
+{"level":30,"time":1692730835561,"pid":10080,"hostname":"GeorgiiGalechyan","msg":"Routes registration is complete.\n"}
+{"level":30,"time":1692730835561,"pid":10080,"hostname":"GeorgiiGalechyan","msg":"App is ready."}
+{"level":30,"time":1692730885200,"pid":6840,"hostname":"GeorgiiGalechyan","msg":"Plugins registration is complete.\n"}
+{"level":30,"time":1692730885205,"pid":6840,"hostname":"GeorgiiGalechyan","msg":"Screen routes are registered."}
+{"level":30,"time":1692730885205,"pid":6840,"hostname":"GeorgiiGalechyan","msg":"User routes are registered."}
+{"level":30,"time":1692730885205,"pid":6840,"hostname":"GeorgiiGalechyan","msg":"Routes registration is complete.\n"}
+{"level":30,"time":1692730885206,"pid":6840,"hostname":"GeorgiiGalechyan","msg":"App is ready."}
+{"level":30,"time":1692730885525,"pid":6840,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://[::1]:5500"}
+{"level":30,"time":1692730885528,"pid":6840,"hostname":"GeorgiiGalechyan","msg":"Server listening on address http://127.0.0.1:5500"}
+{"level":30,"time":1692730916020,"pid":6840,"hostname":"GeorgiiGalechyan","reqId":"req-1","req":{"method":"POST","url":"/user/","hostname":"localhost:5500","remoteAddress":"::1","remotePort":50277},"msg":"incoming request"}
+{"level":30,"time":1692730916892,"pid":6840,"hostname":"GeorgiiGalechyan","reqId":"req-1","msg":"Пользователь '111' добавлен в таблицу 'users'"}
+{"level":30,"time":1692730916998,"pid":6840,"hostname":"GeorgiiGalechyan","msg":"Post метод отработал (logger)"}
+{"level":30,"time":1692730917005,"pid":6840,"hostname":"GeorgiiGalechyan","reqId":"req-1","res":{"statusCode":200},"responseTime":984.0115000000224,"msg":"request completed"}

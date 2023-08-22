@@ -1,6 +1,6 @@
 // Imports
-import { app, start } from './server.js'
-import regPlugins from './src/plugins/regAllPlugins.js'
+import { app, start } from './src/utils/server.js'
+import regPlugins from './src/plugins/index.js'
 import regRoutes from './src/routes/index.js'
 
 // Main thread
